@@ -69,7 +69,9 @@
     {
       "nombre": "Tema: No-Limit Hold",
       "palabras_clave": [
+        "Brock Wilson",
         "Clemen Deng",
+        "Jesse Lonis",
         "Joey Weissman",
         "John Krpan",
         "Justin Vaysman",
@@ -79,12 +81,13 @@
         "Purple Jacket"
       ],
       "alta": "2026-10-21",
-      "ultima_novedad": "2026-10-30",
+      "ultima_novedad": "2026-11-01",
       "fuentes": [
         "cardplayer.com",
         "codigopoker.com",
         "poker.org",
-        "pokernews.com"
+        "pokernews.com",
+        "tightpoker.com"
       ],
       "estado": "activo"
     },
@@ -115,7 +118,7 @@
         "poker.org",
         "pokerlistings.com"
       ],
-      "estado": "activo"
+      "estado": "inactivo"
     },
     {
       "nombre": "Tema: Pepareg1",
@@ -129,7 +132,7 @@
         "poker.org",
         "pokerlistings.com"
       ],
-      "estado": "activo"
+      "estado": "inactivo"
     },
     {
       "nombre": "Tema: Nicholas Seward",
@@ -264,6 +267,20 @@
       "fuentes": [
         "cardplayer.com",
         "pokermedia.com.au",
+        "pokernews.com"
+      ],
+      "estado": "activo"
+    },
+    {
+      "nombre": "Tema: Pierre Calamusa",
+      "palabras_clave": [
+        "Pierre Calamusa"
+      ],
+      "alta": "2026-11-01",
+      "ultima_novedad": "2026-11-01",
+      "fuentes": [
+        "codigopoker.com",
+        "poker-red.com",
         "pokernews.com"
       ],
       "estado": "activo"
