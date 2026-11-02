@@ -54,7 +54,7 @@
         "Purple Jacket."
       ],
       "alta": "2026-10-18",
-      "ultima_novedad": "2026-10-30",
+      "ultima_novedad": "2026-11-02",
       "fuentes": [
         "cardplayer.com",
         "codigopoker.com",
@@ -81,7 +81,7 @@
         "Purple Jacket"
       ],
       "alta": "2026-10-21",
-      "ultima_novedad": "2026-11-01",
+      "ultima_novedad": "2026-11-02",
       "fuentes": [
         "cardplayer.com",
         "codigopoker.com",
@@ -278,6 +278,20 @@
       ],
       "alta": "2026-11-01",
       "ultima_novedad": "2026-11-01",
+      "fuentes": [
+        "codigopoker.com",
+        "poker-red.com",
+        "pokernews.com"
+      ],
+      "estado": "activo"
+    },
+    {
+      "nombre": "Tema: Nacho Barbero",
+      "palabras_clave": [
+        "Nacho Barbero"
+      ],
+      "alta": "2026-11-02",
+      "ultima_novedad": "2026-11-02",
       "fuentes": [
         "codigopoker.com",
         "poker-red.com",

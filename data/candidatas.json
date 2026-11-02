@@ -129,42 +129,6 @@
   ],
   "menciones": [
     {
-      "dominio": "thehendonmob.com",
-      "articulo": "https://www.pokernews.com/news/2026/10/joe-hachem-winners-circle-victorian-poker-championship-52627.htm",
-      "enlace": "https://pokerdb.thehendonmob.com/ranking/191/#30",
-      "fecha": "2026-10-19"
-    },
-    {
-      "dominio": "pokernews.com",
-      "articulo": "https://www.pokernewsdaily.com/ggpoker-prohibits-thirdparty-tools-rolls-security-49136/",
-      "enlace": "https://www.pokernews.com/news/2026/10/ggpoker-bans-huds-52622.htm",
-      "fecha": "2026-10-19"
-    },
-    {
-      "dominio": "thehendonmob.com",
-      "articulo": "https://www.pokernews.com/news/2026/10/sam-chartier-wins-mspt-canadian-poker-championship-52631.htm",
-      "enlace": "https://pokerdb.thehendonmob.com/player.php?a=r&n=79139&sort=date&dir=desc",
-      "fecha": "2026-10-19"
-    },
-    {
-      "dominio": "msptpoker.com",
-      "articulo": "https://www.pokernews.com/news/2026/10/sam-chartier-wins-mspt-canadian-poker-championship-52631.htm",
-      "enlace": "https://msptpoker.com/",
-      "fecha": "2026-10-19"
-    },
-    {
-      "dominio": "capoker.com.ar",
-      "articulo": "https://codigopoker.com/torneos-argentina/ranking-cap-siete-fechas",
-      "enlace": "https://capoker.com.ar",
-      "fecha": "2026-10-19"
-    },
-    {
-      "dominio": "maderopoker.com.ar",
-      "articulo": "https://codigopoker.com/torneos-argentina/ranking-cap-siete-fechas",
-      "enlace": "https://maderopoker.com.ar/",
-      "fecha": "2026-10-19"
-    },
-    {
       "dominio": "pokernews.com",
       "articulo": "https://www.reddit.com/r/poker/comments/1xaovz2/australian_poker_legend_joe_hachem_victorious_at/",
       "enlace": "https://www.pokernews.com/news/2026/10/joe-hachem-winners-circle-victorian-poker-championship-52627.htm",
@@ -1141,6 +1105,42 @@
       "articulo": "https://codigopoker.com/noticias/torneos/wsop/nacho-barbero-final-wsop-circuit-madrid",
       "enlace": "https://www.wsop.com/",
       "fecha": "2026-11-01"
+    },
+    {
+      "dominio": "raig.org",
+      "articulo": "https://www.pokernews.com/news/2026/11/bo-hoebe-wins-wsopc-madrid-main-event-52718.htm",
+      "enlace": "https://www.raig.org/",
+      "fecha": "2026-11-02"
+    },
+    {
+      "dominio": "gamblingtherapy.org",
+      "articulo": "https://www.pokernews.com/news/2026/11/bo-hoebe-wins-wsopc-madrid-main-event-52718.htm",
+      "enlace": "https://www.gamblingtherapy.org/en",
+      "fecha": "2026-11-02"
+    },
+    {
+      "dominio": "responsiblegambling.org",
+      "articulo": "https://www.pokernews.com/news/2026/11/bo-hoebe-wins-wsopc-madrid-main-event-52718.htm",
+      "enlace": "https://www.responsiblegambling.org/",
+      "fecha": "2026-11-02"
+    },
+    {
+      "dominio": "pokercoaching.com",
+      "articulo": "https://www.cardplayer.com/poker-news/1768038-borgata-director-out-after-12-years-what-does-it-mean-for-poker-in-atlantic-city",
+      "enlace": "https://cardplayer.pokercoaching.com/courses",
+      "fecha": "2026-11-02"
+    },
+    {
+      "dominio": "ig.me",
+      "articulo": "https://pokernoticias.com/camilo-correa-conquista-el-mystery-bounty-y-sigue-sumando-titulos-en-las-wps/",
+      "enlace": "https://ig.me/m/pokernoticiaslatam_",
+      "fecha": "2026-11-02"
+    },
+    {
+      "dominio": "ig.me",
+      "articulo": "https://pokernoticias.com/nueve-finalistas-y-250-millones-en-juego-el-main-event-de-las-wps-medellin-busca-campeon/",
+      "enlace": "https://ig.me/m/pokernoticiaslatam_",
+      "fecha": "2026-11-02"
     }
   ]
 }

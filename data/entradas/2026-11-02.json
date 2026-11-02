@@ -1,0 +1,441 @@
+{
+  "fecha": "2026-11-02",
+  "corridas": [
+    {
+      "id": "2026-11-02T12:00:25Z",
+      "notas": [
+        {
+          "n": 1,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/bo-hoebe-wins-wsopc-madrid-main-event-52718.htm",
+          "titular": "Bo Hoebe Overcomes Nacho Barbero to Win Second WSOP Circuit Ring (€207,000)",
+          "primera_frase": "Hoebe came out on top of a 918-strong crowd in the €1,500 WSOPC Madrid Main Event."
+        },
+        {
+          "n": 2,
+          "fuente": "Pokerfuse",
+          "url": "https://pokerfuse.com/latest-news/2026/11/flip-go-millionaire-and-plo-series-bring-heated/",
+          "titular": "Flip & Go Millionaire and PLO Series Bring Heated Tournament Action to GGPoker This November",
+          "primera_frase": ""
+        },
+        {
+          "n": 3,
+          "fuente": "GamblingNews",
+          "url": "https://www.gamblingnews.com/news/texas-police-bust-2m-illegal-gambling-dens/",
+          "titular": "Texas Police Bust $2M Illegal Gambling Dens",
+          "primera_frase": "The Galveston Police Department Vice and Narcotics Unit conducted 21 search-and-arrest warrants across the county on Thursday, October 29, resulting in the bust of an illegal gambling network."
+        },
+        {
+          "n": 4,
+          "fuente": "PokerNewsDaily",
+          "url": "https://www.pokernewsdaily.com/nicolette-shea-loses-19500-allin-pocket-49242/",
+          "titular": "Nicolette Shea Loses All-In Pot to AI Guy on Hustler Casino Live",
+          "primera_frase": "A Hustler Casino Live cash-game hand ended badly for Nicolette Shea after she committed her stack with pocket tens, only to see the pot go to a player known as AI Guy."
+        },
+        {
+          "n": 5,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1770842-watch-porn-star-hit-by-poker-karma-after-early-celebration",
+          "titular": "WATCH: Porn Star Hit By Poker Karma After Early Celebration",
+          "primera_frase": "Porn star Nicolette Shea celebrated a bit too early after the flop, and the poker gods responded with a one-outer on the river for some karma."
+        },
+        {
+          "n": 6,
+          "fuente": "Poker Industry PRO",
+          "url": "https://pokerindustrypro.com/news/article/226134-winamax-launches-online-poker-and-sports-betting",
+          "titular": "Winamax Launches Online Poker and Sports Betting in Italy",
+          "primera_frase": "French online poker giant Winamax has launched online sports betting and poker in Italy under a new Italian license."
+        },
+        {
+          "n": 7,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xlv12l/when_you_donk_pot_with_the_nut_flush_blocker_and/",
+          "titular": "When you donk pot with the nut flush blocker and villain calls",
+          "primera_frase": "submitted by /u/Burford_Turdgirth [link] [comentarios]"
+        },
+        {
+          "n": 8,
+          "fuente": "PokerNews en español",
+          "url": "https://es.pokernews.com/noticias/2026/11/celebra-antes-de-tiempo-y-sufre-un-brutal-bad-beat-en-hustle-54178.htm",
+          "titular": "Celebra antes de tiempo y sufre un brutal bad beat en Hustler Casino Live",
+          "primera_frase": "Nicolette Seha celebró su set de dieces antes de que terminara la acción y acabó perdiendo en el river."
+        },
+        {
+          "n": 9,
+          "fuente": "Poker Noticias",
+          "url": "https://pokernoticias.com/camilo-correa-conquista-el-mystery-bounty-y-sigue-sumando-titulos-en-las-wps/",
+          "titular": "¡Camilo Correa conquista el Mystery Bounty y sigue sumando títulos en las WPS!",
+          "primera_frase": "El colombiano Camilo Correa volvió a celebrar en las Winner Poker Series (WPS) 2026, esta vez tras coronarse campeón del Mystery Bounty en la última parada del circuito en Medellín."
+        },
+        {
+          "n": 10,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/torneos/wsop/nacho-barbero-quedo-a-un-river-del-anillo-en-el-wsop-circuit-madrid",
+          "titular": "Nacho Barbero quedó a un river del anillo en el WSOP Circuit Madrid",
+          "primera_frase": ""
+        },
+        {
+          "n": 11,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/juan-pardo-lidera-la-ft-del-ggmillionUSD-y-apunta-a-los-404.362-USD",
+          "titular": "Juan Pardo lidera la FT del GGMillion$ y apunta a los 404.362 $",
+          "primera_frase": "ggmillion$"
+        },
+        {
+          "n": 12,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/even-the-pros-need-coaching-faraz-jaka-takes-the-hot-seat-in-52710.htm",
+          "titular": "Even the Pros Need Coaching: Faraz Jaka Takes the Hot Seat",
+          "primera_frase": "Faraz Jaka gets expert feedback from top poker pros in JAKAcoaching’s strategy series."
+        },
+        {
+          "n": 13,
+          "fuente": "GamblingNews",
+          "url": "https://www.gamblingnews.com/news/online-poker-malware-scandal-could-have-cost-players-4m/",
+          "titular": "Online Poker Malware Scandal Could Have Cost Players $4M",
+          "primera_frase": "A sophisticated hack targeting big-stakes online poker players may have scored between $1.5 million and $4 million in illicit winnings."
+        },
+        {
+          "n": 14,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1770728-chris-moneymaker-launches-newsletter-featuring-big-poker-wins-personal-picks-and-giveaways",
+          "titular": "Chris Moneymaker Launches Newsletter Featuring Big Poker Wins, Personal Picks, And Giveaways",
+          "primera_frase": "ACR Poker ambassador and WSOP main event champion Chris Moneymaker has launched a weekly newsletter featuring big winners and more."
+        },
+        {
+          "n": 15,
+          "fuente": "Poker Industry PRO",
+          "url": "https://pokerindustrypro.com/news/article/226122-market-monitor-new-york-sports-betting-september",
+          "titular": "Market Monitor: New York Sports Betting September 2026",
+          "primera_frase": "New York online sports betting revenue fell 18% year-over-year to $159 million, the second weakest month in the past 14 months."
+        },
+        {
+          "n": 16,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xludsk/j4s_on_the_bb_at_the_final_table/",
+          "titular": "J4s on the BB at the final table",
+          "primera_frase": "Final table, 7 players left. Position: BB Hero: J4s Stack: 7BB Blinds: 2000/4000 ( blinds were going to increase to 3000/6000 on the next hand) I’m on the BB."
+        },
+        {
+          "n": 17,
+          "fuente": "PokerNews en español",
+          "url": "https://es.pokernews.com/noticias/2026/11/jay-hoebe-conquista-el-main-event-wsop-circuit-madrid-54177.htm",
+          "titular": "Jay Hoebe conquista el Main Event del WSOP Circuit Madrid por 207.000 €",
+          "primera_frase": "El neerlandés derrotó a Nacho Barbero en el heads-up y conquistó su segundo anillo del circuito."
+        },
+        {
+          "n": 18,
+          "fuente": "Poker Noticias",
+          "url": "https://pokernoticias.com/nueve-finalistas-y-250-millones-en-juego-el-main-event-de-las-wps-medellin-busca-campeon/",
+          "titular": "Nueve finalistas y $250 millones en juego: el Main Event de las WPS Medellín busca campeón",
+          "primera_frase": "El venezolano Eduardo Osorio lidera la mesa final de las Winner Poker Series 2026, en una definición que promete cerrar por todo lo alto la última parada del circuito en Medellín."
+        },
+        {
+          "n": 19,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/el-cnp-winamax-estrena-el-poker-como-escuela-de-vida",
+          "titular": "El CNP Winamax estrena «El poker como escuela de vida»",
+          "primera_frase": "CNP Winamax"
+        },
+        {
+          "n": 20,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/strategy/gto-wizard-did-phil-ivey-punt-with-pocket-aces-52717.htm",
+          "titular": "GTO Wizard: Did Phil Ivey Punt With Pocket Aces?",
+          "primera_frase": "Did Ivey really punt?"
+        },
+        {
+          "n": 21,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xlts6h/social_anxiety_live_bad_combo/",
+          "titular": "Social Anxiety + Live-- bad combo?",
+          "primera_frase": "Hi Only play 1/2 online and home games. Pretty gnarly social anxiety and have been getting over agoraphobia."
+        },
+        {
+          "n": 22,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/jay-hoebe-gana-el-main-event-wsop-c-madrid-por-207.000-eu",
+          "titular": "Jay Hoebe gana el Main Event WSOP-C Madrid por 207.000 €",
+          "primera_frase": "WSOPC Madrid"
+        },
+        {
+          "n": 23,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/10/hands-of-the-week-wpt-bay-101-shooting-star-52702.htm",
+          "titular": "Hands of the Week: Two Hellmuths Among Shooting Stars to Burn Out at WPT Bay 101",
+          "primera_frase": "Big hands were played by the three hosts of the PokerNews Podcast!"
+        },
+        {
+          "n": 24,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2024/04/what-you-can-win-on-pokerstars-power-path-this-month-45788.htm",
+          "titular": "Huge Live & Online Poker Packages Up for Grabs on Power Path in November",
+          "primera_frase": "Check out where the Power Path can take you this month!"
+        },
+        {
+          "n": 25,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1769296-sergei-kislinskii-captures-pgt-sprint-event-no-4-title",
+          "titular": "Sergei Kislinskii Captures PGT Sprint Event No. 4 Title",
+          "primera_frase": "Sergei Kislinskii bested 57 entries in PGT Sprint event no."
+        },
+        {
+          "n": 26,
+          "fuente": "Poker Industry PRO",
+          "url": "https://pokerindustrypro.com/news/article/226123-market-monitor-ontario-september-2026",
+          "titular": "Market Monitor: Ontario September 2026",
+          "primera_frase": "The Ontario regulator reported that online poker enjoyed surprising growth in September 2026."
+        },
+        {
+          "n": 27,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xlgts9/i_decided_to_play_a_daily_tournament_at_wynn_to/",
+          "titular": "I decided to play a daily tournament at Wynn to “socialize”",
+          "primera_frase": "I sat down and promptly lost half my stack to the grumpiest old man."
+        },
+        {
+          "n": 28,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/rooms-y-plataformas/ignition/en-ignition-poker-noviembre-empieza-con-los-especiales-de-domingo",
+          "titular": "En Ignition Poker, noviembre empieza con los Especiales de domingo",
+          "primera_frase": ""
+        },
+        {
+          "n": 29,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/winamax-celebra-halloween-y-prepara-20-millones-para-las-pokus-series",
+          "titular": "Winamax celebra Halloween y prepara 20 millones para las Pokus Series",
+          "primera_frase": "Winamax España"
+        },
+        {
+          "n": 30,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/casino/news/2026/11/the-best-no-deposit-codes-november-2026-52712.htm",
+          "titular": "The Best No Deposit Codes: November 2026",
+          "primera_frase": "Check out the best no deposit online casino bonuses for November 2026."
+        },
+        {
+          "n": 31,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1768038-borgata-director-out-after-12-years-what-does-it-mean-for-poker-in-atlantic-city",
+          "titular": "Borgata Director Out After 12 Years: What Does It Mean For Poker In Atlantic City?",
+          "primera_frase": "Borgata was once the premier East Coast poker room."
+        },
+        {
+          "n": 32,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xlk6lz/i_won_the_first_day_1_flight_of_the_5m_bagged/",
+          "titular": "I won the first Day 1 flight of the $5M. Bagged over $1M for Day 2!",
+          "primera_frase": "submitted by /u/SoManyMinutes [link] [comentarios]"
+        },
+        {
+          "n": 33,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/torneos-mexico/daniel-uscanga-destaco-con-el-liderato-al-dia-3-del-main-en-psop-calaverita",
+          "titular": "Daniel Uscanga destacó con el liderato al Día 3 del Main en PSOP Calaverita",
+          "primera_frase": ""
+        },
+        {
+          "n": 34,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/sixers-anuncia-las-fechas-de-sus-cinco-paradas-para-2027",
+          "titular": "SIXERS anuncia las fechas de sus cinco paradas para 2027",
+          "primera_frase": "Sixers 2027"
+        },
+        {
+          "n": 35,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/10/premature-hustler-casino-live-celebration-52716.htm",
+          "titular": "Poor Etiquette? Adult Film Star’s Early Celebration Ends With 'Poker Karma'",
+          "primera_frase": "This is a brutal but perhaps deserving way to lose a hand."
+        },
+        {
+          "n": 36,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xl1on9/this_dude/",
+          "titular": "This dude 😂",
+          "primera_frase": "submitted by /u/VegetableZone6705 [link] [comentarios]"
+        },
+        {
+          "n": 37,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/mike-caro-el-genio-loco-us100",
+          "titular": "Mike Caro, el genio loco del poker que quemaba billetes de US$100 para ganar miles",
+          "primera_frase": ""
+        },
+        {
+          "n": 38,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/10/why-pokers-mad-genius-used-to-set-bills-on-fire-52715.htm",
+          "titular": "Trick or Treat? Why 'Mad Genius of Poker' Used to Set $100 Bills on Fire",
+          "primera_frase": "Mike Caro was a special guest on recent PokerNews Podcasts."
+        },
+        {
+          "n": 39,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/videos/nunca-celebres-antes-del-river-el-brutal",
+          "titular": "¡Nunca celebres antes del river! El brutal castigo a una estrella del cine para adultos",
+          "primera_frase": ""
+        },
+        {
+          "n": 40,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/torneos-eeuu/dorian-pavon-pgt-sprint",
+          "titular": "Dorian Pavon dejó la bandera venezolana en alto con una mesa final en el PGT Sprint",
+          "primera_frase": ""
+        },
+        {
+          "n": 41,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/casino-poker-penthouse-malasia-detenidos",
+          "titular": "Montaron un casino de poker en un penthouse y terminaron detenidos",
+          "primera_frase": ""
+        },
+        {
+          "n": 42,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/giselle54-gano-4-8-millones-poker-online",
+          "titular": "Nadie sabe quién es y ganó casi 4,8 millones en un mes de cash en poker",
+          "primera_frase": ""
+        },
+        {
+          "n": 43,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/cipriani-locanda-casino-diciembre-punta-del-este",
+          "titular": "Cipriani abrió Locanda en Punta del Este y sumará un casino en diciembre",
+          "primera_frase": ""
+        },
+        {
+          "n": 44,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/rooms-y-plataformas/acr-poker-torneos-turbo-tuesday",
+          "titular": "Premio extra en ACR Poker: regala US$50 en entradas a torneos Turbo Tuesday a quienes depositen en martes",
+          "primera_frase": ""
+        },
+        {
+          "n": 45,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/rooms-y-plataformas/series-de-halloween-en-bcpoker",
+          "titular": "Últimos días de las Series de Halloween en BCPoker con el US$20K Apex y los Mystery Bounty",
+          "primera_frase": ""
+        }
+      ],
+      "tipo": "seleccion"
+    },
+    {
+      "id": "2026-11-02T12:00:25Z",
+      "notas": [
+        {
+          "n": 1,
+          "fuente": "PokerNews en español",
+          "url": "https://es.pokernews.com/noticias/2026/11/el-cnp-winamax-estrena-el-poker-como-escuela-de-vida-documen-54179.htm",
+          "titular": "El CNP Winamax estrena \"El póker como escuela de vida\", un documental sobre lo que enseñan las mesas",
+          "primera_frase": "Adrián Mateos, Leo Margets y otros rostros del póker comparten sus experiencias personales.",
+          "tema": "Tema: Adrián Mateos"
+        },
+        {
+          "n": 2,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/poker-y-trading-con-adrian-mateos-y-alberto-chan-en-el-capitulo-399",
+          "titular": "Poker y trading con Adrián Mateos y Alberto Chan en el capítulo 399",
+          "primera_frase": "MarcaPóker",
+          "con_extracto": true,
+          "tema": "Tema: Adrián Mateos"
+        },
+        {
+          "n": 3,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/bo-hoebe-wins-wsopc-madrid-main-event-52718.htm",
+          "titular": "Bo Hoebe Overcomes Nacho Barbero to Win Second WSOP Circuit Ring (€207,000)",
+          "primera_frase": "Hoebe came out on top of a 918-strong crowd in the €1,500 WSOPC Madrid Main Event.",
+          "con_extracto": true
+        },
+        {
+          "n": 4,
+          "fuente": "PokerNews en español",
+          "url": "https://es.pokernews.com/noticias/2026/11/jay-hoebe-conquista-el-main-event-wsop-circuit-madrid-54177.htm",
+          "titular": "Jay Hoebe conquista el Main Event del WSOP Circuit Madrid por 207.000 €",
+          "primera_frase": "El neerlandés derrotó a Nacho Barbero en el heads-up y conquistó su segundo anillo del circuito."
+        },
+        {
+          "n": 5,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/jay-hoebe-gana-el-main-event-wsop-c-madrid-por-207.000-eu",
+          "titular": "Jay Hoebe gana el Main Event WSOP-C Madrid por 207.000 €",
+          "primera_frase": "WSOPC Madrid"
+        },
+        {
+          "n": 6,
+          "fuente": "Poker Industry PRO",
+          "url": "https://pokerindustrypro.com/news/article/226134-winamax-launches-online-poker-and-sports-betting",
+          "titular": "Winamax Launches Online Poker and Sports Betting in Italy",
+          "primera_frase": "French online poker giant Winamax has launched online sports betting and poker in Italy under a new Italian license."
+        },
+        {
+          "n": 7,
+          "fuente": "GamblingNews",
+          "url": "https://www.gamblingnews.com/news/online-poker-malware-scandal-could-have-cost-players-4m/",
+          "titular": "Online Poker Malware Scandal Could Have Cost Players $4M",
+          "primera_frase": "A sophisticated hack targeting big-stakes online poker players may have scored between $1.5 million and $4 million in illicit winnings.",
+          "con_extracto": true
+        },
+        {
+          "n": 8,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1769296-sergei-kislinskii-captures-pgt-sprint-event-no-4-title",
+          "titular": "Sergei Kislinskii Captures PGT Sprint Event No. 4 Title",
+          "primera_frase": "Sergei Kislinskii bested 57 entries in PGT Sprint event no.",
+          "con_extracto": true
+        },
+        {
+          "n": 9,
+          "fuente": "Poker Industry PRO",
+          "url": "https://pokerindustrypro.com/news/article/226123-market-monitor-ontario-september-2026",
+          "titular": "Market Monitor: Ontario September 2026",
+          "primera_frase": "The Ontario regulator reported that online poker enjoyed surprising growth in September 2026."
+        },
+        {
+          "n": 10,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1768038-borgata-director-out-after-12-years-what-does-it-mean-for-poker-in-atlantic-city",
+          "titular": "Borgata Director Out After 12 Years: What Does It Mean For Poker In Atlantic City?",
+          "primera_frase": "Borgata was once the premier East Coast poker room.",
+          "con_extracto": true
+        },
+        {
+          "n": 11,
+          "fuente": "Poker Noticias",
+          "url": "https://pokernoticias.com/camilo-correa-conquista-el-mystery-bounty-y-sigue-sumando-titulos-en-las-wps/",
+          "titular": "¡Camilo Correa conquista el Mystery Bounty y sigue sumando títulos en las WPS!",
+          "primera_frase": "El colombiano Camilo Correa volvió a celebrar en las Winner Poker Series (WPS) 2026, esta vez tras coronarse campeón del Mystery Bounty en la última parada del circuito en Medellín.",
+          "con_extracto": true
+        },
+        {
+          "n": 12,
+          "fuente": "Poker Noticias",
+          "url": "https://pokernoticias.com/nueve-finalistas-y-250-millones-en-juego-el-main-event-de-las-wps-medellin-busca-campeon/",
+          "titular": "Nueve finalistas y $250 millones en juego: el Main Event de las WPS Medellín busca campeón",
+          "primera_frase": "El venezolano Eduardo Osorio lidera la mesa final de las Winner Poker Series 2026, en una definición que promete cerrar por todo lo alto la última parada del circuito en Medellín.",
+          "con_extracto": true
+        },
+        {
+          "n": 13,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/torneos-mexico/daniel-uscanga-destaco-con-el-liderato-al-dia-3-del-main-en-psop-calaverita",
+          "titular": "Daniel Uscanga destacó con el liderato al Día 3 del Main en PSOP Calaverita",
+          "primera_frase": "",
+          "con_extracto": true
+        },
+        {
+          "n": 14,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/torneos-eeuu/dorian-pavon-pgt-sprint",
+          "titular": "Dorian Pavon dejó la bandera venezolana en alto con una mesa final en el PGT Sprint",
+          "primera_frase": "",
+          "con_extracto": true
+        }
+      ],
+      "tipo": "redaccion"
+    }
+  ]
+}
