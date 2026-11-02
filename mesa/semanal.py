@@ -27,15 +27,13 @@ from .util import RAIZ, ahora_utc, escribir_json, escribir_texto, fecha_corta, l
 SISTEMA_BRIEF = """Usted prepara el brief semanal interno de "Mesa Caliente" para el equipo editorial. Escriba en español neutro y formal, sin voseo (use "usted" o formas impersonales).
 
 Recibirá el registro de la semana:
-- Hechos H1, H2…: fecha | tipo | clasificación | sección | título | salas | jugadores (país) | torneo | país del evento | temas calientes | fuentes. Los marcados (latino) tienen protagonistas o torneos latinos.
-- Cambios en salas C1, C2…: fecha | sala | tema | dato tal como lo dice la fuente | fuente.
+- Hechos H1, H2…: fecha | título | clasificación (si no es confirmado) | salas | jugadores (país) | torneo | país del evento | temas calientes. Solo figuran los campos con dato. Los marcados (latino) tienen protagonistas o torneos latinos.
 - Ideas de artículos I1, I2…: ya elegidas por el programa, con su motivo.
 
 Escriba:
 1. "temas": hasta {max_temas} temas de la semana, cada uno con "texto" (una o dos oraciones) e "ids" (los hechos H que lo respaldan).
-2. "cambios": los cambios en salas, agrupados por sala, con "texto" e "ids" (los C). Puede citar el dato entre comillas, copiado tal cual.
-3. "latinos": jugadores y torneos latinos destacados, solo con hechos marcados (latino), con "texto" e "ids".
-4. "ideas": para cada idea I, "id" y "texto": una oración con el ángulo posible del artículo.
+2. "latinos": jugadores y torneos latinos destacados, solo con hechos marcados (latino), con "texto" e "ids".
+3. "ideas": para cada idea I, "id" y "texto": una oración con el ángulo posible del artículo.
 
 Reglas:
 - REGLA MÁXIMA: use solo lo que está en el registro recibido. Todo nombre, cifra, país, torneo o sala debe figurar en las líneas que cita ese elemento. No agregue contexto, fechas ni datos de su conocimiento. El programa quita las oraciones con datos que no estén en esas líneas.
@@ -43,12 +41,11 @@ Reglas:
 - No use superlativos ni elogios. Conserve la jerga del poker y los nombres de eventos en inglés.
 
 Responda únicamente con un objeto JSON, sin texto adicional:
-{{"temas": [{{"texto": "...", "ids": ["H1", "H4"]}}], "cambios": [{{"texto": "...", "ids": ["C1"]}}],
+{{"temas": [{{"texto": "...", "ids": ["H1", "H4"]}}],
  "latinos": [{{"texto": "...", "ids": ["H3"]}}], "ideas": [{{"id": "I1", "texto": "..."}}]}}"""
 
 MAX_TEMAS = 8
 CLASIFICACIONES = {"confirmado": "confirmado", "discusion": "en discusión", "rumor": "rumor"}
-SECCIONES = {"general": "general", "latam": "escena latina", "tema": "tema caliente"}
 
 
 # ---------------------------------------------------------------- semana
@@ -135,6 +132,23 @@ def _semanas_seguidas(tema: str, todos: list[dict], desde: date, hasta: date) ->
     return seguidas
 
 
+PREFIJO_TEMA_AUTO = "Tema: "  # así nombra mesa/temas.py a los temas calientes automáticos
+
+
+def _nombre_idea(grupo: list[dict], temas: list[str], torneos: list[str]) -> str:
+    """Nombre de la idea. Un tema caliente manual conserva su nombre. Un tema automático se nombra por un
+    nombre propio que se repitió (puede ser una modalidad o una base de datos, como «No-Limit Hold'em» o
+    «Hendon Mob»), así que la idea se nombra por el torneo escrito en el registro (el más repetido) o, si el
+    grupo es un solo hecho, por su título. Sin torneo y con varios hechos, queda el nombre del tema."""
+    if not temas:
+        return torneos[0] if len(grupo) > 1 and torneos else grupo[0]["titulo"]  # como antes
+    if not temas[0].startswith(PREFIJO_TEMA_AUTO):
+        return temas[0]
+    if torneos:
+        return max(torneos, key=lambda t: (torneos.count(t), -torneos.index(t)))
+    return grupo[0]["titulo"] if len(grupo) == 1 else temas[0]
+
+
 def ideas_candidatas(todos: list[dict], desde: date, hasta: date) -> list[dict]:
     """Ideas de artículos, con su motivo. Un hecho o tema entra si en la semana:
     - lo contaron 3 o más fuentes distintas, o
@@ -145,7 +159,7 @@ def ideas_candidatas(todos: list[dict], desde: date, hasta: date) -> list[dict]:
     for grupo in _agrupar(semana):
         temas = [t for h in grupo for t in h.get("temas_calientes") or []]
         torneos = [h["torneo"] for h in grupo if h.get("torneo")]
-        nombre = temas[0] if temas else torneos[0] if len(grupo) > 1 and torneos else grupo[0]["titulo"]
+        nombre = _nombre_idea(grupo, temas, torneos)
         dias = sorted({h["fecha"] for h in grupo})
         fuentes = {f.get("nombre") for h in grupo for f in h.get("fuentes") or []}
         seguidas = max((_semanas_seguidas(t, todos, desde, hasta) for t in set(temas)), default=0)
@@ -166,35 +180,40 @@ def ideas_candidatas(todos: list[dict], desde: date, hasta: date) -> list[dict]:
 # ---------------------------------------------------------------- mensaje
 
 def linea_hecho(h: dict) -> str:
+    """Solo lo que el modelo usa para escribir: sin tipo, sección ni fuentes (las fuentes las pone el programa)
+    y sin campos vacíos. La clasificación va solo si no es «confirmado»."""
     jugadores = ", ".join(j["nombre"] + (f" ({j['pais']})" if j.get("pais") else "") for j in h.get("jugadores") or [])
-    partes = [h.get("fecha") or "", registro_mod.TIPOS.get(h.get("tipo"), "Otro").lower(),
-              CLASIFICACIONES.get(h.get("clasificacion"), h.get("clasificacion") or ""),
-              SECCIONES.get(h.get("seccion"), h.get("seccion") or ""), h.get("titulo") or "",
-              "salas: " + (", ".join(h.get("salas") or []) or "-"), "jugadores: " + (jugadores or "-"),
-              "torneo: " + (h.get("torneo") or "-"), "país del evento: " + (h.get("pais_evento") or "-"),
-              "temas: " + (", ".join(h.get("temas_calientes") or []) or "-"),
-              "fuentes: " + ", ".join(f.get("nombre") or "" for f in h.get("fuentes") or [])]
-    return " | ".join(limpiar_texto(p) for p in partes)
+    clasificacion = h.get("clasificacion")
+    partes = [h.get("fecha") or "", h.get("titulo") or "",
+              CLASIFICACIONES.get(clasificacion, clasificacion or "") if clasificacion != "confirmado" else "",
+              "salas: " + ", ".join(h.get("salas") or []) if h.get("salas") else "",
+              "jugadores: " + jugadores if jugadores else "",
+              "torneo: " + h["torneo"] if h.get("torneo") else "",
+              "país del evento: " + h["pais_evento"] if h.get("pais_evento") else "",
+              "temas: " + ", ".join(h["temas_calientes"]) if h.get("temas_calientes") else ""]
+    return " | ".join(limpiar_texto(p) for p in partes if p)
 
 
-def linea_cambio(c: dict, temas: dict) -> str:
-    return " | ".join(limpiar_texto(p) for p in [
-        c.get("fecha") or "", c.get("sala") or "", temas.get(c.get("tema"), c.get("tema") or ""),
-        c.get("dato") or "", (c.get("fuente") or {}).get("nombre") or ""])
+def cambios_del_registro(cambios: list[dict], temas_salas: dict) -> list[dict]:
+    """La sección «Cambios en salas» del brief: las mismas líneas del registro que cuenta el encabezado
+    (misma fuente y mismo rango de fechas), con el dato tal como lo dice la fuente. No pasa por el modelo."""
+    salida = []
+    for c in sorted(cambios, key=lambda c: (c.get("fecha") or "", c.get("sala") or "")):
+        fuente = c.get("fuente") or {}
+        tema = temas_salas.get(c.get("tema"), c.get("tema") or "")
+        texto = f"{c.get('sala') or ''} · {tema} · {fecha_corta(date.fromisoformat(c['fecha']))}: «{limpiar_texto(c.get('dato') or '')}»"
+        salida.append({"texto": texto, "fuentes": [{"nombre": fuente.get("nombre"), "url": fuente["url"]}]
+                       if fuente.get("url") else []})
+    return salida
 
 
-def construir_mensaje(hechos: list[dict], cambios: list[dict], ideas: list[dict], temas_salas: dict,
-                      etiqueta: str) -> tuple[str, dict[str, str]]:
-    """Mensaje para el modelo y el texto de cada referencia (H, C, I) para verificar lo que escriba."""
+def construir_mensaje(hechos: list[dict], ideas: list[dict], etiqueta: str) -> tuple[str, dict[str, str]]:
+    """Mensaje para el modelo y el texto de cada referencia (H, I) para verificar lo que escriba."""
     refs: dict[str, str] = {}
     lineas = [f"Registro de la semana {etiqueta}.", "", "Hechos:"]
     for n, h in enumerate(hechos, 1):
         refs[f"H{n}"] = linea_hecho(h)
         lineas.append(f"[H{n}]{' (latino)' if es_latino(h) else ''} {refs[f'H{n}']}")
-    lineas += ["", "Cambios en salas:"]
-    for n, c in enumerate(cambios, 1):
-        refs[f"C{n}"] = linea_cambio(c, temas_salas)
-        lineas.append(f"[C{n}] {refs[f'C{n}']}")
     lineas += ["", "Ideas de artículos (elegidas por el programa):"]
     for idea in ideas:
         ids = [f"H{hechos.index(h) + 1}" for h in idea["hechos"] if h in hechos]
@@ -214,11 +233,10 @@ def _ids(valor, prefijo: str, refs: dict) -> list[str]:
     return ids
 
 
-def verificar(datos: dict, refs: dict, hechos: list[dict], cambios: list[dict],
-              ideas: list[dict]) -> tuple[dict, list[str]]:
+def verificar(datos: dict, refs: dict, hechos: list[dict], ideas: list[dict]) -> tuple[dict, list[str]]:
     """Cada texto debe citar líneas del registro y solo puede decir lo que está en ellas."""
     controles: list[str] = []
-    salida = {"temas": [], "cambios": [], "latinos": [], "ideas": {}}
+    salida = {"temas": [], "latinos": [], "ideas": {}}
 
     def depurar(texto, ids, seccion):
         texto = limpiar_texto(str(texto or ""))
@@ -229,7 +247,7 @@ def verificar(datos: dict, refs: dict, hechos: list[dict], cambios: list[dict],
         controles.extend(f"{seccion}: {q}" for q in quitadas)
         return limpio
 
-    for seccion, prefijo in (("temas", "H"), ("cambios", "C"), ("latinos", "H")):
+    for seccion, prefijo in (("temas", "H"), ("latinos", "H")):
         elementos = datos.get(seccion) if isinstance(datos.get(seccion), list) else []
         for e in elementos[:MAX_TEMAS if seccion == "temas" else None]:
             if not isinstance(e, dict):
@@ -240,10 +258,7 @@ def verificar(datos: dict, refs: dict, hechos: list[dict], cambios: list[dict],
             texto = depurar(e.get("texto"), ids, seccion)
             if not texto:
                 continue
-            if prefijo == "H":
-                fuentes = [f for i in ids for f in hechos[int(i[1:]) - 1].get("fuentes") or []]
-            else:
-                fuentes = [cambios[int(i[1:]) - 1].get("fuente") or {} for i in ids]
+            fuentes = [f for i in ids for f in hechos[int(i[1:]) - 1].get("fuentes") or []]
             vistas, unicas = set(), []
             for f in fuentes:
                 if f.get("url") and f["url"] not in vistas:
@@ -274,7 +289,7 @@ def generar_brief(raiz: Path, hoy: date, ahora: datetime, llamar=modelo.llamar_a
     brief = {
         "semana": etiqueta, "desde": desde.isoformat(), "hasta": hasta.isoformat(),
         "generado": ahora.strftime("%Y-%m-%d %H:%M UTC"), "hechos": len(hechos), "cambios_registrados": len(cambios),
-        "temas": [], "cambios": [], "latinos": [],
+        "temas": [], "cambios": cambios_del_registro(cambios, salas["temas"]), "latinos": [],
         "fuentes_nuevas": fuentes_nuevas(todos, desde, hasta),
         "ideas": [{"tema": i["tema"], "motivo": i["motivo"], "texto": "",
                    "fuentes": [{"nombre": f.get("nombre"), "url": f.get("url")}
@@ -285,25 +300,83 @@ def generar_brief(raiz: Path, hoy: date, ahora: datetime, llamar=modelo.llamar_a
         brief["nota"] = "El registro no tiene hechos ni cambios en salas para esta semana: no se consultó al modelo."
         return brief
 
-    mensaje, refs = construir_mensaje(hechos, cambios, ideas, salas["temas"], etiqueta)
-    nombre_modelo = modelo.modelo_configurado(ajustes)
-    try:
-        texto, uso = llamar(SISTEMA_BRIEF.format(max_temas=MAX_TEMAS), mensaje, nombre_modelo,
-                            ajustes.get("max_tokens_brief", 2000))
-        brief["uso"] = modelo._con_costo(uso, nombre_modelo, ajustes)
-        datos = modelo._extraer_json(texto)
-    except modelo.ErrorModelo as e:
-        if e.uso:
-            brief["uso"] = modelo._con_costo(e.uso, nombre_modelo, ajustes)
-        brief["nota"] = f"La llamada al modelo falló ({e}): el brief solo trae lo que arma el programa."
+    if not hechos:
+        brief["nota"] = "El registro no tiene hechos para esta semana: no se consultó al modelo."
+        return brief
+    mensaje, refs = construir_mensaje(hechos, ideas, etiqueta)
+    datos, brief["uso"], brief["intentos"] = _consultar(llamar, mensaje, modelo.modelo_configurado(ajustes), ajustes)
+    if datos is None:
+        motivo = brief["intentos"][-1]["error"]
+        brief["nota"] = (f"La llamada al modelo falló {len(brief['intentos'])} veces (última: {motivo}): "
+                         "el brief solo trae lo que arma el programa.")
         brief["estado"] = "fallida"
         return brief
-    salida, brief["controles"] = verificar(datos, refs, hechos, cambios, ideas)
-    brief.update(temas=salida["temas"], cambios=salida["cambios"], latinos=salida["latinos"])
+    salida, brief["controles"] = verificar(datos, refs, hechos, ideas)
+    brief.update(temas=salida["temas"], latinos=salida["latinos"])
     for idea, base in zip(brief["ideas"], ideas):
         idea["texto"] = salida["ideas"].get(base["id"], "")
     brief["estado"] = "ok"
     return brief
+
+
+def _consultar(llamar, mensaje: str, nombre_modelo: str, ajustes: dict) -> tuple[dict | None, dict | None, list]:
+    """Una llamada y, si la respuesta no sirve, un solo reintento. Si la primera se cortó por el tope de tokens,
+    el reintento tiene el doble de tope, sin pasar el tope de costo por corrida (max_costo_usd_por_corrida)
+    sumando las dos llamadas. Devuelve (datos o None, uso sumado, detalle de cada intento)."""
+    tope = ajustes.get("max_tokens_brief", 2000)
+    sistema = SISTEMA_BRIEF.format(max_temas=MAX_TEMAS)
+    intentos, total = [], None
+    for n in (1, 2):
+        intento = {"n": n, "max_tokens": tope, "tokens_salida": 0, "truncado": False, "error": None}
+        intentos.append(intento)
+        datos = None
+        try:
+            texto, uso = llamar(sistema, mensaje, nombre_modelo, tope)
+        except modelo.ErrorModelo as e:
+            uso, intento["error"] = e.uso, str(e)
+        else:
+            try:
+                datos = modelo._extraer_json(texto)
+            except modelo.ErrorModelo as e:
+                intento["error"] = str(e) + (f" La salida se cortó por el tope de tokens ({tope})."
+                                             if uso.get("truncado") else "")
+        if uso:
+            uso = modelo._con_costo(uso, nombre_modelo, ajustes)
+            intento.update(tokens_salida=uso.get("tokens_salida", 0), truncado=bool(uso.get("truncado")))
+            total = _sumar_uso(total, uso)
+        if datos is not None:
+            return datos, total, intentos
+        if n == 1:
+            tope = _tope_reintento(tope, intento["truncado"], total, nombre_modelo, ajustes)
+            if not tope:
+                intento["error"] += " Sin reintento: no alcanza el tope de costo por corrida."
+                return None, total, intentos
+    return None, total, intentos
+
+
+def _tope_reintento(tope: int, truncado: bool, uso: dict | None, nombre_modelo: str, ajustes: dict) -> int:
+    """Tope de tokens del reintento: el doble si la primera salida se cortó, sin que las dos llamadas juntas
+    pasen max_costo_usd_por_corrida. 0 si ni el tope original entra en lo que queda."""
+    nuevo = tope * 2 if truncado else tope
+    limite = ajustes.get("max_costo_usd_por_corrida")
+    precio_salida = ajustes.get("precios_usd_por_millon", {}).get(nombre_modelo, {}).get("salida")
+    if not (limite and uso and precio_salida):
+        return nuevo
+    # La entrada del reintento es la misma de la primera llamada.
+    disponible = limite - uso.get("costo_usd", 0) - modelo.costo_estimado(nombre_modelo, uso.get("tokens_entrada", 0), 0, ajustes)
+    nuevo = min(nuevo, int(disponible * 1e6 / precio_salida))
+    return nuevo if nuevo >= tope else 0
+
+
+def _sumar_uso(total: dict | None, uso: dict) -> dict:
+    if total is None:
+        return dict(uso)
+    total = dict(total)
+    for clave in ("tokens_entrada", "tokens_salida"):
+        total[clave] = total.get(clave, 0) + uso.get(clave, 0)
+    total["costo_usd"] = round(total.get("costo_usd", 0) + uso.get("costo_usd", 0), 6)
+    total["truncado"] = bool(uso.get("truncado"))  # el del último intento
+    return total
 
 
 def registrar_costo(raiz: Path, brief: dict, ahora: datetime) -> None:
@@ -316,7 +389,7 @@ def registrar_costo(raiz: Path, brief: dict, ahora: datetime) -> None:
         "fecha": ahora.date().isoformat(), "id": ahora.strftime("%Y-%m-%dT%H:%M:%SZ"), "tipo": "brief",
         "semana": brief["semana"], "modelo": u.get("modelo"), "tokens_entrada": u.get("tokens_entrada", 0),
         "tokens_salida": u.get("tokens_salida", 0), "costo_usd": u.get("costo_usd", 0.0),
-        "estado": brief.get("estado", "ok"),
+        "estado": brief.get("estado", "ok"), "intentos": len(brief.get("intentos") or []) or 1,
     })
     escribir_json(ruta, costos)
 
@@ -372,6 +445,9 @@ def main(argv: list[str] | None = None) -> int:
     registrar_costo(RAIZ, brief, ahora)
     rutas = escribir(RAIZ, brief)
     print(f"Brief {brief['semana']}: {brief['hechos']} hechos, {brief['cambios_registrados']} cambios en salas.")
+    for i in brief.get("intentos") or []:
+        print(f"Intento {i['n']}: tope {i['max_tokens']} tokens, salida {i['tokens_salida']}"
+              f"{' (cortada por el tope)' if i['truncado'] else ''}: {i['error'] or 'JSON válido'}")
     if brief.get("uso"):
         print(f"Costo estimado US$ {brief['uso'].get('costo_usd', 0):.4f}")
     if brief.get("nota"):

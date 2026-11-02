@@ -148,6 +148,17 @@ _MARCAS = {"ggpoker", "pokerstars", "coinpoker", "pokernews", "cardplayer", "pok
 
 _COMILLAS_NOMBRE = "\"'‘’“”«»"
 
+# Apóstrofo dentro de una palabra seguido de 2 o más minúsculas ("Hold'em", "Hold’em"): la palabra sigue.
+# Se cambia por una letra modificadora para que el nombre no se corte en el apóstrofo y se restituye al final.
+# El posesivo ("Negreanu's") no entra: tiene una sola letra.
+_APOSTROFO_INTERNO = re.compile(r"(?<=[A-Za-zÁÉÍÓÚÑÜáéíóúñü])(['’])(?=[a-záéíóúñü]{2,}\b)")
+_PROTEGIDO = {"'": "ʼ", "’": "ʻ"}
+_RESTITUIDO = {v: k for k, v in _PROTEGIDO.items()}
+
+
+def _restituir(texto: str) -> str:
+    return re.sub("[ʼʻ]", lambda m: _RESTITUIDO[m.group(0)], texto)
+
 
 def personas(texto: str, texto_fuentes: str | None = None) -> list[str]:
     """Nombres de persona probables: dos o más palabras con mayúscula que no son de torneos,
@@ -155,6 +166,7 @@ def personas(texto: str, texto_fuentes: str | None = None) -> list[str]:
     from .control import _SECUENCIA, _corridas_de_nombre, _limpio
 
     fuente = " " + re.sub(r"[^\w$]+", " ", sin_tildes(texto_fuentes)) + " " if texto_fuentes is not None else None
+    texto = _APOSTROFO_INTERNO.sub(lambda m: _PROTEGIDO[m.group(1)], texto)
     encontrados = []
     # Un nombre no cruza signos de puntuación ("…Fulano Inventado. Texto…").
     for m in (m for parte in re.split(r"[.!?;:,()]\s+", texto) for m in _SECUENCIA.finditer(parte)):
@@ -163,8 +175,8 @@ def personas(texto: str, texto_fuentes: str | None = None) -> list[str]:
             # Una sigla en mayúsculas ("Triton ONE", "WPT Prime") indica un torneo o una marca, no una persona.
             sigla = any(re.fullmatch(r"[A-ZÁÉÍÓÚÑ]{2,}\$?", p.strip(_COMILLAS_NOMBRE)) for p in tramo)
             if len(tramo) >= 2 and not sigla and not any(p in _NO_PERSONA for p in limpios):
-                if fuente is None or all(f" {p} " in fuente for p in limpios):
-                    encontrados.append(" ".join(p.strip("\"'‘’“”«»") for p in tramo))
+                if fuente is None or all(f" {_restituir(p)} " in fuente for p in limpios):
+                    encontrados.append(_restituir(" ".join(p.strip("\"'‘’“”«»") for p in tramo)))
     for m in re.finditer(r"\b[A-Za-z]*[a-z][A-Z][A-Za-z0-9]*\b|\b[A-Za-z]+\d+[A-Za-z0-9]*\b", texto):
         alias = m.group(0)
         if re.fullmatch(r"(US|R|MXN|ARS|COP|CLP|PEN|U)\$?\d*", alias) or alias.lower() in _NO_PERSONA | _MARCAS:

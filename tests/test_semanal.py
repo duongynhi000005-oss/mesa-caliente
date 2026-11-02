@@ -62,7 +62,6 @@ RESPUESTA = {
          "ids": ["H2"]},
         {"texto": "Un tema sin referencias válidas.", "ids": ["H99"]},
     ],
-    "cambios": [{"texto": "GGPoker anunció: «GGPoker will ban all third-party HUDs».", "ids": ["C1"]}],
     "latinos": [{"texto": "Fulano Inventado, de Argentina, ganó el Ficticia Open.", "ids": ["H2"]},
                 {"texto": "Mengana Ficticia ganó un High Roller.", "ids": ["H3"]}],  # H3 no es latino
     "ideas": [{"id": "I1", "texto": "Cronología del Caso Ficticio."},
@@ -82,7 +81,9 @@ def test_una_sola_llamada_y_solo_con_el_registro_de_la_semana(raiz_temporal):
     assert len(llamar.llamadas) == 1
     mensaje = llamar.llamadas[0]["mensaje"]
     assert "Caso Ficticio: la sala responde" in mensaje and "primera denuncia" not in mensaje  # W42 no va
-    assert "GGPoker will ban all third-party HUDs" in mensaje
+    # Solo los campos que el modelo usa: sin cambios en salas (los pone el programa), sin fuentes ni campos vacíos.
+    assert "GGPoker will ban all third-party HUDs" not in mensaje and "Medio Uno" not in mensaje
+    assert "salas: -" not in mensaje and "fuentes:" not in mensaje and "confirmado" not in mensaje
     assert "[H2] (latino)" in mensaje and "[H3] (latino)" not in mensaje
     assert "sin voseo" in llamar.llamadas[0]["sistema"]
     assert brief["semana"] == "2026-W43" and brief["hechos"] == 3 and brief["cambios_registrados"] == 1
@@ -171,6 +172,92 @@ def test_sin_registro_no_llama_al_modelo(raiz_temporal):
     llamar = Modelo(RESPUESTA)
     brief = semanal.generar_brief(raiz_temporal, AHORA.date(), AHORA, llamar)
     assert llamar.llamadas == [] and brief["uso"] is None and "no se consultó" in brief["nota"]
+
+
+class ModeloSecuencia:
+    """Devuelve una respuesta distinta en cada llamada: (texto, tokens_salida, cortada)."""
+
+    def __init__(self, *respuestas):
+        self.respuestas = list(respuestas)
+        self.llamadas = []
+
+    def __call__(self, sistema, mensaje, modelo_id, max_tokens):
+        self.llamadas.append({"mensaje": mensaje, "max_tokens": max_tokens})
+        texto, salida, cortada = self.respuestas.pop(0)
+        uso = {"tokens_entrada": 2500, "tokens_salida": salida}
+        if cortada:
+            uso["truncado"] = True
+        return texto, uso
+
+
+CORTADA = ('{"temas": [{"texto": "El Caso Ficticio sigue abierto", "ids": ["H1"', 2000, True)
+
+
+def test_cambios_en_salas_salen_del_registro_aunque_falle_el_modelo(raiz_temporal):
+    _registro(raiz_temporal)
+    brief = semanal.generar_brief(raiz_temporal, AHORA.date(), AHORA, ModeloSecuencia(CORTADA, CORTADA))
+    assert brief["estado"] == "fallida"
+    # El encabezado y la sección usan las mismas líneas del registro, en el mismo rango de fechas.
+    assert brief["cambios_registrados"] == len(brief["cambios"]) == 1
+    assert brief["cambios"][0]["texto"] == ("GGPoker · HUD y software permitido · 23 oct 2026: "
+                                            "«GGPoker will ban all third-party HUDs»")
+    assert brief["cambios"][0]["fuentes"] == [{"nombre": "Medio Dos", "url": "https://medio-dos.com/n/9"}]
+    md = semanal.escribir(raiz_temporal, brief)["md"].read_text(encoding="utf-8")
+    assert "1 cambio en salas" in md and "Sin cambios registrados" not in md
+
+
+def test_salida_cortada_reintenta_una_vez_con_el_doble_de_tope(raiz_temporal):
+    _registro(raiz_temporal)
+    llamar = ModeloSecuencia(CORTADA, (json.dumps(RESPUESTA), 900, False))
+    brief = semanal.generar_brief(raiz_temporal, AHORA.date(), AHORA, llamar)
+    assert [c["max_tokens"] for c in llamar.llamadas] == [2000, 4000]
+    assert llamar.llamadas[0]["mensaje"] == llamar.llamadas[1]["mensaje"]
+    assert brief["estado"] == "ok" and brief["nota"] is None and brief["temas"]
+    assert brief["intentos"][0]["truncado"] and "se cortó por el tope de tokens (2000)" in brief["intentos"][0]["error"]
+    # El costo suma las dos llamadas.
+    assert brief["uso"]["tokens_salida"] == 2900 and brief["uso"]["tokens_entrada"] == 5000
+    semanal.registrar_costo(raiz_temporal, brief, AHORA)
+    assert leer_json(raiz_temporal / "data" / "costos.json")["corridas"][-1]["intentos"] == 2
+
+
+def test_dos_fallas_dan_brief_fallido_sin_tercer_intento(raiz_temporal):
+    _registro(raiz_temporal)
+    llamar = ModeloSecuencia(("Aquí está el brief: sin JSON", 50, False), ("tampoco", 50, False))
+    brief = semanal.generar_brief(raiz_temporal, AHORA.date(), AHORA, llamar)
+    assert len(llamar.llamadas) == 2 and [c["max_tokens"] for c in llamar.llamadas] == [2000, 2000]
+    assert brief["estado"] == "fallida" and "falló 2 veces" in brief["nota"] and brief["temas"] == []
+
+
+def test_el_reintento_respeta_el_tope_de_costo(raiz_temporal):
+    _registro(raiz_temporal)
+    ajustes = leer_json(raiz_temporal / "config" / "ajustes.json")
+    ajustes["max_costo_usd_por_corrida"] = 0.02  # la primera llamada (2500 + 2000 tokens) cuesta US$ 0,0125
+    (raiz_temporal / "config" / "ajustes.json").write_text(json.dumps(ajustes), encoding="utf-8")
+    llamar = ModeloSecuencia(CORTADA, CORTADA)
+    brief = semanal.generar_brief(raiz_temporal, AHORA.date(), AHORA, llamar)
+    assert len(llamar.llamadas) == 1 and brief["estado"] == "fallida"
+    assert "no alcanza el tope de costo" in brief["intentos"][0]["error"]
+
+
+def test_idea_de_tema_automatico_se_nombra_por_el_torneo_o_el_hecho():
+    hechos = [
+        _hecho("2026-10-20", "Fulano Inventado gana el Evento #1", [_f("Medio Uno", 1)],
+               temas=["Tema: No-Limit Hold'em"], torneo="Serie Ficticia 2026"),
+        _hecho("2026-10-21", "Mengana Ficticia gana el Evento #2", [_f("Medio Dos", 2)],
+               temas=["Tema: No-Limit Hold'em"], torneo="Serie Ficticia 2026"),
+        _hecho("2026-10-22", "Zutano Imaginario gana el Evento #3", [_f("Medio Uno", 3)],
+               temas=["Tema: No-Limit Hold'em"], torneo="Serie Ficticia"),
+        # Un solo hecho, sin torneo: la idea es el hecho.
+        _hecho("2026-10-23", "Perengano Supuesto derrota a Fulano Real en el Evento #9",
+               [_f("Medio Uno", 4), _f("Medio Dos", 5), _f("Medio Tres", 6)], temas=["Tema: Hendon Mob"]),
+        # Un tema manual conserva su nombre.
+        _hecho("2026-10-20", "Caso Ficticio: la sala responde", [_f("Medio Uno", 7)], temas=["Caso Ficticio"],
+               torneo="Otra Serie"),
+        _hecho("2026-10-24", "Caso Ficticio: segunda denuncia", [_f("Medio Uno", 8)], temas=["Caso Ficticio"]),
+    ]
+    ideas = [i["tema"] for i in semanal.ideas_candidatas(hechos, date(2026, 10, 19), date(2026, 10, 25))]
+    assert sorted(ideas) == sorted(["Serie Ficticia 2026", "Perengano Supuesto derrota a Fulano Real en el Evento #9",
+                                    "Caso Ficticio"])
 
 
 # ---------------------------------------------------------------- carga del historial
