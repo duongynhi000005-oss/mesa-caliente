@@ -258,3 +258,10 @@ def test_novedad_de_tema_con_dato_inventado_se_quita():
                        "aporta": "GGPoker ignoró un informe de Patrick Howard. La sala pagó US$2 millones a los afectados."}]}]}),
         hoy=HOY, publicado_temas={TEMA_GREGG: PUBLICADO_GREGG})
     assert r["temas"][0]["novedades"][0]["aporta"] == "GGPoker ignoró un informe de Patrick Howard."
+
+
+def test_nombre_con_apostrofo_no_se_corta_y_el_posesivo_no_cambia():
+    # Antes quedaba «No-Limit Hold» (y el tema automático se llamó «Tema: No-Limit Hold»).
+    assert "No-Limit Hold'em" in calidad.personas("Fulano Inventado gana un No-Limit Hold'em en la Serie Ficticia")
+    assert "No-Limit Hold’em" in calidad.personas("No-Limit Hold’em Main Event")
+    assert calidad.personas("Fulano Inventado's run") == ["Fulano Inventado"]
