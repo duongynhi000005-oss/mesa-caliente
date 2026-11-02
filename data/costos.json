@@ -606,6 +606,18 @@
       "tokens_salida": 2856,
       "costo_usd": 0.022992,
       "estado": "ok"
+    },
+    {
+      "fecha": "2026-11-02",
+      "id": "2026-11-02T21:51:45Z",
+      "tipo": "brief",
+      "semana": "2026-W44",
+      "modelo": "claude-haiku-4-5",
+      "tokens_entrada": 11246,
+      "tokens_salida": 4128,
+      "costo_usd": 0.031886,
+      "estado": "ok",
+      "intentos": 2
     }
   ]
 }
