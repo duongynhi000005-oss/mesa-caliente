@@ -6,7 +6,7 @@
         "Ocean KO"
       ],
       "alta": "2026-10-07",
-      "ultima_novedad": "2026-10-26",
+      "ultima_novedad": "2026-11-03",
       "fuentes": [
         "codigopoker.com",
         "poker-red.com",
@@ -54,7 +54,7 @@
         "Purple Jacket."
       ],
       "alta": "2026-10-18",
-      "ultima_novedad": "2026-11-02",
+      "ultima_novedad": "2026-11-03",
       "fuentes": [
         "cardplayer.com",
         "codigopoker.com",
@@ -81,7 +81,7 @@
         "Purple Jacket"
       ],
       "alta": "2026-10-21",
-      "ultima_novedad": "2026-11-02",
+      "ultima_novedad": "2026-11-03",
       "fuentes": [
         "cardplayer.com",
         "codigopoker.com",
@@ -288,14 +288,17 @@
     {
       "nombre": "Tema: Nacho Barbero",
       "palabras_clave": [
+        "Bo Hoebe",
         "Nacho Barbero"
       ],
       "alta": "2026-11-02",
-      "ultima_novedad": "2026-11-02",
+      "ultima_novedad": "2026-11-03",
       "fuentes": [
+        "cardplayer.com",
         "codigopoker.com",
         "poker-red.com",
-        "pokernews.com"
+        "pokernews.com",
+        "pokernewsdaily.com"
       ],
       "estado": "activo"
     }

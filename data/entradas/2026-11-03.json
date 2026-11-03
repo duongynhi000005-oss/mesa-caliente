@@ -1,0 +1,688 @@
+{
+  "fecha": "2026-11-03",
+  "corridas": [
+    {
+      "id": "2026-11-03T12:00:28Z",
+      "notas": [
+        {
+          "n": 1,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/the-festival-series-returns-to-tallinn-with-a-huge-schedule-52730.htm",
+          "titular": "The Festival Series Returns To Tallinn With a Huge Schedule",
+          "primera_frase": "More than 70 tournaments take place over 10 days."
+        },
+        {
+          "n": 2,
+          "fuente": "Pokerfuse",
+          "url": "https://pokerfuse.com/latest-news/2026/11/pokerstars-on-fanduel-goes-live-alberta/",
+          "titular": "PokerStars on FanDuel Goes Live in Alberta as a Ring-Fenced Site",
+          "primera_frase": ""
+        },
+        {
+          "n": 3,
+          "fuente": "PokerListings",
+          "url": "https://www.pokerlistings.com/news/coinpoker-2-0-adds-high-stakes-poker-online-mystery-bounties-and-private-games",
+          "titular": "CoinPoker 2.0 Adds High Stakes Poker Online, Mystery Bounties, and Private Games",
+          "primera_frase": "CoinPoker rolls out version 2.0 of its poker software, introducing high-stakes cash games under the legendary High Stakes Poker brand, Mystery Bounty tournaments, and customizable private tables."
+        },
+        {
+          "n": 4,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1772032-coinpoker-levels-up-with-software-upgrade-and-new-features",
+          "titular": "CoinPoker Levels Up With Software Upgrade And New Features",
+          "primera_frase": "CoinPoker has launched The Next Level, introducing mystery bounties, private tables, a prediction market, and numerous software upgrades."
+        },
+        {
+          "n": 5,
+          "fuente": "Poker Industry PRO",
+          "url": "https://pokerindustrypro.com/news/article/226167-pokerstars-on-fanduel-launches-alberta-becomes",
+          "titular": "PokerStars on FanDuel Launches in Alberta, Becomes Province's Second Online Poker Room",
+          "primera_frase": "We’re working hard on shared liquidity with Ontario."
+        },
+        {
+          "n": 6,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xmqymw/when_do_i_know_im_any_good/",
+          "titular": "When do I know I’m any good?",
+          "primera_frase": "I don’t get alot of chance to play, dont have a bank roll for online cash even micro, so haven’t played alot of that."
+        },
+        {
+          "n": 7,
+          "fuente": "PokerNews en español",
+          "url": "https://es.pokernews.com/noticias/2026/11/el-battle-of-malta-anuncia-una-edicion-en-barcelona-enero-54188.htm",
+          "titular": "El Battle of Malta anuncia una edición en Barcelona para enero de 2027",
+          "primera_frase": "El festival se estrenará en España del 20 al 24 de enero, con un Main Event de 600 €."
+        },
+        {
+          "n": 8,
+          "fuente": "PokerNews Brasil",
+          "url": "https://br.pokernews.com/noticias/2026/11/plo-series-ggpoker-20-milhoes-garantidos-68013.htm",
+          "titular": "PLO Series está de volta à GGPoker com US$ 20 milhões em premiações garantidas",
+          "primera_frase": "Festival terá mais de 450 torneios, seis eventos milionários e buy-ins a partir de US$ 15"
+        },
+        {
+          "n": 9,
+          "fuente": "Poker Noticias",
+          "url": "https://pokernoticias.com/henry-arroyave-conquista-el-closing-turbo-y-cierra-con-broche-de-oro-las-wps-medellin-2026/",
+          "titular": "Henry Arroyave conquista el Closing Turbo y cierra con broche de oro las WPS Medellín 2026",
+          "primera_frase": "El colombiano Henry Arroyave se consagró campeón del Closing Turbo de las Winner Poker Series (WPS) Medellín 2026, convirtiéndose en el último ganador del calendario y poniendo punto final a una nueva"
+        },
+        {
+          "n": 10,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/poker-online-estados-unidos-liquidez",
+          "titular": "El cambio que está transformando el poker online en EE.UU.",
+          "primera_frase": ""
+        },
+        {
+          "n": 11,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/de-triton-one-a-las-shrs-26-dias-de-poker-y-32-trofeos-en-chipre",
+          "titular": "De Triton ONE a las SHRS: 26 días de poker y 32 trofeos en Chipre",
+          "primera_frase": "Triton Cyprus"
+        },
+        {
+          "n": 12,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/10/texas-card-house-poker-room-security-52705.htm",
+          "titular": "Texas Card House Ramps Up Security After Numerous Houston Poker Rooms Robbed",
+          "primera_frase": "TCH knows the poker room can't be too safe."
+        },
+        {
+          "n": 13,
+          "fuente": "Pokerfuse",
+          "url": "https://pokerfuse.com/latest-news/2026/11/betrivers-poker-goes-live-mystery-bounty/",
+          "titular": "BetRivers Poker Goes Live With Mystery Bounty Tournaments",
+          "primera_frase": ""
+        },
+        {
+          "n": 14,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1772027-acr-poker-launches-turbo-tuesday-with-50-in-tournament-tickets",
+          "titular": "ACR Poker Launches Turbo Tuesday With $50 In Tournament Tickets",
+          "primera_frase": "ACR Poker’s Turbo Tuesday gives new players $50 in Turbo Tournament Tickets after a qualifying $20 Tuesday deposit."
+        },
+        {
+          "n": 15,
+          "fuente": "Poker Industry PRO",
+          "url": "https://pokerindustrypro.com/news/article/226168-betrivers-poker-test-first-mystery-bounty",
+          "titular": "BetRivers Poker to Test First Mystery Bounty Tournament This Week",
+          "primera_frase": "BetRivers Poker will introduce mystery bounty tournaments tomorrow, November 4, with an initial trial event available to players across all four states where the operator currently holds regulatory ap"
+        },
+        {
+          "n": 16,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xmqv10/won_my_first_tournament_in_17_years/",
+          "titular": "Won my first tournament in 17 years!",
+          "primera_frase": "Haha, well, that's how long it has been since I last played."
+        },
+        {
+          "n": 17,
+          "fuente": "PokerNews Brasil",
+          "url": "https://br.pokernews.com/noticias/2026/11/power-path-bsop-millions-pacotes-2500-68010.htm",
+          "titular": "Power Path pode levar jogadores ao BSOP Millions com pacotes de US$ 2.500; saiba como",
+          "primera_frase": "Silver Pass inclui buy-in do Main Event, créditos para torneios e ajuda de custo"
+        },
+        {
+          "n": 18,
+          "fuente": "Poker Noticias",
+          "url": "https://pokernoticias.com/fernando-gamez-hace-historia-y-conquista-el-main-event-de-las-wps-medellin-2026/",
+          "titular": "Fernando Gámez hace historia y conquista el Main Event de las WPS Medellín 2026",
+          "primera_frase": "El Main Event de las Winner Poker Series (WPS) Medellín 2026 ya tiene campeón."
+        },
+        {
+          "n": 19,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/torneos/wsop/wsop-paradise-inscripciones-criptomonedas",
+          "titular": "Las WSOP Paradise permitirán jugar sin pasar por caja y pagar con criptomonedas",
+          "primera_frase": ""
+        },
+        {
+          "n": 20,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/el-battle-of-malta-aterrizara-en-casino-barcelona-en-enero-de-2027",
+          "titular": "El Battle of Malta aterrizará en Casino Barcelona en enero de 2027",
+          "primera_frase": "Battle of Malta"
+        },
+        {
+          "n": 21,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/rungood-heads-to-kentucky-for-six-days-of-poker-52725.htm",
+          "titular": "RunGood Heads to Kentucky for Six Days of Poker at The OG Clubhouse",
+          "primera_frase": "RGPS heads to Kentucky for ten ring events and a $100K guaranteed Main Event."
+        },
+        {
+          "n": 22,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1771701-watch-ethan-rampage-yau-gets-pocket-kings-cracked-in-321k-pot",
+          "titular": "WATCH: Ethan ‘Rampage’ Yau Gets Pocket Kings Cracked In $321k Pot",
+          "primera_frase": "Popular poker vlogger Ethan 'Rampage' Yau lost a $321,100 pot on the latest Hustler Casino Live's latest high-stakes broadcast."
+        },
+        {
+          "n": 23,
+          "fuente": "Poker Industry PRO",
+          "url": "https://pokerindustrypro.com/news/article/226142-monday-shuffle-november-2-2026",
+          "titular": "The Monday Shuffle: November 2, 2026",
+          "primera_frase": "The Monday Shuffle marks its first anniversary this week."
+        },
+        {
+          "n": 24,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xmq42w/rekop_poker_in_the_mirror_see_every_hand_but_yours/",
+          "titular": "REKOP: poker in the mirror. See every hand but yours",
+          "primera_frase": "I have created a reverse poker game that you can play vs your friend online or vs bots."
+        },
+        {
+          "n": 25,
+          "fuente": "PokerNews Brasil",
+          "url": "https://br.pokernews.com/noticias/2026/11/phil-nick-hellmuth-eliminados-wpt-bay-101-68009.htm",
+          "titular": "Pai e filho eliminados: Phil e Nick Hellmuth se despedem do WPT Bay 101 Shooting Star",
+          "primera_frase": "Além da dupla, outras estrelas do poker protagonizaram quedas marcantes no torneio"
+        },
+        {
+          "n": 26,
+          "fuente": "Poker Noticias",
+          "url": "https://pokernoticias.com/paul-tacsan-se-corona-campeon-del-mini-high-roller-plo5-k-o-en-las-wps-medellin-2026/",
+          "titular": "Paul Tacsan se corona campeón del Mini High Roller PLO5 K.O. en las WPS Medellín 2026",
+          "primera_frase": "El costarricense Paul Tacsan se quedó con el título del Mini High Roller PLO5 K.O."
+        },
+        {
+          "n": 27,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/triton-poker-series/triton-invitational-x-el-torneo-que-revoluciono-el-poker-de-elite-celebra-diez-anos-de-historia",
+          "titular": "Triton Invitational X: el torneo que revolucionó el poker de élite celebra diez años de historia",
+          "primera_frase": ""
+        },
+        {
+          "n": 28,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/los-global-poker-awards-regresan-durante-las-wsop-paradise",
+          "titular": "Los Global Poker Awards regresan durante las WSOP Paradise",
+          "primera_frase": "WSOP Paradise 2026"
+        },
+        {
+          "n": 29,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/solana-wsop-paradise-wallet-52713.htm",
+          "titular": "Skip Fees and Lines at WSOP Paradise by Buying in with Solana",
+          "primera_frase": "Players can buy into WSOP Paradise events with crypto using Solana."
+        },
+        {
+          "n": 30,
+          "fuente": "Poker Noticias",
+          "url": "https://pokernoticias.com/wsop-c/",
+          "titular": "El escenario está listo: Arranca la batalla por los 12 anillos en la WSOPC Panamá",
+          "primera_frase": "La WSOPC Panamá ya está aquí, y este jueves a las 12:00 p.m."
+        },
+        {
+          "n": 31,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/industria/jeff-platt-volvera-a-presentar-los-global-poker-awards-y-aseguro-que-sera-absolutamente-implacable",
+          "titular": "Jeff Platt volverá a presentar los Global Poker Awards y aseguró que será «absolutamente implacable»",
+          "primera_frase": ""
+        },
+        {
+          "n": 32,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/phuong-ta-goes-wins-rungood-poker-series-jacksonville-main-52719.htm",
+          "titular": "Phuong Ta Goes Wire-to-Wire to Claim the RunGood Poker Series Jacksonville Main Event Title",
+          "primera_frase": "Phuong Ta emerged victorious after a marathon final table."
+        },
+        {
+          "n": 33,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/torneos-europa/profesional-del-poker-dona-premio",
+          "titular": "Profesional del poker gana un torneo y dona todo su premio a la caridad",
+          "primera_frase": ""
+        },
+        {
+          "n": 34,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/betrivers-poker-launches-mystery-bounty-tournaments-52675.htm",
+          "titular": "BetRivers Poker Launches Mystery Bounty Tournaments",
+          "primera_frase": "Mystery Bounty tournaments are coming this week."
+        },
+        {
+          "n": 35,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/torneos/europa/battle-of-malta-barcelona-enero-2027",
+          "titular": "El Battle of Malta cruza el Mediterráneo y desembarca en Barcelona",
+          "primera_frase": ""
+        },
+        {
+          "n": 36,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/888-s-ian-simpson-donates-winnings-to-charity-after-kav-cup-52721.htm",
+          "titular": "888's Ian Simpson Donates Winnings to Charity After Kav Cup Victory",
+          "primera_frase": "Simpson donated his winnings, which helped the charity event reach its £100,000 goal."
+        },
+        {
+          "n": 37,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/torneos-mexico/benjamin-hinneman-conquisto-el-main-event-de-la-psop-calaverita",
+          "titular": "Benjamin Hinneman conquistó el Main Event de la PSOP Calaverita",
+          "primera_frase": ""
+        },
+        {
+          "n": 38,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/battle-of-malta-announces-a-barcelona-edition-coming-january-52720.htm",
+          "titular": "Battle of Malta Announces a Barcelona Edition Coming January 2027",
+          "primera_frase": "The Battle of Malta Barcelona Edition runs January 20-24."
+        },
+        {
+          "n": 39,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/do-kwon-auge-caida-cripto",
+          "titular": "De 40 mil millones a 15 años de cárcel: la caída de Do Kwon",
+          "primera_frase": ""
+        },
+        {
+          "n": 40,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/aprende-poker/caer-mal-mesa-poker",
+          "titular": "5 razones por las que caer mal en la mesa de poker te puede servir",
+          "primera_frase": ""
+        },
+        {
+          "n": 41,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/even-the-pros-need-coaching-faraz-jaka-takes-the-hot-seat-in-52710.htm",
+          "titular": "Even the Pros Need Coaching: Faraz Jaka Takes the Hot Seat",
+          "primera_frase": "Faraz Jaka gets expert feedback from top poker pros in JAKAcoaching’s strategy series."
+        },
+        {
+          "n": 42,
+          "fuente": "Pokerfuse",
+          "url": "https://pokerfuse.com/latest-news/2026/11/flip-go-millionaire-and-plo-series-bring-heated/",
+          "titular": "Flip & Go Millionaire and PLO Series Bring Heated Tournament Action to GGPoker This November",
+          "primera_frase": ""
+        },
+        {
+          "n": 43,
+          "fuente": "PokerNewsDaily",
+          "url": "https://www.pokernewsdaily.com/nicolette-shea-loses-19500-allin-pocket-49242/",
+          "titular": "Nicolette Shea Loses All-In Pot to AI Guy on Hustler Casino Live",
+          "primera_frase": "A Hustler Casino Live cash-game hand ended badly for Nicolette Shea after she committed her stack with pocket tens, only to see the pot go to a player known as AI Guy."
+        },
+        {
+          "n": 44,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1770842-watch-porn-star-hit-by-poker-karma-after-early-celebration",
+          "titular": "WATCH: Porn Star Hit By Poker Karma After Early Celebration",
+          "primera_frase": "Porn star Nicolette Shea celebrated a bit too early after the flop, and the poker gods responded with a one-outer on the river for some karma."
+        },
+        {
+          "n": 45,
+          "fuente": "Poker Industry PRO",
+          "url": "https://pokerindustrypro.com/news/article/226134-winamax-launches-online-poker-and-sports-betting",
+          "titular": "Winamax Launches Online Poker and Sports Betting in Italy",
+          "primera_frase": "French online poker giant Winamax has launched online sports betting and poker in Italy under a new Italian license."
+        },
+        {
+          "n": 46,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xm4lho/november_i_built_a_poker_tool_mega_thread/",
+          "titular": "November ‘I built a poker tool’ mega thread",
+          "primera_frase": "Requirements to post a top level comment: -This must be a poker-related tool, not a poker operator that offers poker games vs humans, roulette etc."
+        },
+        {
+          "n": 47,
+          "fuente": "PokerNews en español",
+          "url": "https://es.pokernews.com/noticias/2026/11/celebra-antes-de-tiempo-y-sufre-un-brutal-bad-beat-en-hustle-54178.htm",
+          "titular": "Celebra antes de tiempo y sufre un brutal bad beat en Hustler Casino Live",
+          "primera_frase": "Nicolette Seha celebró su set de dieces antes de que terminara la acción y acabó perdiendo en el river."
+        },
+        {
+          "n": 48,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/torneos/argentina/cap/ranking-cap-dinero",
+          "titular": "Cuánto dinero lleva acumulado el ranking del CAP 2026",
+          "primera_frase": ""
+        },
+        {
+          "n": 49,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/juan-pardo-lidera-la-ft-del-ggmillionUSD-y-apunta-a-los-404.362-USD",
+          "titular": "Juan Pardo lidera la FT del GGMillion$ y apunta a los 404.362 $",
+          "primera_frase": "ggmillion$"
+        },
+        {
+          "n": 50,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/strategy/gto-wizard-did-phil-ivey-punt-with-pocket-aces-52717.htm",
+          "titular": "GTO Wizard: Did Phil Ivey Punt With Pocket Aces?",
+          "primera_frase": "Did Ivey really punt?"
+        },
+        {
+          "n": 51,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1770728-chris-moneymaker-launches-newsletter-featuring-big-poker-wins-personal-picks-and-giveaways",
+          "titular": "Chris Moneymaker Launches Newsletter Featuring Big Poker Wins, Personal Picks, And Giveaways",
+          "primera_frase": "ACR Poker ambassador and WSOP main event champion Chris Moneymaker has launched a weekly newsletter featuring big winners and more."
+        },
+        {
+          "n": 52,
+          "fuente": "Poker Industry PRO",
+          "url": "https://pokerindustrypro.com/news/article/226122-market-monitor-new-york-sports-betting-september",
+          "titular": "Market Monitor: New York Sports Betting September 2026",
+          "primera_frase": "New York online sports betting revenue fell 18% year-over-year to $159 million, the second weakest month in the past 14 months."
+        },
+        {
+          "n": 53,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xmh32q/yesterday_at_the_bellagio/",
+          "titular": "Yesterday at the Bellagio",
+          "primera_frase": "I'm playing 2/5 at the Bellagio. Three regs, four normal people, me."
+        },
+        {
+          "n": 54,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/torneos/wsop/wsop-panama/comienza-wsop-circuit-panama",
+          "titular": "Esta semana comienza el WSOP Circuit Panamá y te contamos todo lo que necesitás saber",
+          "primera_frase": ""
+        },
+        {
+          "n": 55,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/el-cnp-winamax-estrena-el-poker-como-escuela-de-vida",
+          "titular": "El CNP Winamax estrena «El poker como escuela de vida»",
+          "primera_frase": "CNP Winamax"
+        },
+        {
+          "n": 56,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/10/hands-of-the-week-wpt-bay-101-shooting-star-52702.htm",
+          "titular": "Hands of the Week: Two Hellmuths Among Shooting Stars to Burn Out at WPT Bay 101",
+          "primera_frase": "Big hands were played by the three hosts of the PokerNews Podcast!"
+        },
+        {
+          "n": 57,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xmi18g/my_letter_to_flopping_sets/",
+          "titular": "My letter to flopping sets",
+          "primera_frase": "Hey flopping sets, I hope this letter finds you well, not that I would care anyway."
+        },
+        {
+          "n": 58,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/mike-caro-el-genio-loco-us100",
+          "titular": "Mike Caro, el genio loco del poker que quemaba billetes de US$100 para ganar miles",
+          "primera_frase": ""
+        },
+        {
+          "n": 59,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/winamax-celebra-halloween-y-prepara-20-millones-para-las-pokus-series",
+          "titular": "Winamax celebra Halloween y prepara 20 millones para las Pokus Series",
+          "primera_frase": "Winamax España"
+        },
+        {
+          "n": 60,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/videos/nunca-celebres-antes-del-river-el-brutal",
+          "titular": "¡Nunca celebres antes del river! El brutal castigo a una estrella del cine para adultos",
+          "primera_frase": ""
+        },
+        {
+          "n": 61,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/rooms-y-plataformas/ignition/en-ignition-poker-noviembre-empieza-con-los-especiales-de-domingo",
+          "titular": "En Ignition Poker, noviembre empieza con los Especiales de domingo",
+          "primera_frase": ""
+        },
+        {
+          "n": 62,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/casino-poker-penthouse-malasia-detenidos",
+          "titular": "Montaron un casino de poker en un penthouse y terminaron detenidos",
+          "primera_frase": ""
+        },
+        {
+          "n": 63,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/giselle54-gano-4-8-millones-poker-online",
+          "titular": "Nadie sabe quién es y ganó casi 4,8 millones en un mes de cash en poker",
+          "primera_frase": ""
+        },
+        {
+          "n": 64,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/cipriani-locanda-casino-diciembre-punta-del-este",
+          "titular": "Cipriani abrió Locanda en Punta del Este y sumará un casino en diciembre",
+          "primera_frase": ""
+        },
+        {
+          "n": 65,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/rooms-y-plataformas/acr-poker-torneos-turbo-tuesday",
+          "titular": "Premio extra en ACR Poker: regala US$50 en entradas a torneos Turbo Tuesday a quienes depositen en martes",
+          "primera_frase": ""
+        },
+        {
+          "n": 66,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/rooms-y-plataformas/series-de-halloween-en-bcpoker",
+          "titular": "Últimos días de las Series de Halloween en BCPoker con el US$20K Apex y los Mystery Bounty",
+          "primera_frase": ""
+        }
+      ],
+      "tipo": "seleccion"
+    },
+    {
+      "id": "2026-11-03T12:00:28Z",
+      "notas": [
+        {
+          "n": 1,
+          "fuente": "PokerNewsDaily",
+          "url": "https://www.pokernewsdaily.com/bo-hoebe-wins-wsop-circuit-madrid-49244/",
+          "titular": "Bo Hoebe Wins WSOP Circuit Madrid Main Event for €207,000",
+          "primera_frase": "Bo Hoebe claimed the title in the WSOP Circuit Madrid Main Event at Casino Gran Vía, defeating Nacho Barbero in heads-up play to earn a €207,000 payout.",
+          "tema": "Tema: Nacho Barbero"
+        },
+        {
+          "n": 2,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1771536-bo-hoebe-holds-off-nacho-barbero-for-wsop-circuit-win-in-madrid",
+          "titular": "Bo Hoebe Holds Off Nacho Barbero For WSOP Circuit Win In Madrid",
+          "primera_frase": "Bo Hoebe defeated Nacho Barbero heads-up to win the WSOP Circuit Madrid main event for $231,840 and his second career WSOPC gold ring.",
+          "tema": "Tema: Nacho Barbero"
+        },
+        {
+          "n": 3,
+          "fuente": "tightpoker.com",
+          "url": "https://www.tightpoker.com/news/sergei-kilinskii-wins-latest-pgt-sprint-event-in-las-vegas/",
+          "titular": "Sergei Kilinskii Wins Latest PGT Sprint Event in Las Vegas",
+          "primera_frase": "The Russian player Sergei Kilinskii won the last PGT Sprint before the Hallowe’en break in Las Vegas as players such as the former world champion Joe McKeehen and the always honest Nick Palma were all",
+          "tema": "Tema: No-Limit Hold'em"
+        },
+        {
+          "n": 4,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/entrevistas/adrian-mateos-crisis",
+          "titular": "Adrián Mateos confiesa su peor crisis: «Pensé que el poker era fácil»",
+          "primera_frase": "",
+          "con_extracto": true,
+          "tema": "Tema: Adrián Mateos"
+        },
+        {
+          "n": 5,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/kiat-lee-situa-a-adrian-mateos-entre-los-tres-mejores-del-mundo-en-mtt",
+          "titular": "Kiat Lee sitúa a Adrián Mateos entre los tres mejores del mundo en MTT",
+          "primera_frase": "High stakes",
+          "con_extracto": true,
+          "tema": "Tema: Adrián Mateos"
+        },
+        {
+          "n": 6,
+          "fuente": "PokerListings",
+          "url": "https://www.pokerlistings.com/news/coinpoker-2-0-adds-high-stakes-poker-online-mystery-bounties-and-private-games",
+          "titular": "CoinPoker 2.0 Adds High Stakes Poker Online, Mystery Bounties, and Private Games",
+          "primera_frase": "CoinPoker rolls out version 2.0 of its poker software, introducing high-stakes cash games under the legendary High Stakes Poker brand, Mystery Bounty tournaments, and customizable private tables.",
+          "con_extracto": true
+        },
+        {
+          "n": 7,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1772032-coinpoker-levels-up-with-software-upgrade-and-new-features",
+          "titular": "CoinPoker Levels Up With Software Upgrade And New Features",
+          "primera_frase": "CoinPoker has launched The Next Level, introducing mystery bounties, private tables, a prediction market, and numerous software upgrades."
+        },
+        {
+          "n": 8,
+          "fuente": "Pokerfuse",
+          "url": "https://pokerfuse.com/latest-news/2026/11/pokerstars-on-fanduel-goes-live-alberta/",
+          "titular": "PokerStars on FanDuel Goes Live in Alberta as a Ring-Fenced Site",
+          "primera_frase": "",
+          "con_extracto": true
+        },
+        {
+          "n": 9,
+          "fuente": "Poker Industry PRO",
+          "url": "https://pokerindustrypro.com/news/article/226167-pokerstars-on-fanduel-launches-alberta-becomes",
+          "titular": "PokerStars on FanDuel Launches in Alberta, Becomes Province's Second Online Poker Room",
+          "primera_frase": "We’re working hard on shared liquidity with Ontario."
+        },
+        {
+          "n": 10,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/the-festival-series-returns-to-tallinn-with-a-huge-schedule-52730.htm",
+          "titular": "The Festival Series Returns To Tallinn With a Huge Schedule",
+          "primera_frase": "More than 70 tournaments take place over 10 days.",
+          "con_extracto": true
+        },
+        {
+          "n": 11,
+          "fuente": "Pokerfuse",
+          "url": "https://pokerfuse.com/latest-news/2026/11/betrivers-poker-goes-live-mystery-bounty/",
+          "titular": "BetRivers Poker Goes Live With Mystery Bounty Tournaments",
+          "primera_frase": "",
+          "con_extracto": true
+        },
+        {
+          "n": 12,
+          "fuente": "Poker Industry PRO",
+          "url": "https://pokerindustrypro.com/news/article/226168-betrivers-poker-test-first-mystery-bounty",
+          "titular": "BetRivers Poker to Test First Mystery Bounty Tournament This Week",
+          "primera_frase": "BetRivers Poker will introduce mystery bounty tournaments tomorrow, November 4, with an initial trial event available to players across all four states where the operator currently holds regulatory ap"
+        },
+        {
+          "n": 13,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/betrivers-poker-launches-mystery-bounty-tournaments-52675.htm",
+          "titular": "BetRivers Poker Launches Mystery Bounty Tournaments",
+          "primera_frase": "Mystery Bounty tournaments are coming this week."
+        },
+        {
+          "n": 14,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/10/texas-card-house-poker-room-security-52705.htm",
+          "titular": "Texas Card House Ramps Up Security After Numerous Houston Poker Rooms Robbed",
+          "primera_frase": "TCH knows the poker room can't be too safe.",
+          "con_extracto": true
+        },
+        {
+          "n": 15,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/rungood-heads-to-kentucky-for-six-days-of-poker-52725.htm",
+          "titular": "RunGood Heads to Kentucky for Six Days of Poker at The OG Clubhouse",
+          "primera_frase": "RGPS heads to Kentucky for ten ring events and a $100K guaranteed Main Event.",
+          "con_extracto": true
+        },
+        {
+          "n": 16,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/phuong-ta-goes-wins-rungood-poker-series-jacksonville-main-52719.htm",
+          "titular": "Phuong Ta Goes Wire-to-Wire to Claim the RunGood Poker Series Jacksonville Main Event Title",
+          "primera_frase": "Phuong Ta emerged victorious after a marathon final table."
+        },
+        {
+          "n": 17,
+          "fuente": "Poker Industry PRO",
+          "url": "https://pokerindustrypro.com/news/article/226134-winamax-launches-online-poker-and-sports-betting",
+          "titular": "Winamax Launches Online Poker and Sports Betting in Italy",
+          "primera_frase": "French online poker giant Winamax has launched online sports betting and poker in Italy under a new Italian license."
+        },
+        {
+          "n": 18,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/solana-wsop-paradise-wallet-52713.htm",
+          "titular": "Skip Fees and Lines at WSOP Paradise by Buying in with Solana",
+          "primera_frase": "Players can buy into WSOP Paradise events with crypto using Solana.",
+          "con_extracto": true
+        },
+        {
+          "n": 19,
+          "fuente": "PokerNews en español",
+          "url": "https://es.pokernews.com/noticias/2026/11/el-battle-of-malta-anuncia-una-edicion-en-barcelona-enero-54188.htm",
+          "titular": "El Battle of Malta anuncia una edición en Barcelona para enero de 2027",
+          "primera_frase": "El festival se estrenará en España del 20 al 24 de enero, con un Main Event de 600 €.",
+          "con_extracto": true
+        },
+        {
+          "n": 20,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/el-battle-of-malta-aterrizara-en-casino-barcelona-en-enero-de-2027",
+          "titular": "El Battle of Malta aterrizará en Casino Barcelona en enero de 2027",
+          "primera_frase": "Battle of Malta"
+        },
+        {
+          "n": 21,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/battle-of-malta-announces-a-barcelona-edition-coming-january-52720.htm",
+          "titular": "Battle of Malta Announces a Barcelona Edition Coming January 2027",
+          "primera_frase": "The Battle of Malta Barcelona Edition runs January 20-24."
+        },
+        {
+          "n": 22,
+          "fuente": "PokerNews Brasil",
+          "url": "https://br.pokernews.com/noticias/2026/11/plo-series-ggpoker-20-milhoes-garantidos-68013.htm",
+          "titular": "PLO Series está de volta à GGPoker com US$ 20 milhões em premiações garantidas",
+          "primera_frase": "Festival terá mais de 450 torneios, seis eventos milionários e buy-ins a partir de US$ 15",
+          "con_extracto": true
+        },
+        {
+          "n": 23,
+          "fuente": "Poker Noticias",
+          "url": "https://pokernoticias.com/henry-arroyave-conquista-el-closing-turbo-y-cierra-con-broche-de-oro-las-wps-medellin-2026/",
+          "titular": "Henry Arroyave conquista el Closing Turbo y cierra con broche de oro las WPS Medellín 2026",
+          "primera_frase": "El colombiano Henry Arroyave se consagró campeón del Closing Turbo de las Winner Poker Series (WPS) Medellín 2026, convirtiéndose en el último ganador del calendario y poniendo punto final a una nueva",
+          "con_extracto": true
+        },
+        {
+          "n": 24,
+          "fuente": "Poker Noticias",
+          "url": "https://pokernoticias.com/fernando-gamez-hace-historia-y-conquista-el-main-event-de-las-wps-medellin-2026/",
+          "titular": "Fernando Gámez hace historia y conquista el Main Event de las WPS Medellín 2026",
+          "primera_frase": "El Main Event de las Winner Poker Series (WPS) Medellín 2026 ya tiene campeón."
+        },
+        {
+          "n": 25,
+          "fuente": "Poker Noticias",
+          "url": "https://pokernoticias.com/paul-tacsan-se-corona-campeon-del-mini-high-roller-plo5-k-o-en-las-wps-medellin-2026/",
+          "titular": "Paul Tacsan se corona campeón del Mini High Roller PLO5 K.O. en las WPS Medellín 2026",
+          "primera_frase": "El costarricense Paul Tacsan se quedó con el título del Mini High Roller PLO5 K.O.",
+          "con_extracto": true
+        },
+        {
+          "n": 26,
+          "fuente": "Poker Noticias",
+          "url": "https://pokernoticias.com/wsop-c/",
+          "titular": "El escenario está listo: Arranca la batalla por los 12 anillos en la WSOPC Panamá",
+          "primera_frase": "La WSOPC Panamá ya está aquí, y este jueves a las 12:00 p.m.",
+          "con_extracto": true
+        },
+        {
+          "n": 27,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1772027-acr-poker-launches-turbo-tuesday-with-50-in-tournament-tickets",
+          "titular": "ACR Poker Launches Turbo Tuesday With $50 In Tournament Tickets",
+          "primera_frase": "ACR Poker’s Turbo Tuesday gives new players $50 in Turbo Tournament Tickets after a qualifying $20 Tuesday deposit.",
+          "con_extracto": true
+        }
+      ],
+      "tipo": "redaccion"
+    }
+  ]
+}
