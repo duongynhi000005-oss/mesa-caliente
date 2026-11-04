@@ -23,7 +23,7 @@
         "Sam Soverel"
       ],
       "alta": "2026-10-07",
-      "ultima_novedad": "2026-10-05",
+      "ultima_novedad": "2026-11-04",
       "fuentes": [
         "poker-red.com",
         "pokernews.com",
@@ -54,7 +54,7 @@
         "Purple Jacket."
       ],
       "alta": "2026-10-18",
-      "ultima_novedad": "2026-11-03",
+      "ultima_novedad": "2026-11-04",
       "fuentes": [
         "cardplayer.com",
         "codigopoker.com",
@@ -81,7 +81,7 @@
         "Purple Jacket"
       ],
       "alta": "2026-10-21",
-      "ultima_novedad": "2026-11-03",
+      "ultima_novedad": "2026-11-04",
       "fuentes": [
         "cardplayer.com",
         "codigopoker.com",
@@ -162,7 +162,7 @@
         "poker.org",
         "wsop.com"
       ],
-      "estado": "activo"
+      "estado": "inactivo"
     },
     {
       "nombre": "Tema: Sammy Farha",
@@ -194,7 +194,7 @@
         "poker.org",
         "pokerlistings.com"
       ],
-      "estado": "activo"
+      "estado": "inactivo"
     },
     {
       "nombre": "Tema: Joe Hachem",
@@ -217,11 +217,13 @@
         "Lucas Jumalon"
       ],
       "alta": "2026-10-28",
-      "ultima_novedad": "2026-10-30",
+      "ultima_novedad": "2026-11-04",
       "fuentes": [
         "codigopoker.com",
         "poker-red.com",
         "poker.org",
+        "pokerfuse.com",
+        "pokerindustrypro.com",
         "pokernews.com",
         "pokernoticias.com",
         "wsop.com"
@@ -241,7 +243,7 @@
         "poker.org",
         "wsop.com"
       ],
-      "estado": "activo"
+      "estado": "inactivo"
     },
     {
       "nombre": "Tema: Crown Melbourne",

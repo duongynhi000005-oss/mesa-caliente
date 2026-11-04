@@ -1,0 +1,729 @@
+{
+  "fecha": "2026-11-04",
+  "corridas": [
+    {
+      "id": "2026-11-04T12:00:27Z",
+      "notas": [
+        {
+          "n": 1,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/jamie-gold-talks-wsop-solana-partnership-52714.htm",
+          "titular": "'A Game Changer': Main Event Champ Jamie Gold on WSOP's Partnership with Solana",
+          "primera_frase": "Find out why time is precious to 2006 Main Event champ Jamie Gold."
+        },
+        {
+          "n": 2,
+          "fuente": "Pokerfuse",
+          "url": "https://pokerfuse.com/latest-news/2026/11/popular-poker-streamer-lex-veldhuis-unveiled/",
+          "titular": "Popular Poker Streamer Lex Veldhuis Unveiled as the Latest GGPoker Ambassador",
+          "primera_frase": ""
+        },
+        {
+          "n": 3,
+          "fuente": "WSOP.com",
+          "url": "https://www.wsop.com/news/new-wsop-circuit-champions-crowned-in-lake-tahoe-and-indiana/",
+          "titular": "NEW WSOP CIRCUIT CHAMPIONS CROWNED IN LAKE TAHOE AND INDIANA",
+          "primera_frase": "Two new WSOP Circuit Main Event champions crowned, with Hamid Izadi going back-to-back at Caesars Southern Indiana, and Scott Stewart victorious at Caesars Lake Tahoe."
+        },
+        {
+          "n": 4,
+          "fuente": "GamblingNews",
+          "url": "https://www.gamblingnews.com/news/nebraska-voters-say-no-to-legalizing-online-sports-gambling-in-the-state/",
+          "titular": "Nebraska Voters Say No to Legalizing Online Sports Gambling in the State",
+          "primera_frase": "The midterms have definitely brought a lot of excitement for prediction markets and for voters, with most pushing back against the current administration and dealing it a sweeping defeat."
+        },
+        {
+          "n": 5,
+          "fuente": "PokerNewsDaily",
+          "url": "https://www.pokernewsdaily.com/how-poker-bonus-clearing-works-1000-example-49209/",
+          "titular": "How Poker Bonus Clearing Works: A $1,000 Example",
+          "primera_frase": "A worked, illustrative $1,000 example showing how rake-based poker bonuses release, what expiry costs, and which terms to read first."
+        },
+        {
+          "n": 6,
+          "fuente": "PokerListings",
+          "url": "https://www.pokerlistings.com/news/two-series-in-one-oss-returns-to-acr-poker-in-a-new-format",
+          "titular": "Two Series in One: OSS Returns to ACR Poker in a New Format",
+          "primera_frase": "From November 8th to 24th, 2026, the Online Super Series runs in a modified, split-format structure with a $20,000,000 guarantee."
+        },
+        {
+          "n": 7,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1772731-jared-bleznick-crushes-dirk-venividi1993-gerritse-in-5-card-plo-session",
+          "titular": "Jared Bleznick Crushes Dirk ‘venividi1993’ Gerritse In 5-Card PLO Session",
+          "primera_frase": "After a stretch of bad results, Jared ‘Theblez’ Bleznick has been on the comeback trail at CoinPoker."
+        },
+        {
+          "n": 8,
+          "fuente": "Poker Industry PRO",
+          "url": "https://pokerindustrypro.com/news/article/226190-lex-veldhuis-signs-ggpoker",
+          "titular": "Lex Veldhuis Signs With GGPoker",
+          "primera_frase": "GGPoker has signed former PokerStars ambassador and prominent Twitch streamer Lex Veldhuis as its newest ambassador, bringing one of online poker’s most recognizable streaming personalities into its r"
+        },
+        {
+          "n": 9,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xnlusr/ia_it_even_worth_it_to_grind_lbs_in_gg_after_the/",
+          "titular": "Ia it even worth it to grind LBs in GG after the prize reduction?",
+          "primera_frase": "Which would be the best site to grind nowadays?"
+        },
+        {
+          "n": 10,
+          "fuente": "PokerNews en español",
+          "url": "https://es.pokernews.com/noticias/2026/11/lex-veldhuis-se-convierte-en-el-nuevo-embajador-de-ggpoker-54199.htm",
+          "titular": "Lex Veldhuis se convierte en el nuevo embajador de GGPoker",
+          "primera_frase": "El popular streamer neerlandés se incorpora al GGTeam como embajador global de streaming."
+        },
+        {
+          "n": 11,
+          "fuente": "PokerNews Brasil",
+          "url": "https://br.pokernews.com/noticias/2026/11/embaixador-888-ian-simpson-vence-torneio-doa-premio-68021.htm",
+          "titular": "Embaixador do 888, Ian Simpson vence torneio e doa prêmio total para a caridade",
+          "primera_frase": "A doação do jogador ajudou evento beneficente a alcançar a meta de £ 100 mil arrecadados"
+        },
+        {
+          "n": 12,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/torneos/wsop/empieza-wsop-rosario",
+          "titular": "Con 12 anillos en juego, empieza la WSOP Rosario en el City Center",
+          "primera_frase": ""
+        },
+        {
+          "n": 13,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/quien-abrira-el-primer-cofre-en-el-penultimo-episodio-de-golden-button",
+          "titular": "¿Quién abrirá el primer cofre en el penúltimo episodio de Golden Button?",
+          "primera_frase": "Golden Button"
+        },
+        {
+          "n": 14,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/strategy/where-did-the-term-old-man-coffee-come-from-52735.htm",
+          "titular": "How Alex Livingston Created Poker's Most Famous Player Stereotype",
+          "primera_frase": "Alex Livingston reveals how he coined poker's Old Man Coffee (OMC) term back in 2009."
+        },
+        {
+          "n": 15,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1772671-pokerstars-becomes-second-online-poker-operator-to-launch-in-alberta",
+          "titular": "PokerStars Becomes Second Online Poker Operator To Launch In Alberta",
+          "primera_frase": "PokerStars launched its mobile poker platform in Alberta this week, making it the second online poker option in the Canadian province."
+        },
+        {
+          "n": 16,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xnkrih/when_did_i_screw_up_the_most_proflop_or_turn/",
+          "titular": "When did I screw up the most ? Proflop or turn ?",
+          "primera_frase": "Hi community, I would love to hear your opinion on this hand."
+        },
+        {
+          "n": 17,
+          "fuente": "PokerNews en español",
+          "url": "https://es.pokernews.com/noticias/2026/11/juan-pardo-se-queda-a-las-puertas-de-su-sexto-ggmillion-54198.htm",
+          "titular": "Juan Pardo se queda a las puertas de su sexto GGMillion$: segundo por 311.806 $",
+          "primera_frase": "El malagueño cayó ante Vladimir Minko en el heads-up y se llevó un premio de 311.806 $."
+        },
+        {
+          "n": 18,
+          "fuente": "PokerNews Brasil",
+          "url": "https://br.pokernews.com/noticias/2026/11/dobradinha-verde-amarela-forras-insanas-shr-ggpoker-68020.htm",
+          "titular": "Dobradinha verde e amarela garante forras insanas no SHR do APT Online na GGPoker",
+          "primera_frase": "Ciro Gomes e Breno Bertalia deram show e saíram de bolsos cheios"
+        },
+        {
+          "n": 19,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/brazilian-series-of-poker/bsop-millions-astropay",
+          "titular": "¿Vas al BSOP Millions 2026? Cómo viajar sin efectivo y pagar tus buy-ins con AstroPay",
+          "primera_frase": ""
+        },
+        {
+          "n": 20,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/juan-pardo-roza-su-sexto-ggmillionUSD-y-se-lleva-311.806-USD",
+          "titular": "Juan Pardo roza su sexto GGMillion$ y se lleva 311.806 $",
+          "primera_frase": "ggmillion$"
+        },
+        {
+          "n": 21,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/lex-veldhuis-joins-ggpoker-52729.htm",
+          "titular": "Lex Veldhuis Becomes the Newest GGPoker Ambassador",
+          "primera_frase": "Veldhuis left PokerStars earlier this year."
+        },
+        {
+          "n": 22,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1772766-scott-stewart-wins-wsop-circuit-lake-tahoe-main-event-for-ninth-ring",
+          "titular": "Scott Stewart Wins WSOP Circuit Lake Tahoe Main Event For Ninth Ring",
+          "primera_frase": "Scott Stewart rallied from a 3-to-1 deficit against Tyler Parker to win the WSOP Circuit Lake Tahoe main event for his ninth career ring."
+        },
+        {
+          "n": 23,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xnjeb9/888_poker_down/",
+          "titular": "888 poker down?",
+          "primera_frase": "Anyone else not able to login or download 888 poker - I think since the last windows update?"
+        },
+        {
+          "n": 24,
+          "fuente": "PokerNews Brasil",
+          "url": "https://br.pokernews.com/noticias/2026/11/sala-poker-inspire-resort-wpt-seoul-68018.htm",
+          "titular": "Nova sala de poker no INSPIRE Resort rouba a cena durante o WPT Seoul; veja fotos",
+          "primera_frase": "Luxo e estrutura impressionam no ambiente que recebe o festival"
+        },
+        {
+          "n": 25,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/rooms-y-plataformas/golden-one-bcpoker",
+          "titular": "Golden One BCPoker: US$1,111 garantizados por solo $1 este miércoles",
+          "primera_frase": ""
+        },
+        {
+          "n": 26,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/strategy/was-nicholas-palma-massive-ace-king-bluff-a-bad-play-52724.htm",
+          "titular": "Was Nicky P's Massive Ace-King Bluff a Bad Play? GTO Wizard Reveals the Answer",
+          "primera_frase": "GTO Wizard breaks down Nicholas Palma's massive ace-king bluff at Poker Masters."
+        },
+        {
+          "n": 27,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1772676-hamid-izadi-goes-back-to-back-in-wsop-circuit-southern-indiana-main-event",
+          "titular": "Hamid Izadi Goes Back-To-Back In WSOP Circuit Southern Indiana Main Event",
+          "primera_frase": "Hamid Izadi defended his WSOP Circuit Southern Indiana main event title, tying Maurice Hawkins with a record four WSOPC Main Event wins."
+        },
+        {
+          "n": 28,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/torneos/estados-unidos/sam-soverel-record-18-titulos-pgt",
+          "titular": "Sam Soverel necesitó dos manos para estirar su récord en el PGT",
+          "primera_frase": ""
+        },
+        {
+          "n": 29,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/pokerstars-spooky-season-finale-sunday-million-52733.htm",
+          "titular": "Curtain Comes Down on the PokerStars Spooky Season With Scarily Big Sunday Million",
+          "primera_frase": "The Sunday Million Spooky Season Finale boasts a $1 million guarantee."
+        },
+        {
+          "n": 30,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1772643-sam-soverel-wins-record-extending-18th-pgt-title",
+          "titular": "Sam Soverel Wins Record-Extending 18th PGT Title",
+          "primera_frase": "Sam Soverel extended his tour lead with a record 18th PGT title, topping 61 entries in PGT Sprint event no."
+        },
+        {
+          "n": 31,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/industria/libro-definitivo-de-omaha",
+          "titular": "¿Se escribió el libro definitivo de Omaha? Un experto quiere demostrarlo",
+          "primera_frase": ""
+        },
+        {
+          "n": 32,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/fernando-jnandez-habegger-100-essential-tips-to-master-plo-52732.htm",
+          "titular": "Is Fernando “JNandez” Habegger's New Manuscript the Best PLO Book Ever Written?",
+          "primera_frase": "It marks the second book by Fernando “JNandez” Habegger in conjunction w/ D+B Publishing."
+        },
+        {
+          "n": 33,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1772631-a-heads-up-chop-in-the-coinpoker-coinmillion",
+          "titular": "A Heads-Up Chop In The CoinPoker CoinMillion",
+          "primera_frase": "For the fourth time in nine outings, the huge field event that is the CoinMillion concluded with an ICM deal for the podium finishers."
+        },
+        {
+          "n": 34,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/industria/ola-de-asaltos-a-clubes-texas",
+          "titular": "Ola de asaltos a clubes de poker en Texas enciende las alarmas: refuerzan la seguridad",
+          "primera_frase": ""
+        },
+        {
+          "n": 35,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/industria/ggpoker-ficha-a-lex-veldhuis",
+          "titular": "GGPoker ficha a Lex Veldhuis, al rey del poker en Twitch",
+          "primera_frase": ""
+        },
+        {
+          "n": 36,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/escalera-de-color-bad-beat-jackpot-illinois",
+          "titular": "Perdió con escalera de color pero se llevó casi US$330.000",
+          "primera_frase": ""
+        },
+        {
+          "n": 37,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/torneos-mexico/emir-reyes-consiguio-el-ultimo-titulo-de-la-psop-calaverita",
+          "titular": "Emir Reyes consiguió el último título de la PSOP Calaverita",
+          "primera_frase": ""
+        },
+        {
+          "n": 38,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/aprende-poker/6-razones-por-las-que-deberias-hacer-mas-3-bets-desde-la-ciega-grande",
+          "titular": "6 razones por las que deberías hacer más 3-bets desde la ciega grande",
+          "primera_frase": ""
+        },
+        {
+          "n": 39,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/10/texas-card-house-poker-room-security-52705.htm",
+          "titular": "Texas Card House Ramps Up Security After Numerous Houston Poker Rooms Robbed",
+          "primera_frase": "TCH knows the poker room can't be too safe."
+        },
+        {
+          "n": 40,
+          "fuente": "Pokerfuse",
+          "url": "https://pokerfuse.com/latest-news/2026/11/pokerstars-on-fanduel-goes-live-alberta/",
+          "titular": "PokerStars on FanDuel Goes Live in Alberta as a Ring-Fenced Site",
+          "primera_frase": ""
+        },
+        {
+          "n": 41,
+          "fuente": "PokerListings",
+          "url": "https://www.pokerlistings.com/news/malta-poker-festival-autumn-edition-becomes-a-colorful-celebration-of-love-for-the-game",
+          "titular": "Malta Poker Festival Autumn Edition Becomes a Colorful Celebration of Love for the Game",
+          "primera_frase": "One of Europe’s most popular tournament series is taking place in Malta from October 23rd to November 4th, 2026."
+        },
+        {
+          "n": 42,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1772027-acr-poker-launches-turbo-tuesday-with-50-in-tournament-tickets",
+          "titular": "ACR Poker Launches Turbo Tuesday With $50 In Tournament Tickets",
+          "primera_frase": "ACR Poker’s Turbo Tuesday gives new players $50 in Turbo Tournament Tickets after a qualifying $20 Tuesday deposit."
+        },
+        {
+          "n": 43,
+          "fuente": "Poker Industry PRO",
+          "url": "https://pokerindustrypro.com/news/article/226167-pokerstars-on-fanduel-launches-alberta-becomes",
+          "titular": "PokerStars on FanDuel Launches in Alberta, Becomes Province's Second Online Poker Room",
+          "primera_frase": "We’re working hard on shared liquidity with Ontario."
+        },
+        {
+          "n": 44,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xmtqjs/lex_veldhuis_ama_wed_nov_4_1900_utc/",
+          "titular": "🚨 LEX VELDHUIS AMA – WED, NOV 4 | 19:00 UTC 🚨",
+          "primera_frase": "Fresh off being unveiled as GGPoker's new Global Streaming Ambassador , Lex Veldhuis is joining us for an AMA right here on r/poker !"
+        },
+        {
+          "n": 45,
+          "fuente": "PokerNews en español",
+          "url": "https://es.pokernews.com/noticias/2026/11/el-battle-of-malta-anuncia-una-edicion-en-barcelona-enero-54188.htm",
+          "titular": "El Battle of Malta anuncia una edición en Barcelona para enero de 2027",
+          "primera_frase": "El festival se estrenará en España del 20 al 24 de enero, con un Main Event de 600 €."
+        },
+        {
+          "n": 46,
+          "fuente": "PokerNews Brasil",
+          "url": "https://br.pokernews.com/noticias/2026/11/power-path-bsop-millions-pacotes-2500-68010.htm",
+          "titular": "Power Path pode levar jogadores ao BSOP Millions com pacotes de US$ 2.500; saiba como",
+          "primera_frase": "Silver Pass inclui buy-in do Main Event, créditos para torneios e ajuda de custo"
+        },
+        {
+          "n": 47,
+          "fuente": "Poker Noticias",
+          "url": "https://pokernoticias.com/wsop-c/",
+          "titular": "El escenario está listo: Arranca la batalla por los 12 anillos en la WSOPC Panamá",
+          "primera_frase": "La WSOPC Panamá ya está aquí, y este jueves a las 12:00 p.m."
+        },
+        {
+          "n": 48,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/torneos-eeuu/sandro-sa-llevo-la-bandera-de-brasil-a-una-nueva-mesa-final-en-la-rungood-poker-series",
+          "titular": "Sandro Sa llevó la bandera de Brasil a una nueva mesa final en la RunGood Poker Series",
+          "primera_frase": ""
+        },
+        {
+          "n": 49,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/de-triton-one-a-las-shrs-26-dias-de-poker-y-32-trofeos-en-chipre",
+          "titular": "De Triton ONE a las SHRS: 26 días de poker y 32 trofeos en Chipre",
+          "primera_frase": "Triton Cyprus"
+        },
+        {
+          "n": 50,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/888-s-ian-simpson-donates-winnings-to-charity-after-kav-cup-52721.htm",
+          "titular": "888's Ian Simpson Donates Winnings to Charity After Kav Cup Victory",
+          "primera_frase": "Simpson donated his winnings, which helped the charity event reach its £100,000 goal."
+        },
+        {
+          "n": 51,
+          "fuente": "Poker Industry PRO",
+          "url": "https://pokerindustrypro.com/news/article/226142-monday-shuffle-november-2-2026",
+          "titular": "The Monday Shuffle: November 2, 2026",
+          "primera_frase": "The Monday Shuffle marks its first anniversary this week."
+        },
+        {
+          "n": 52,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xm4lho/november_i_built_a_poker_tool_mega_thread/",
+          "titular": "November ‘I built a poker tool’ mega thread",
+          "primera_frase": "Requirements to post a top level comment: -This must be a poker-related tool, not a poker operator that offers poker games vs humans, roulette etc."
+        },
+        {
+          "n": 53,
+          "fuente": "PokerNews Brasil",
+          "url": "https://br.pokernews.com/noticias/2026/11/phil-nick-hellmuth-eliminados-wpt-bay-101-68009.htm",
+          "titular": "Pai e filho eliminados: Phil e Nick Hellmuth se despedem do WPT Bay 101 Shooting Star",
+          "primera_frase": "Além da dupla, outras estrelas do poker protagonizaram quedas marcantes no torneio"
+        },
+        {
+          "n": 54,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/rooms-y-plataformas/ggpoker/artur-martirosian-busca-seguir-agigantando-su-record-en-el-ggmillion",
+          "titular": "Artur Martirosian busca seguir agigantando su récord en el GGMillion$",
+          "primera_frase": ""
+        },
+        {
+          "n": 55,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/el-battle-of-malta-aterrizara-en-casino-barcelona-en-enero-de-2027",
+          "titular": "El Battle of Malta aterrizará en Casino Barcelona en enero de 2027",
+          "primera_frase": "Battle of Malta"
+        },
+        {
+          "n": 56,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/battle-of-malta-announces-a-barcelona-edition-coming-january-52720.htm",
+          "titular": "Battle of Malta Announces a Barcelona Edition Coming January 2027",
+          "primera_frase": "The Battle of Malta Barcelona Edition runs January 20-24."
+        },
+        {
+          "n": 57,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xnczax/cant_believe_it/",
+          "titular": "Can’t believe it!!",
+          "primera_frase": "I won my second ever tournament !!! So I’m not an Mtt player by any means."
+        },
+        {
+          "n": 58,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/aprende-poker/se-pueden-evitar-las-peleas-poker",
+          "titular": "¿Se pueden evitar las peleas en el poker? Un reconocido director de torneos explica cómo",
+          "primera_frase": ""
+        },
+        {
+          "n": 59,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/los-global-poker-awards-regresan-durante-las-wsop-paradise",
+          "titular": "Los Global Poker Awards regresan durante las WSOP Paradise",
+          "primera_frase": "WSOP Paradise 2026"
+        },
+        {
+          "n": 60,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/triton-poker-series/triton-invitational-x-el-torneo-que-revoluciono-el-poker-de-elite-celebra-diez-anos-de-historia",
+          "titular": "Triton Invitational X: el torneo que revolucionó el poker de élite celebra diez años de historia",
+          "primera_frase": ""
+        },
+        {
+          "n": 61,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/juan-pardo-lidera-la-ft-del-ggmillionUSD-y-apunta-a-los-404.362-USD",
+          "titular": "Juan Pardo lidera la FT del GGMillion$ y apunta a los 404.362 $",
+          "primera_frase": "ggmillion$"
+        },
+        {
+          "n": 62,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/industria/jeff-platt-volvera-a-presentar-los-global-poker-awards-y-aseguro-que-sera-absolutamente-implacable",
+          "titular": "Jeff Platt volverá a presentar los Global Poker Awards y aseguró que será «absolutamente implacable»",
+          "primera_frase": ""
+        },
+        {
+          "n": 63,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/el-cnp-winamax-estrena-el-poker-como-escuela-de-vida",
+          "titular": "El CNP Winamax estrena «El poker como escuela de vida»",
+          "primera_frase": "CNP Winamax"
+        },
+        {
+          "n": 64,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/torneos-europa/profesional-del-poker-dona-premio",
+          "titular": "Profesional del poker gana un torneo y dona todo su premio a la caridad",
+          "primera_frase": ""
+        },
+        {
+          "n": 65,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/poker-online-estados-unidos-liquidez",
+          "titular": "El cambio que está transformando el poker online en EE.UU.",
+          "primera_frase": ""
+        },
+        {
+          "n": 66,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/torneos/europa/battle-of-malta-barcelona-enero-2027",
+          "titular": "El Battle of Malta cruza el Mediterráneo y desembarca en Barcelona",
+          "primera_frase": ""
+        },
+        {
+          "n": 67,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/torneos-mexico/benjamin-hinneman-conquisto-el-main-event-de-la-psop-calaverita",
+          "titular": "Benjamin Hinneman conquistó el Main Event de la PSOP Calaverita",
+          "primera_frase": ""
+        },
+        {
+          "n": 68,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/torneos/wsop/wsop-paradise-inscripciones-criptomonedas",
+          "titular": "Las WSOP Paradise permitirán jugar sin pasar por caja y pagar con criptomonedas",
+          "primera_frase": ""
+        }
+      ],
+      "tipo": "seleccion"
+    },
+    {
+      "id": "2026-11-04T12:00:27Z",
+      "notas": [
+        {
+          "n": 1,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/adrian-mateos-copiar-las-soluciones-del-solver-es-un-gran-error",
+          "titular": "Adrián Mateos: «Copiar las soluciones del solver es un gran error»",
+          "primera_frase": "Entrevistas",
+          "con_extracto": true,
+          "tema": "Tema: Adrián Mateos"
+        },
+        {
+          "n": 2,
+          "fuente": "Pokerfuse",
+          "url": "https://pokerfuse.com/latest-news/2026/11/popular-poker-streamer-lex-veldhuis-unveiled/",
+          "titular": "Popular Poker Streamer Lex Veldhuis Unveiled as the Latest GGPoker Ambassador",
+          "primera_frase": "",
+          "con_extracto": true
+        },
+        {
+          "n": 3,
+          "fuente": "Poker Industry PRO",
+          "url": "https://pokerindustrypro.com/news/article/226190-lex-veldhuis-signs-ggpoker",
+          "titular": "Lex Veldhuis Signs With GGPoker",
+          "primera_frase": "GGPoker has signed former PokerStars ambassador and prominent Twitch streamer Lex Veldhuis as its newest ambassador, bringing one of online poker’s most recognizable streaming personalities into its r"
+        },
+        {
+          "n": 4,
+          "fuente": "PokerNews en español",
+          "url": "https://es.pokernews.com/noticias/2026/11/lex-veldhuis-se-convierte-en-el-nuevo-embajador-de-ggpoker-54199.htm",
+          "titular": "Lex Veldhuis se convierte en el nuevo embajador de GGPoker",
+          "primera_frase": "El popular streamer neerlandés se incorpora al GGTeam como embajador global de streaming."
+        },
+        {
+          "n": 5,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/lex-veldhuis-joins-ggpoker-52729.htm",
+          "titular": "Lex Veldhuis Becomes the Newest GGPoker Ambassador",
+          "primera_frase": "Veldhuis left PokerStars earlier this year."
+        },
+        {
+          "n": 6,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/industria/ggpoker-ficha-a-lex-veldhuis",
+          "titular": "GGPoker ficha a Lex Veldhuis, al rey del poker en Twitch",
+          "primera_frase": ""
+        },
+        {
+          "n": 7,
+          "fuente": "WSOP.com",
+          "url": "https://www.wsop.com/news/new-wsop-circuit-champions-crowned-in-lake-tahoe-and-indiana/",
+          "titular": "NEW WSOP CIRCUIT CHAMPIONS CROWNED IN LAKE TAHOE AND INDIANA",
+          "primera_frase": "Two new WSOP Circuit Main Event champions crowned, with Hamid Izadi going back-to-back at Caesars Southern Indiana, and Scott Stewart victorious at Caesars Lake Tahoe.",
+          "con_extracto": true
+        },
+        {
+          "n": 8,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1772766-scott-stewart-wins-wsop-circuit-lake-tahoe-main-event-for-ninth-ring",
+          "titular": "Scott Stewart Wins WSOP Circuit Lake Tahoe Main Event For Ninth Ring",
+          "primera_frase": "Scott Stewart rallied from a 3-to-1 deficit against Tyler Parker to win the WSOP Circuit Lake Tahoe main event for his ninth career ring."
+        },
+        {
+          "n": 9,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1772676-hamid-izadi-goes-back-to-back-in-wsop-circuit-southern-indiana-main-event",
+          "titular": "Hamid Izadi Goes Back-To-Back In WSOP Circuit Southern Indiana Main Event",
+          "primera_frase": "Hamid Izadi defended his WSOP Circuit Southern Indiana main event title, tying Maurice Hawkins with a record four WSOPC Main Event wins."
+        },
+        {
+          "n": 10,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1772671-pokerstars-becomes-second-online-poker-operator-to-launch-in-alberta",
+          "titular": "PokerStars Becomes Second Online Poker Operator To Launch In Alberta",
+          "primera_frase": "PokerStars launched its mobile poker platform in Alberta this week, making it the second online poker option in the Canadian province.",
+          "con_extracto": true
+        },
+        {
+          "n": 11,
+          "fuente": "Pokerfuse",
+          "url": "https://pokerfuse.com/latest-news/2026/11/pokerstars-on-fanduel-goes-live-alberta/",
+          "titular": "PokerStars on FanDuel Goes Live in Alberta as a Ring-Fenced Site",
+          "primera_frase": ""
+        },
+        {
+          "n": 12,
+          "fuente": "Poker Industry PRO",
+          "url": "https://pokerindustrypro.com/news/article/226167-pokerstars-on-fanduel-launches-alberta-becomes",
+          "titular": "PokerStars on FanDuel Launches in Alberta, Becomes Province's Second Online Poker Room",
+          "primera_frase": "We’re working hard on shared liquidity with Ontario."
+        },
+        {
+          "n": 13,
+          "fuente": "PokerListings",
+          "url": "https://www.pokerlistings.com/news/two-series-in-one-oss-returns-to-acr-poker-in-a-new-format",
+          "titular": "Two Series in One: OSS Returns to ACR Poker in a New Format",
+          "primera_frase": "From November 8th to 24th, 2026, the Online Super Series runs in a modified, split-format structure with a $20,000,000 guarantee.",
+          "con_extracto": true
+        },
+        {
+          "n": 14,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1772731-jared-bleznick-crushes-dirk-venividi1993-gerritse-in-5-card-plo-session",
+          "titular": "Jared Bleznick Crushes Dirk ‘venividi1993’ Gerritse In 5-Card PLO Session",
+          "primera_frase": "After a stretch of bad results, Jared ‘Theblez’ Bleznick has been on the comeback trail at CoinPoker.",
+          "con_extracto": true
+        },
+        {
+          "n": 15,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1772631-a-heads-up-chop-in-the-coinpoker-coinmillion",
+          "titular": "A Heads-Up Chop In The CoinPoker CoinMillion",
+          "primera_frase": "For the fourth time in nine outings, the huge field event that is the CoinMillion concluded with an ICM deal for the podium finishers."
+        },
+        {
+          "n": 16,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1772643-sam-soverel-wins-record-extending-18th-pgt-title",
+          "titular": "Sam Soverel Wins Record-Extending 18th PGT Title",
+          "primera_frase": "Sam Soverel extended his tour lead with a record 18th PGT title, topping 61 entries in PGT Sprint event no.",
+          "con_extracto": true
+        },
+        {
+          "n": 17,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/strategy/where-did-the-term-old-man-coffee-come-from-52735.htm",
+          "titular": "How Alex Livingston Created Poker's Most Famous Player Stereotype",
+          "primera_frase": "Alex Livingston reveals how he coined poker's Old Man Coffee (OMC) term back in 2009.",
+          "con_extracto": true
+        },
+        {
+          "n": 18,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/10/texas-card-house-poker-room-security-52705.htm",
+          "titular": "Texas Card House Ramps Up Security After Numerous Houston Poker Rooms Robbed",
+          "primera_frase": "TCH knows the poker room can't be too safe.",
+          "con_extracto": true
+        },
+        {
+          "n": 19,
+          "fuente": "PokerListings",
+          "url": "https://www.pokerlistings.com/news/malta-poker-festival-autumn-edition-becomes-a-colorful-celebration-of-love-for-the-game",
+          "titular": "Malta Poker Festival Autumn Edition Becomes a Colorful Celebration of Love for the Game",
+          "primera_frase": "One of Europe’s most popular tournament series is taking place in Malta from October 23rd to November 4th, 2026.",
+          "con_extracto": true
+        },
+        {
+          "n": 20,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/888-s-ian-simpson-donates-winnings-to-charity-after-kav-cup-52721.htm",
+          "titular": "888's Ian Simpson Donates Winnings to Charity After Kav Cup Victory",
+          "primera_frase": "Simpson donated his winnings, which helped the charity event reach its £100,000 goal.",
+          "con_extracto": true
+        },
+        {
+          "n": 21,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/battle-of-malta-announces-a-barcelona-edition-coming-january-52720.htm",
+          "titular": "Battle of Malta Announces a Barcelona Edition Coming January 2027",
+          "primera_frase": "The Battle of Malta Barcelona Edition runs January 20-24.",
+          "con_extracto": true
+        },
+        {
+          "n": 22,
+          "fuente": "PokerNews en español",
+          "url": "https://es.pokernews.com/noticias/2026/11/juan-pardo-se-queda-a-las-puertas-de-su-sexto-ggmillion-54198.htm",
+          "titular": "Juan Pardo se queda a las puertas de su sexto GGMillion$: segundo por 311.806 $",
+          "primera_frase": "El malagueño cayó ante Vladimir Minko en el heads-up y se llevó un premio de 311.806 $.",
+          "con_extracto": true
+        },
+        {
+          "n": 23,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/juan-pardo-roza-su-sexto-ggmillionUSD-y-se-lleva-311.806-USD",
+          "titular": "Juan Pardo roza su sexto GGMillion$ y se lleva 311.806 $",
+          "primera_frase": "ggmillion$"
+        },
+        {
+          "n": 24,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/juan-pardo-lidera-la-ft-del-ggmillionUSD-y-apunta-a-los-404.362-USD",
+          "titular": "Juan Pardo lidera la FT del GGMillion$ y apunta a los 404.362 $",
+          "primera_frase": "ggmillion$"
+        },
+        {
+          "n": 25,
+          "fuente": "PokerNews Brasil",
+          "url": "https://br.pokernews.com/noticias/2026/11/embaixador-888-ian-simpson-vence-torneio-doa-premio-68021.htm",
+          "titular": "Embaixador do 888, Ian Simpson vence torneio e doa prêmio total para a caridade",
+          "primera_frase": "A doação do jogador ajudou evento beneficente a alcançar a meta de £ 100 mil arrecadados",
+          "con_extracto": true
+        },
+        {
+          "n": 26,
+          "fuente": "PokerNews en español",
+          "url": "https://es.pokernews.com/noticias/2026/11/el-battle-of-malta-anuncia-una-edicion-en-barcelona-enero-54188.htm",
+          "titular": "El Battle of Malta anuncia una edición en Barcelona para enero de 2027",
+          "primera_frase": "El festival se estrenará en España del 20 al 24 de enero, con un Main Event de 600 €.",
+          "con_extracto": true
+        },
+        {
+          "n": 27,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/el-battle-of-malta-aterrizara-en-casino-barcelona-en-enero-de-2027",
+          "titular": "El Battle of Malta aterrizará en Casino Barcelona en enero de 2027",
+          "primera_frase": "Battle of Malta"
+        },
+        {
+          "n": 28,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/torneos/europa/battle-of-malta-barcelona-enero-2027",
+          "titular": "El Battle of Malta cruza el Mediterráneo y desembarca en Barcelona",
+          "primera_frase": ""
+        },
+        {
+          "n": 29,
+          "fuente": "Poker Noticias",
+          "url": "https://pokernoticias.com/wsop-c/",
+          "titular": "El escenario está listo: Arranca la batalla por los 12 anillos en la WSOPC Panamá",
+          "primera_frase": "La WSOPC Panamá ya está aquí, y este jueves a las 12:00 p.m.",
+          "con_extracto": true
+        },
+        {
+          "n": 30,
+          "fuente": "PokerNews Brasil",
+          "url": "https://br.pokernews.com/noticias/2026/11/phil-nick-hellmuth-eliminados-wpt-bay-101-68009.htm",
+          "titular": "Pai e filho eliminados: Phil e Nick Hellmuth se despedem do WPT Bay 101 Shooting Star",
+          "primera_frase": "Além da dupla, outras estrelas do poker protagonizaram quedas marcantes no torneio",
+          "con_extracto": true
+        },
+        {
+          "n": 31,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1772027-acr-poker-launches-turbo-tuesday-with-50-in-tournament-tickets",
+          "titular": "ACR Poker Launches Turbo Tuesday With $50 In Tournament Tickets",
+          "primera_frase": "ACR Poker’s Turbo Tuesday gives new players $50 in Turbo Tournament Tickets after a qualifying $20 Tuesday deposit.",
+          "con_extracto": true
+        }
+      ],
+      "tipo": "redaccion"
+    }
+  ]
+}
