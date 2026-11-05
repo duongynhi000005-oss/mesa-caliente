@@ -1,0 +1,573 @@
+{
+  "fecha": "2026-11-05",
+  "corridas": [
+    {
+      "id": "2026-11-05T12:00:25Z",
+      "notas": [
+        {
+          "n": 1,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/fraser-bellamy-runs-riot-at-the-gukpt-blackpool-mini-main-fi-52744.htm",
+          "titular": "Fraser Bellamy Runs Riot at the GUKPT Blackpool Mini Main Final Table",
+          "primera_frase": "Bellamy topped a 687-strong crowd and took down the £250 Mini Main for £27,945."
+        },
+        {
+          "n": 2,
+          "fuente": "Pokerfuse",
+          "url": "https://pokerfuse.com/latest-news/2026/11/last-call-get-your-full-limited-time-free-access/",
+          "titular": "Last Call to Get Your Full Limited-Time Free Access to PokerCoaching",
+          "primera_frase": ""
+        },
+        {
+          "n": 3,
+          "fuente": "GamblingNews",
+          "url": "https://www.gamblingnews.com/news/horseshoe-casino-baltimore-caesars-to-pay-150k-to-blackjack-dealer-who-had-heart-attack/",
+          "titular": "Horseshoe Casino Baltimore, Caesars to Pay $150K to Blackjack Dealer Who Had Heart Attack",
+          "primera_frase": "A former blackjack dealer at Horseshoe Casino Baltimore will receive a $150,000 settlement after the man was fired from the job after he had a heart attack and was unable to return to performing his d"
+        },
+        {
+          "n": 4,
+          "fuente": "PokerNewsDaily",
+          "url": "https://www.pokernewsdaily.com/jamie-gold-links-wsop-paradise-solana-49247/",
+          "titular": "Jamie Gold Discusses WSOP Partnership With Solana, Crypto Buy-Ins Coming to WSOP Paradise",
+          "primera_frase": "Jamie Gold, who won the 2006 World Series of Poker Main Event and took home $12 million, is connected to a new partnership between the WSOP and Solana, according to PokerNews."
+        },
+        {
+          "n": 5,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1773657-unlock-jackpoker-prizes-with-fast-fold-daily-quests",
+          "titular": "Unlock JackPoker Prizes With Fast Fold Daily Quests",
+          "primera_frase": "JackPoker is running Fast Fold quests, a $1.5 million Mystery Bounty Series, and daily High Roller satellites through Nov."
+        },
+        {
+          "n": 6,
+          "fuente": "Poker Industry PRO",
+          "url": "https://pokerindustrypro.com/news/article/226207-clubwpt-gold-hosting-most-ambitious-event-its",
+          "titular": "ClubWPT Gold Hosting “Most Ambitious Event” in Its History",
+          "primera_frase": "ClubWPT Gold ( CWG ), WPT’s sweepstakes poker platform, is hosting its biggest online tournament to date this month."
+        },
+        {
+          "n": 7,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xogt8d/microstakes_lernen_ger/",
+          "titular": "Microstakes Lernen (GER)",
+          "primera_frase": "Hello, ich spiele 5-20NL auf W2D und PS. Wäre jemand motiviert study Sessions zu machen?"
+        },
+        {
+          "n": 8,
+          "fuente": "tightpoker.com",
+          "url": "https://www.tightpoker.com/news/ggpoker-announce-streaming-giant-lex-veldhuis-as-latest-ambassador/",
+          "titular": "GGPoker Announce Streaming Giant Lex Veldhuis as Latest Ambassador",
+          "primera_frase": "The streaming online poker legend Lex Veldhuis has joined GGPoker as the market leader grows its roster with the latest former PokerStars ambassador."
+        },
+        {
+          "n": 9,
+          "fuente": "PokerNews en español",
+          "url": "https://es.pokernews.com/noticias/2026/11/tereza-vernerova-hace-historia-ganar-main-event-battle-malta-54208.htm",
+          "titular": "Tereza Vernerova hace historia al ganar el Main Event del Battle of Malta por 162.635 €",
+          "primera_frase": "La checa supera 5.368 entradas y se convierte en la primera mujer campeona del Main Event."
+        },
+        {
+          "n": 10,
+          "fuente": "PokerNews Brasil",
+          "url": "https://br.pokernews.com/noticias/2026/11/melhores-apelidos-historia-poker-68039.htm",
+          "titular": "De Unabomber a Kid Poker: qual o melhor apelido da história do poker? Opine",
+          "primera_frase": "Conheça as histórias curiosas por trás dos apelidos de grandes lendas das mesas"
+        },
+        {
+          "n": 11,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/jnandez-lanza-un-nuevo-libro-para-dominar-el-pot-limit-omaha",
+          "titular": "“JNandez” lanza un nuevo libro para dominar el Pot-Limit Omaha",
+          "primera_frase": "Pot Limit Omaha"
+        },
+        {
+          "n": 12,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/tereza-vernerova-makes-history-battle-of-malta-victory-52743.htm",
+          "titular": "Tereza Vernerova Makes History with Battle of Malta Main Event Victory",
+          "primera_frase": "Vernerova becomes the first female Battle of Malta Main Event champion."
+        },
+        {
+          "n": 13,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1773644-voters-in-indiana-nebraska-and-virginia-reject-gambling-expansion",
+          "titular": "Voters In Indiana, Nebraska, And Virginia Reject Gambling Expansion",
+          "primera_frase": "Voters in Indiana, Nebraska, and Virginia rejected proposals to expand gambling, while results in Texas could open door to future legislation."
+        },
+        {
+          "n": 14,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xofqgg/privat_poker_games_in_frankfurt_am_main_tomorrow/",
+          "titular": "Privat Poker Games in Frankfurt am Main tomorrow 06.11",
+          "primera_frase": "Hey everyone, We’re kicking off a new series of private 1/2 NLH poker games in Frankfurt am Main starting tomorrow !"
+        },
+        {
+          "n": 15,
+          "fuente": "PokerNews Brasil",
+          "url": "https://br.pokernews.com/noticias/2026/11/sunday-million-spooky-season-68038.htm",
+          "titular": "Sunday Million encerrará Spooky Season do PokerStars com chave de ouro; confira",
+          "primera_frase": "São US$ 1 milhão em prêmios e estrutura Progressive Knockout"
+        },
+        {
+          "n": 16,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/lex-veldhuis-ficha-por-ggpoker-como-nuevo-global-streaming-ambassador",
+          "titular": "Lex Veldhuis ficha por GGPoker como nuevo Global Streaming Ambassador",
+          "primera_frase": "GGpoker"
+        },
+        {
+          "n": 17,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/rgps-returns-to-san-diego-with-150k-main-event-at-jamul-52726.htm",
+          "titular": "RGPS Returns to San Diego With $150K Main Event at Jamul Casino",
+          "primera_frase": "Twelve ring events and a $150K guaranteed Main Event await players at Jamul Casino."
+        },
+        {
+          "n": 18,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xofena/do_i_cash_out/",
+          "titular": "Do I Cash Out?",
+          "primera_frase": "I play 1/2 & 5/5. submitted by /u/beerex355 [link] [comentarios]"
+        },
+        {
+          "n": 19,
+          "fuente": "PokerNews Brasil",
+          "url": "https://br.pokernews.com/noticias/2026/11/global-poker-awards-retorna-68035.htm",
+          "titular": "Após hiato de um ano, Global Poker Awards retorna com nova sede e categorias inéditas",
+          "primera_frase": "A premiação retorna com mudanças importantes e promete uma edição cheia de novidades"
+        },
+        {
+          "n": 20,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/tereza-vernerova-primera-mujer-en-ganar-el-main-event-del-battle-of-malta",
+          "titular": "Tereza Vernerova, primera mujer en ganar el Main Event del Battle of Malta",
+          "primera_frase": "Battle of Malta"
+        },
+        {
+          "n": 21,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/hellmuths-home-game-season-2-episode-4-recap-52731.htm",
+          "titular": "Stanley Tang & Kelly Lucas Roll on Latest Hellmuth’s Home Game; Rampage \"Completely Buried\"",
+          "primera_frase": "Others in the game included Charlie Hook, Dan \"Jungleman\" Cates, and Stanley Tang."
+        },
+        {
+          "n": 22,
+          "fuente": "PokerNews Brasil",
+          "url": "https://br.pokernews.com/noticias/2026/11/lex-veldhuis-embaixador-ggpoker-68032.htm",
+          "titular": "Lex Veldhuis é anunciado como embaixador da GGPoker: \"Novo capítulo\"",
+          "primera_frase": "O holandês deixou o PokerStars no começo deste ano"
+        },
+        {
+          "n": 23,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/vas-a-juzgar-tu-2026-por-tres-momentos-puntuales-y-te-los-llevas-a-2027",
+          "titular": "Vas a juzgar tu 2026 por tres momentos puntuales y te los llevas a 2027",
+          "primera_frase": "ASSES"
+        },
+        {
+          "n": 24,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/five-incredible-things-to-try-after-the-paddy-power-poker-52741.htm",
+          "titular": "Five Incredible Things to Try After the Paddy Power Poker Upgrade",
+          "primera_frase": "Find out more about what awaits you as a Paddy Power Poker player on the new software."
+        },
+        {
+          "n": 25,
+          "fuente": "PokerNews Brasil",
+          "url": "https://br.pokernews.com/noticias/2026/11/pokerstars-semana-especial-115-vagas-bsop-millions-68033.htm",
+          "titular": "PokerStars oferece semana especial com mais de 100 vagas para o BSOP Millions",
+          "primera_frase": "Três Mega Satélites distribuirão 90 vagas para os principais torneios do festival"
+        },
+        {
+          "n": 26,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/javitxu-comienza-una-nueva-saga-sobre-rangos-asimetricos",
+          "titular": "'Javitxu' comienza una nueva saga sobre rangos asimétricos",
+          "primera_frase": "EducaPoker"
+        },
+        {
+          "n": 27,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/vladimir-minko-wins-second-ggmillion-event-and-banks-404k-52740.htm",
+          "titular": "Vladimir Minko Wins Second GGMillion$ Event and Banks $404K",
+          "primera_frase": "Minko's victory denied Dominguez a sixth GGMillion$ title."
+        },
+        {
+          "n": 28,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/sergi-reixach-al-jugador-recreacional-le-importa-jugar-con-bots",
+          "titular": "Sergi Reixach: ¿Al jugador recreacional le importa jugar con bots?",
+          "primera_frase": "Sergi Reixach"
+        },
+        {
+          "n": 29,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/ryan-feldman-reta-a-thepokerkaren-a-jugarse-su-cuenta-de-x-en-un-hu",
+          "titular": "Ryan Feldman reta a ThePokerKaren a jugarse su cuenta de X en un HU",
+          "primera_frase": "Salsa"
+        },
+        {
+          "n": 30,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/jamie-gold-talks-wsop-solana-partnership-52714.htm",
+          "titular": "'A Game Changer': Main Event Champ Jamie Gold on WSOP's Partnership with Solana",
+          "primera_frase": "Find out why time is precious to 2006 Main Event champ Jamie Gold."
+        },
+        {
+          "n": 31,
+          "fuente": "PokerNewsDaily",
+          "url": "https://www.pokernewsdaily.com/how-poker-bonus-clearing-works-1000-example-49209/",
+          "titular": "How Poker Bonus Clearing Works: A $1,000 Example",
+          "primera_frase": "A worked, illustrative $1,000 example showing how rake-based poker bonuses release, what expiry costs, and which terms to read first."
+        },
+        {
+          "n": 32,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1772671-pokerstars-becomes-second-online-poker-operator-to-launch-in-alberta",
+          "titular": "PokerStars Becomes Second Online Poker Operator To Launch In Alberta",
+          "primera_frase": "PokerStars launched its mobile poker platform in Alberta this week, making it the second online poker option in the Canadian province."
+        },
+        {
+          "n": 33,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xmtqjs/lex_veldhuis_ama_wed_nov_4_1900_utc/",
+          "titular": "🚨 LEX VELDHUIS AMA – WED, NOV 4 | 19:00 UTC 🚨",
+          "primera_frase": "Fresh off being unveiled as GGPoker's new Global Streaming Ambassador , Lex Veldhuis is joining us for an AMA right here on r/poker !"
+        },
+        {
+          "n": 34,
+          "fuente": "PokerNews Brasil",
+          "url": "https://br.pokernews.com/noticias/2026/11/embaixador-888-ian-simpson-vence-torneio-doa-premio-68021.htm",
+          "titular": "Embaixador do 888, Ian Simpson vence torneio e doa prêmio total para a caridade",
+          "primera_frase": "A doação do jogador ajudou evento beneficente a alcançar a meta de £ 100 mil arrecadados"
+        },
+        {
+          "n": 35,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/torneos/wsop/wsop-panama/comienza-wsop-circuit-panama",
+          "titular": "Hoy comienza el WSOP Circuit Panamá: 12 anillos y cobertura de CodigoPoker",
+          "primera_frase": ""
+        },
+        {
+          "n": 36,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/quien-abrira-el-primer-cofre-en-el-penultimo-episodio-de-golden-button",
+          "titular": "¿Quién abrirá el primer cofre en el penúltimo episodio de Golden Button?",
+          "primera_frase": "Golden Button"
+        },
+        {
+          "n": 37,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/strategy/was-nicholas-palma-massive-ace-king-bluff-a-bad-play-52724.htm",
+          "titular": "Was Nicky P's Massive Ace-King Bluff a Bad Play? GTO Wizard Reveals the Answer",
+          "primera_frase": "GTO Wizard breaks down Nicholas Palma's massive ace-king bluff at Poker Masters."
+        },
+        {
+          "n": 38,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xnq2rf/why_did_i_lose_this_hand/",
+          "titular": "Why did i lose this hand?",
+          "primera_frase": "What am I missing? submitted by /u/philliesfan1153 [link] [comentarios]"
+        },
+        {
+          "n": 39,
+          "fuente": "PokerNews Brasil",
+          "url": "https://br.pokernews.com/noticias/2026/11/dobradinha-verde-amarela-forras-insanas-shr-ggpoker-68020.htm",
+          "titular": "Dobradinha verde e amarela garante forras insanas no SHR do APT Online na GGPoker",
+          "primera_frase": "Ciro Gomes e Breno Bertalia deram show e saíram de bolsos cheios"
+        },
+        {
+          "n": 40,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/torneos/uruguay/last-call-casino-carrasco",
+          "titular": "Casino Carrasco despide el año con el «Last Call» de las Codere Poker Series",
+          "primera_frase": ""
+        },
+        {
+          "n": 41,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/de-triton-one-a-las-shrs-26-dias-de-poker-y-32-trofeos-en-chipre",
+          "titular": "De Triton ONE a las SHRS: 26 días de poker y 32 trofeos en Chipre",
+          "primera_frase": "Triton Cyprus"
+        },
+        {
+          "n": 42,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/pokerstars-spooky-season-finale-sunday-million-52733.htm",
+          "titular": "Curtain Comes Down on the PokerStars Spooky Season With Scarily Big Sunday Million",
+          "primera_frase": "The Sunday Million Spooky Season Finale boasts a $1 million guarantee."
+        },
+        {
+          "n": 43,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xnuo09/just_a_really_bad_final_table_draw_for_theghost/",
+          "titular": "Just a really bad final table draw for “TheGhost!”",
+          "primera_frase": "submitted by /u/StoneyDunst [link] [comentarios]"
+        },
+        {
+          "n": 44,
+          "fuente": "PokerNews Brasil",
+          "url": "https://br.pokernews.com/noticias/2026/11/sala-poker-inspire-resort-wpt-seoul-68018.htm",
+          "titular": "Nova sala de poker no INSPIRE Resort rouba a cena durante o WPT Seoul; veja fotos",
+          "primera_frase": "Luxo e estrutura impressionam no ambiente que recebe o festival"
+        },
+        {
+          "n": 45,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/carrel-persson-desafio-poker-whisky",
+          "titular": "Dientes, muebles, poker y whisky: Carrel y Persson se picaron y hubo desafío",
+          "primera_frase": ""
+        },
+        {
+          "n": 46,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/el-battle-of-malta-aterrizara-en-casino-barcelona-en-enero-de-2027",
+          "titular": "El Battle of Malta aterrizará en Casino Barcelona en enero de 2027",
+          "primera_frase": "Battle of Malta"
+        },
+        {
+          "n": 47,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/fernando-jnandez-habegger-100-essential-tips-to-master-plo-52732.htm",
+          "titular": "Is Fernando “JNandez” Habegger's New Manuscript the Best PLO Book Ever Written?",
+          "primera_frase": "It marks the second book by Fernando “JNandez” Habegger in conjunction w/ D+B Publishing."
+        },
+        {
+          "n": 48,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/torneos-eeuu/foxen-pierde-10-1-lichtenberger-pgt-sprint",
+          "titular": "Alex Foxen tenía una ventaja de casi 10 a 1 y se le escapó el título",
+          "primera_frase": ""
+        },
+        {
+          "n": 49,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/los-global-poker-awards-regresan-durante-las-wsop-paradise",
+          "titular": "Los Global Poker Awards regresan durante las WSOP Paradise",
+          "primera_frase": "WSOP Paradise 2026"
+        },
+        {
+          "n": 50,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/mariano-grandoli-volvio-al-ataque-en-las-mesas-de-hustler-casino-live",
+          "titular": "Mariano Grandoli volvió al ataque en las mesas de Hustler Casino Live",
+          "primera_frase": ""
+        },
+        {
+          "n": 51,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/torneos/chile/hoy-comienza-el-osop-prime",
+          "titular": "¡Hoy comienza el OSOP Prime! Ovalle se enciende y CodigoPoker estará en el Main Event",
+          "primera_frase": ""
+        },
+        {
+          "n": 52,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/brazilian-series-of-poker/115-asientos-bsop-millions",
+          "titular": "¡Esta semana se repartirán al menos 115 asientos para el BSOP Millions!",
+          "primera_frase": ""
+        },
+        {
+          "n": 53,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/poker-online/juan-dominguez-ggmillion",
+          "titular": "Juan Domínguez quedó a un paso de ganar su sexto GGMillion$",
+          "primera_frase": ""
+        },
+        {
+          "n": 54,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/torneos/wsop/empieza-wsop-rosario",
+          "titular": "Con 12 anillos en juego, empieza la WSOP Rosario en el City Center",
+          "primera_frase": ""
+        },
+        {
+          "n": 55,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/brazilian-series-of-poker/bsop-millions-astropay",
+          "titular": "¿Vas al BSOP Millions 2026? Cómo viajar sin efectivo y pagar tus buy-ins con AstroPay",
+          "primera_frase": ""
+        }
+      ],
+      "tipo": "seleccion"
+    },
+    {
+      "id": "2026-11-05T12:00:25Z",
+      "notas": [
+        {
+          "n": 1,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1773597-andrew-lichtenberger-tops-stacked-final-table-for-pgt-sprint-title",
+          "titular": "Andrew Lichtenberger Tops Stacked Final Table For PGT Sprint Title",
+          "primera_frase": "Andrew Lichtenberger outlasted Alex Foxen, Jesse Lonis, and Brandon Wilson to win PGT Sprint event no.",
+          "tema": "Tema: No-Limit Hold'em"
+        },
+        {
+          "n": 2,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/fraser-bellamy-runs-riot-at-the-gukpt-blackpool-mini-main-fi-52744.htm",
+          "titular": "Fraser Bellamy Runs Riot at the GUKPT Blackpool Mini Main Final Table",
+          "primera_frase": "Bellamy topped a 687-strong crowd and took down the £250 Mini Main for £27,945.",
+          "con_extracto": true
+        },
+        {
+          "n": 3,
+          "fuente": "PokerNewsDaily",
+          "url": "https://www.pokernewsdaily.com/jamie-gold-links-wsop-paradise-solana-49247/",
+          "titular": "Jamie Gold Discusses WSOP Partnership With Solana, Crypto Buy-Ins Coming to WSOP Paradise",
+          "primera_frase": "Jamie Gold, who won the 2006 World Series of Poker Main Event and took home $12 million, is connected to a new partnership between the WSOP and Solana, according to PokerNews.",
+          "con_extracto": true
+        },
+        {
+          "n": 4,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/jamie-gold-talks-wsop-solana-partnership-52714.htm",
+          "titular": "'A Game Changer': Main Event Champ Jamie Gold on WSOP's Partnership with Solana",
+          "primera_frase": "Find out why time is precious to 2006 Main Event champ Jamie Gold."
+        },
+        {
+          "n": 5,
+          "fuente": "tightpoker.com",
+          "url": "https://www.tightpoker.com/news/ggpoker-announce-streaming-giant-lex-veldhuis-as-latest-ambassador/",
+          "titular": "GGPoker Announce Streaming Giant Lex Veldhuis as Latest Ambassador",
+          "primera_frase": "The streaming online poker legend Lex Veldhuis has joined GGPoker as the market leader grows its roster with the latest former PokerStars ambassador.",
+          "con_extracto": true
+        },
+        {
+          "n": 6,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/lex-veldhuis-ficha-por-ggpoker-como-nuevo-global-streaming-ambassador",
+          "titular": "Lex Veldhuis ficha por GGPoker como nuevo Global Streaming Ambassador",
+          "primera_frase": "GGpoker"
+        },
+        {
+          "n": 7,
+          "fuente": "PokerNews Brasil",
+          "url": "https://br.pokernews.com/noticias/2026/11/lex-veldhuis-embaixador-ggpoker-68032.htm",
+          "titular": "Lex Veldhuis é anunciado como embaixador da GGPoker: \"Novo capítulo\"",
+          "primera_frase": "O holandês deixou o PokerStars no começo deste ano"
+        },
+        {
+          "n": 8,
+          "fuente": "PokerNews en español",
+          "url": "https://es.pokernews.com/noticias/2026/11/tereza-vernerova-hace-historia-ganar-main-event-battle-malta-54208.htm",
+          "titular": "Tereza Vernerova hace historia al ganar el Main Event del Battle of Malta por 162.635 €",
+          "primera_frase": "La checa supera 5.368 entradas y se convierte en la primera mujer campeona del Main Event.",
+          "con_extracto": true
+        },
+        {
+          "n": 9,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/tereza-vernerova-makes-history-battle-of-malta-victory-52743.htm",
+          "titular": "Tereza Vernerova Makes History with Battle of Malta Main Event Victory",
+          "primera_frase": "Vernerova becomes the first female Battle of Malta Main Event champion."
+        },
+        {
+          "n": 10,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/tereza-vernerova-primera-mujer-en-ganar-el-main-event-del-battle-of-malta",
+          "titular": "Tereza Vernerova, primera mujer en ganar el Main Event del Battle of Malta",
+          "primera_frase": "Battle of Malta"
+        },
+        {
+          "n": 11,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1773644-voters-in-indiana-nebraska-and-virginia-reject-gambling-expansion",
+          "titular": "Voters In Indiana, Nebraska, And Virginia Reject Gambling Expansion",
+          "primera_frase": "Voters in Indiana, Nebraska, and Virginia rejected proposals to expand gambling, while results in Texas could open door to future legislation.",
+          "con_extracto": true
+        },
+        {
+          "n": 12,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/rgps-returns-to-san-diego-with-150k-main-event-at-jamul-52726.htm",
+          "titular": "RGPS Returns to San Diego With $150K Main Event at Jamul Casino",
+          "primera_frase": "Twelve ring events and a $150K guaranteed Main Event await players at Jamul Casino.",
+          "con_extracto": true
+        },
+        {
+          "n": 13,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/vladimir-minko-wins-second-ggmillion-event-and-banks-404k-52740.htm",
+          "titular": "Vladimir Minko Wins Second GGMillion$ Event and Banks $404K",
+          "primera_frase": "Minko's victory denied Dominguez a sixth GGMillion$ title.",
+          "con_extracto": true
+        },
+        {
+          "n": 14,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1772671-pokerstars-becomes-second-online-poker-operator-to-launch-in-alberta",
+          "titular": "PokerStars Becomes Second Online Poker Operator To Launch In Alberta",
+          "primera_frase": "PokerStars launched its mobile poker platform in Alberta this week, making it the second online poker option in the Canadian province.",
+          "con_extracto": true
+        },
+        {
+          "n": 15,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/pokerstars-spooky-season-finale-sunday-million-52733.htm",
+          "titular": "Curtain Comes Down on the PokerStars Spooky Season With Scarily Big Sunday Million",
+          "primera_frase": "The Sunday Million Spooky Season Finale boasts a $1 million guarantee.",
+          "con_extracto": true
+        },
+        {
+          "n": 16,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/fernando-jnandez-habegger-100-essential-tips-to-master-plo-52732.htm",
+          "titular": "Is Fernando “JNandez” Habegger's New Manuscript the Best PLO Book Ever Written?",
+          "primera_frase": "It marks the second book by Fernando “JNandez” Habegger in conjunction w/ D+B Publishing.",
+          "con_extracto": true
+        },
+        {
+          "n": 17,
+          "fuente": "PokerNews Brasil",
+          "url": "https://br.pokernews.com/noticias/2026/11/embaixador-888-ian-simpson-vence-torneio-doa-premio-68021.htm",
+          "titular": "Embaixador do 888, Ian Simpson vence torneio e doa prêmio total para a caridade",
+          "primera_frase": "A doação do jogador ajudou evento beneficente a alcançar a meta de £ 100 mil arrecadados",
+          "con_extracto": true
+        },
+        {
+          "n": 18,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/torneos/wsop/wsop-panama/comienza-wsop-circuit-panama",
+          "titular": "Hoy comienza el WSOP Circuit Panamá: 12 anillos y cobertura de CodigoPoker",
+          "primera_frase": "",
+          "con_extracto": true
+        },
+        {
+          "n": 19,
+          "fuente": "PokerNews Brasil",
+          "url": "https://br.pokernews.com/noticias/2026/11/sala-poker-inspire-resort-wpt-seoul-68018.htm",
+          "titular": "Nova sala de poker no INSPIRE Resort rouba a cena durante o WPT Seoul; veja fotos",
+          "primera_frase": "Luxo e estrutura impressionam no ambiente que recebe o festival",
+          "con_extracto": true
+        },
+        {
+          "n": 20,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/el-battle-of-malta-aterrizara-en-casino-barcelona-en-enero-de-2027",
+          "titular": "El Battle of Malta aterrizará en Casino Barcelona en enero de 2027",
+          "primera_frase": "Battle of Malta",
+          "con_extracto": true
+        },
+        {
+          "n": 21,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/torneos/chile/hoy-comienza-el-osop-prime",
+          "titular": "¡Hoy comienza el OSOP Prime! Ovalle se enciende y CodigoPoker estará en el Main Event",
+          "primera_frase": "",
+          "con_extracto": true
+        },
+        {
+          "n": 22,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/brazilian-series-of-poker/115-asientos-bsop-millions",
+          "titular": "¡Esta semana se repartirán al menos 115 asientos para el BSOP Millions!",
+          "primera_frase": "",
+          "con_extracto": true
+        }
+      ],
+      "tipo": "redaccion"
+    }
+  ]
+}

@@ -81,7 +81,7 @@
         "Purple Jacket"
       ],
       "alta": "2026-10-21",
-      "ultima_novedad": "2026-11-04",
+      "ultima_novedad": "2026-11-05",
       "fuentes": [
         "cardplayer.com",
         "codigopoker.com",
@@ -208,7 +208,7 @@
         "pokermedia.com.au",
         "pokernews.com"
       ],
-      "estado": "activo"
+      "estado": "inactivo"
     },
     {
       "nombre": "Tema: Lucas Jumalon",
@@ -257,7 +257,7 @@
         "pokermedia.com.au",
         "pokernews.com"
       ],
-      "estado": "activo"
+      "estado": "inactivo"
     },
     {
       "nombre": "Tema: Hun Wei Lee",
@@ -271,7 +271,7 @@
         "pokermedia.com.au",
         "pokernews.com"
       ],
-      "estado": "activo"
+      "estado": "inactivo"
     },
     {
       "nombre": "Tema: Pierre Calamusa",
@@ -301,6 +301,21 @@
         "poker-red.com",
         "pokernews.com",
         "pokernewsdaily.com"
+      ],
+      "estado": "activo"
+    },
+    {
+      "nombre": "Tema: Michael Mizrachi.",
+      "palabras_clave": [
+        "Michael Mizrachi."
+      ],
+      "alta": "2026-11-05",
+      "ultima_novedad": "2026-11-04",
+      "fuentes": [
+        "codigopoker.com",
+        "pokerfuse.com",
+        "pokerindustrypro.com",
+        "pokernews.com"
       ],
       "estado": "activo"
     }
