@@ -81,7 +81,7 @@
         "Purple Jacket"
       ],
       "alta": "2026-10-21",
-      "ultima_novedad": "2026-11-05",
+      "ultima_novedad": "2026-11-06",
       "fuentes": [
         "cardplayer.com",
         "codigopoker.com",
@@ -179,7 +179,7 @@
         "pokernews.com",
         "tightpoker.com"
       ],
-      "estado": "activo"
+      "estado": "inactivo"
     },
     {
       "nombre": "Tema: Millionaire Challenges.",
@@ -310,6 +310,37 @@
         "Michael Mizrachi."
       ],
       "alta": "2026-11-05",
+      "ultima_novedad": "2026-11-04",
+      "fuentes": [
+        "codigopoker.com",
+        "pokerfuse.com",
+        "pokerindustrypro.com",
+        "pokernews.com"
+      ],
+      "estado": "activo"
+    },
+    {
+      "nombre": "Tema: Vladimir Minko",
+      "palabras_clave": [
+        "Juan Pardo",
+        "Vladimir Minko"
+      ],
+      "alta": "2026-11-06",
+      "ultima_novedad": "2026-11-06",
+      "fuentes": [
+        "poker-red.com",
+        "pokerlistings.com",
+        "pokernews.com",
+        "pokernoticias.com"
+      ],
+      "estado": "activo"
+    },
+    {
+      "nombre": "Tema: Lex Veldhuis",
+      "palabras_clave": [
+        "Lex Veldhuis"
+      ],
+      "alta": "2026-11-06",
       "ultima_novedad": "2026-11-04",
       "fuentes": [
         "codigopoker.com",
