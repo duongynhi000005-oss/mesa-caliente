@@ -1,0 +1,591 @@
+{
+  "fecha": "2026-11-07",
+  "corridas": [
+    {
+      "id": "2026-11-07T12:00:23Z",
+      "notas": [
+        {
+          "n": 1,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/the-tough-call-episode-two-52753.htm",
+          "titular": "Maria Konnikova and James Hartigan Talk Misinformation on New Podcast",
+          "primera_frase": "The duo spoke with Nevada journalist Jon Ralston."
+        },
+        {
+          "n": 2,
+          "fuente": "Pokerfuse",
+          "url": "https://pokerfuse.com/latest-news/2026/11/big-game-on-tour-returns-headlined-famous/",
+          "titular": "The Big Game on Tour Returns Headlined by Famous Comedian Tony Hinchcliffe",
+          "primera_frase": ""
+        },
+        {
+          "n": 3,
+          "fuente": "PokerNewsDaily",
+          "url": "https://www.pokernewsdaily.com/wpt-venetian-las-vegas-fall-championship-49254/",
+          "titular": "Cherish Andrews Tops Day 1a Field at $5,000 WPT Venetian Las Vegas Fall Championship",
+          "primera_frase": "Cherish Andrews emerged as the chip leader after Day 1a of the $5,000 WPT Venetian Las Vegas Fall Championship, held at the Venetian in Nevada."
+        },
+        {
+          "n": 4,
+          "fuente": "PokerListings",
+          "url": "https://www.pokerlistings.com/news/jackpoker-offers-50-main-event-mystery-bounty-series-ticket-to-pokerlistings-players",
+          "titular": "JackPoker Offers $50 Main Event Mystery Bounty Series Ticket to PokerListings Players",
+          "primera_frase": "JackPoker is offering an exclusive promotion for PokerListings players."
+        },
+        {
+          "n": 5,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1774186-coinpoker-kicks-off-250-million-pgt-online-series-with-50-million-guaranteed-festival",
+          "titular": "CoinPoker Kicks Off $250 Million PGT Online Series With $50 Million Guaranteed Festival",
+          "primera_frase": "CoinPoker launches its $250 million PGT Online series with a $50 million festival featuring mystery bounties and trophy events."
+        },
+        {
+          "n": 6,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xq46gj/for_those_of_you_who_play_on_your_phone_offline/",
+          "titular": "For those of you who play on your phone (offline or private games with friends), what annoys you most about current poker apps?",
+          "primera_frase": "I'm building a mobile poker game right now (Hold'em first, adding PLO and a hand coach next) mainly because I got tired of the casino clutter, forced logins, and pop-up ads whenever my friends and I j"
+        },
+        {
+          "n": 7,
+          "fuente": "PokerNews Brasil",
+          "url": "https://br.pokernews.com/noticias/2026/11/pokernews-888-freeroll-senhas-68053.htm",
+          "titular": "PokerNews tem freerolls exclusivos no 888 em novembro; veja as senhas",
+          "primera_frase": "Os torneios gratuitos acontecem todos os domingos, com US$ 150 em prêmios por edição"
+        },
+        {
+          "n": 8,
+          "fuente": "Poker Noticias",
+          "url": "https://pokernoticias.com/47-jugadores-siguen-en-carrera-por-el-primer-anillo-de-la-wsopc-panama-2026/",
+          "titular": "47 jugadores siguen en carrera por el primer anillo de la WSOPC Panamá 2026",
+          "primera_frase": "El Mini Main Event de la WSOP Circuit Panamá entra en su etapa decisiva."
+        },
+        {
+          "n": 9,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/jokin-herrero-gana-el-cuarto-episodio-de-la-11a-temporada-de-noche-de-poker",
+          "titular": "Jokin Herrero gana el cuarto episodio de la 11ª temporada de Noche de Poker",
+          "primera_frase": "Noche de Poker"
+        },
+        {
+          "n": 10,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/ren-lin-s-aces-cracked-by-straight-flush-at-triton-52756.htm",
+          "titular": "Runner-Runner Straight Flush Cracks Ren Lin's Pocket Aces",
+          "primera_frase": "The hand took place at the Triton One Cyprus festival."
+        },
+        {
+          "n": 11,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1774152-daniel-lowery-wins-22nd-wsop-circuit-ring-climbs-to-second-in-title-race",
+          "titular": "Daniel Lowery Wins 22nd WSOP Circuit Ring, Climbs To Second In Title Race",
+          "primera_frase": "Daniel Lowery is on fire this fall. The 52-year-old from Peter Pender, Arkansas, has made five final tables and won four titles since Sept."
+        },
+        {
+          "n": 12,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xq1awb/poker_advice/",
+          "titular": "Poker advice",
+          "primera_frase": "What was your progression, from noob to being good at the game?"
+        },
+        {
+          "n": 13,
+          "fuente": "PokerNews Brasil",
+          "url": "https://br.pokernews.com/noticias/2026/11/wpt-estreia-nova-tecnica-distribuicao-cartas-68051.htm",
+          "titular": "WPT estreia nova técnica de distribuição de cartas em torneio nos Estados Unidos",
+          "primera_frase": "Mudança busca aumentar a segurança e evitar trapaças"
+        },
+        {
+          "n": 14,
+          "fuente": "Poker Noticias",
+          "url": "https://pokernoticias.com/triton-poker-plus-rompe-la-barrera-del-idioma-y-llega-a-la-comunidad-hispanohablante/",
+          "titular": "Triton Poker Plus rompe la barrera del idioma y llega a la comunidad hispanohablante",
+          "primera_frase": "El prestigioso circuito internacional da un paso importante hacia la comunidad hispanohablante al incorporar el español a su aplicación oficial, facilitando el acceso a torneos, resultados y transmisi"
+        },
+        {
+          "n": 15,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/adria-diaz-gana-el-high-roller-del-gukpt-blackpool-por-33.250-ps",
+          "titular": "Adrià Díaz gana el High Roller del GUKPT Blackpool por 33.250 £",
+          "primera_frase": "GUKPT Blackpool"
+        },
+        {
+          "n": 16,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/poker-player-matt-berkey-only-friends-podcast-returns-52755.htm",
+          "titular": "Matt Berkey's Only Friends Poker Podcast Is Back From the Dead",
+          "primera_frase": "Matt Berkey confirmed Only Friends is back, with four weekly shows starting November 9."
+        },
+        {
+          "n": 17,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xq0z6b/stacksizes_navigation/",
+          "titular": "Stacksizes navigation",
+          "primera_frase": "Navigating preflop decisions Hi there. Problem = we are at a live table small stakes."
+        },
+        {
+          "n": 18,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/winamax-abre-las-puertas-del-expresso-saloon",
+          "titular": "Winamax abre las puertas del Expresso Saloon",
+          "primera_frase": "Winamax España"
+        },
+        {
+          "n": 19,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/gukpt-reveals-2027-schedule-as-tour-celebrates-20-years-of-u-52742.htm",
+          "titular": "Grosvenor Reveals 2027 GUKPT Schedule as Tour Celebrates 20 Years of Poker",
+          "primera_frase": "GUKPT reveals nine legs for 2027 as the tour celebrates its 20th anniversary."
+        },
+        {
+          "n": 20,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/over-216k-guaranteed-as-rungood-heads-to-horseshoe-52727.htm",
+          "titular": "Over $216K Guaranteed as RunGood Heads to Horseshoe Council Bluffs",
+          "primera_frase": "Over $216K guaranteed at RGPS Council Bluffs, including a $111K Main Event."
+        },
+        {
+          "n": 21,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/the-final-stop-of-the-2026-cep-by-pokerstars-heads-to-girona-52752.htm",
+          "titular": "The Final Stop of the 2026 CEP by PokerStars Heads to Girona in Late November",
+          "primera_frase": ""
+        },
+        {
+          "n": 22,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/kings-resort-november-2026-poker-schedule-52736.htm",
+          "titular": "Three Big Festivals Bring Millions in Guarantees to King's Resort This November",
+          "primera_frase": "Three festivals bring millions in guarantees to King's Resort this November."
+        },
+        {
+          "n": 23,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/elections-impact-on-texas-poker-52749.htm",
+          "titular": "Why the Election Results Could Benefit Poker Rooms in Texas",
+          "primera_frase": "The new attorney general, Nathan Johnson, is pro-poker."
+        },
+        {
+          "n": 24,
+          "fuente": "Pokerfuse",
+          "url": "https://pokerfuse.com/latest-news/2026/11/paradise-parlay-returns-500k-all-2026-wsop-final/",
+          "titular": "Paradise Parlay Returns With up to $500k for All 2026 WSOP Final Tablists and Bracelet Winners",
+          "primera_frase": ""
+        },
+        {
+          "n": 25,
+          "fuente": "PokerNewsDaily",
+          "url": "https://www.pokernewsdaily.com/poker-pot-odds-and-equity-49208/",
+          "titular": "Poker Pot Odds and Equity: A Worked-Example Guide",
+          "primera_frase": "Pot odds and equity explained with formulas, an exact outs table checked by script, and four step-by-step examples."
+        },
+        {
+          "n": 26,
+          "fuente": "PokerListings",
+          "url": "https://www.pokerlistings.com/news/aleksandar-kosarkoski-wins-the-600-malta-poker-festival-grand-event",
+          "titular": "Poker Dreams Come True for Aleksandar Kosarkoski, Who Wins the €600 Malta Poker Festival Grand Event",
+          "primera_frase": "Aleksandar Kosarkoski outlasted a field of 2,147 entries to become the new champion of the €600 MPF Grand Event (€200K GTD)."
+        },
+        {
+          "n": 27,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1774115-high-stakes-hunl-is-back",
+          "titular": "High Stakes HUNL Is Back!",
+          "primera_frase": "Rumours of the death of HUNL have been greatly exaggerated as CoinPoker has seen some epic $500/$1,000 action this week."
+        },
+        {
+          "n": 28,
+          "fuente": "Poker Industry PRO",
+          "url": "https://pokerindustrypro.com/news/article/226211-pokerstars-spain-completes-backend-major",
+          "titular": "PokerStars Spain Completes Backend “Major Migration” Following Prolonged Outage",
+          "primera_frase": "PokerStars Spain has completed a major backend migration following an extended maintenance period that ultimately lasted more than 24 hours, with the transition leaving numerous players unable to acce"
+        },
+        {
+          "n": 29,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xppfbc/sealed_the_deal_last_night_in_the_33_mystery/",
+          "titular": "Sealed the deal last night in the $33 Mystery Bounty Tourney",
+          "primera_frase": "My biggest win to date! First time making the final table for this tourney and things just went my way in a lot of important spots."
+        },
+        {
+          "n": 30,
+          "fuente": "tightpoker.com",
+          "url": "https://www.tightpoker.com/news/hamid-izadi-wins-4th-wsopc-main-event/",
+          "titular": "Hamid Izadi Wins Back-to-Back WSOPC Southern Indiana Main Events, Ties Hawkins’ Record",
+          "primera_frase": "Hamid Izadi defeated a 282-entry field to win the 2026 WSOP Circuit Southern Indiana $1,700 Main Event for $93,060."
+        },
+        {
+          "n": 31,
+          "fuente": "PokerNews en español",
+          "url": "https://es.pokernews.com/noticias/2026/11/triton-poker-plus-ya-esta-disponible-en-espanol-54215.htm",
+          "titular": "Triton Poker Plus ya está disponible en español",
+          "primera_frase": "La aplicación oficial de Triton incorpora el español para seguir toda la acción del circuito."
+        },
+        {
+          "n": 32,
+          "fuente": "PokerNews Brasil",
+          "url": "https://br.pokernews.com/noticias/2026/11/comemoracao-antecipada-hustler-casino-live-68047.htm",
+          "titular": "Comemoração antecipada é punida com river cruel no Hustler Casino Live; assista",
+          "primera_frase": "A atriz de filmes adultos Nicolette Shea aprendeu uma lição dura"
+        },
+        {
+          "n": 33,
+          "fuente": "Poker Noticias",
+          "url": "https://pokernoticias.com/tereza-vernerova-es-la-primera-mujer-en-conquistar-el-battle-of-malta-2026/",
+          "titular": "Tereza Vernerova es la primera mujer en conquistar el Battle of Malta 2026",
+          "primera_frase": "El poker europeo celebra un resultado histórico."
+        },
+        {
+          "n": 34,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/torneos/wsop/humberto-busico-conquisto-el-mini-main-event-de-la-wsop-rosario",
+          "titular": "Humberto Busico conquistó el Mini Main Event de la WSOP Rosario",
+          "primera_frase": ""
+        },
+        {
+          "n": 35,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/gabi-livshitz-gana-el-high-roller-del-pokerstars-open-aix-en-provence",
+          "titular": "Gabi Livshitz gana el High Roller del PokerStars Open Aix-en-Provence",
+          "primera_frase": "PS Open Aix-en-Provence"
+        },
+        {
+          "n": 36,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/phil-hellmuth-s-champions-club-texas-giving-away-150k-52728.htm",
+          "titular": "Phil Hellmuth's Champions Club Texas Giving Away $150K in Prizes",
+          "primera_frase": "Champions Club Texas is giving away $150,000 in prizes through January 16."
+        },
+        {
+          "n": 37,
+          "fuente": "Pokerfuse",
+          "url": "https://pokerfuse.com/latest-news/2026/11/ggpoker-november-promos-14-million-black-friday/",
+          "titular": "GGPoker November Promos: $14 Million in Black Friday Sales, November King & Daily Leaderboards",
+          "primera_frase": ""
+        },
+        {
+          "n": 38,
+          "fuente": "PokerNewsDaily",
+          "url": "https://www.pokernewsdaily.com/tereza-vernerova-makes-history-first-woman-49250/",
+          "titular": "Tereza Vernerova Becomes First Woman to Win Battle of Malta Main Event",
+          "primera_frase": "Tereza Vernerova has won the 2026 Battle of Malta Autumn Edition Main Event, becoming the first woman in the tournament’s history to claim the title, according to PokerNews."
+        },
+        {
+          "n": 39,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1773927-illegal-texas-gambling-shops-paid-out-winners-with-pok%c3%a9mon-cards",
+          "titular": "Illegal Texas Gambling Shops Paid Out Winners With Pokémon Cards",
+          "primera_frase": "Texas law enforcement shuttered seven alleged illegal gambling venues on Wednesday that paid out winners in Pokemon, silver, and sports cards."
+        },
+        {
+          "n": 40,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xpxjhc/suspicious/",
+          "titular": "Suspicious",
+          "primera_frase": "submitted by /u/OriginalNameNeeded [link] [comentarios]"
+        },
+        {
+          "n": 41,
+          "fuente": "PokerNews en español",
+          "url": "https://es.pokernews.com/noticias/2026/11/es-el-nuevo-libro-de-jnandez-el-manual-definitivo-para-domi-54214.htm",
+          "titular": "¿Es el nuevo libro de \"JNandez\" el manual definitivo para dominar el PLO?",
+          "primera_frase": "El especialista suizo publica su segundo libro sobre Pot-Limit Omaha, con 100 consejos de estrategia."
+        },
+        {
+          "n": 42,
+          "fuente": "PokerNews Brasil",
+          "url": "https://br.pokernews.com/estrategia-poker/entenda-old-man-coffee-significa-poker-68045.htm",
+          "titular": "Entenda o que \"Old Man Coffee\" significa no poker e como Alex Livingston criou o termo",
+          "primera_frase": "O termo para um dos estereótipos mais conhecidos das mesas surgiu de forma curiosa"
+        },
+        {
+          "n": 43,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/torneos-mexico/joel-trevino-fue-el-jugador-de-la-serie-en-psop-calaverita",
+          "titular": "Joel Treviño fue el Jugador de la Serie en PSOP Calaverita",
+          "primera_frase": ""
+        },
+        {
+          "n": 44,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/la-armada-se-queda-en-blanco-en-el-inicio-de-las-triton-one-chipre",
+          "titular": "La armada se queda en blanco en el inicio de las Triton ONE Chipre",
+          "primera_frase": "Triton One Chipre"
+        },
+        {
+          "n": 45,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/casino/news/2026/11/borgata-online-slots-player-turns-4-into-1-03-million-52747.htm",
+          "titular": "Borgata Online Slots Player Turns $4 Into $1.03 Million Progressive Jackpot",
+          "primera_frase": "The player hit the progressive jackpot on the Quantum Crown MegaJackpots slot."
+        },
+        {
+          "n": 46,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1773920-tereza-vernerova-becomes-first-female-battle-of-malta-main-event-champion",
+          "titular": "Tereza Vernerova Becomes First Female Battle Of Malta Main Event Champion",
+          "primera_frase": "Tereza Vernerova became the first woman to win the Battle of Malta main event, besting a 5,368-entry field to earn $182,151."
+        },
+        {
+          "n": 47,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xpxktm/plo_not_even_once/",
+          "titular": "PLO not even once",
+          "primera_frase": "What happened to good old American values where 2 cards was enough."
+        },
+        {
+          "n": 48,
+          "fuente": "PokerNews Brasil",
+          "url": "https://br.pokernews.com/noticias/2026/11/ggpoker-14-milhoes-black-friday-novembro-68044.htm",
+          "titular": "GGPoker oferece US$ 14 milhões em prêmios e Black Friday em novembro; saiba detalhes",
+          "primera_frase": "Jogadores terão descontos de até 90% em buy-ins, além de rankings e promoções especiais"
+        },
+        {
+          "n": 49,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/torneos-eeuu/joe-mckeehen-se-quedo-con-el-ultimo-evento-de-la-pgt-sprint",
+          "titular": "Joe McKeehen se quedó con el último evento de la PGT Sprint",
+          "primera_frase": ""
+        },
+        {
+          "n": 50,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/triton-poker-plus-ya-esta-disponible-en-espanol",
+          "titular": "Triton Poker Plus ya está disponible en español",
+          "primera_frase": "Triton Poker Series"
+        },
+        {
+          "n": 51,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/video/nicky-p-i-was-schoolin-them-pokernews-podcast-1015-13514.htm",
+          "titular": "Nicky P: “I Was SCHOOLIN’ Them!” | PokerNews Podcast #1015",
+          "primera_frase": "Nicky P joins Chad Holloway and Mike Holtz on the PokerNews Podcast to discuss WPT Bay 101 Shooting Star, online vs."
+        },
+        {
+          "n": 52,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/analisis-el-mal-momento-de-las-partidas-privadas-en-las-vegas",
+          "titular": "Análisis: el mal momento de las partidas privadas en Las Vegas",
+          "primera_frase": ""
+        },
+        {
+          "n": 53,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/smalllake-revisa-una-sesion-de-un-alumno-de-universidad",
+          "titular": "'SmallLake' revisa una sesión de un alumno de Universidad",
+          "primera_frase": "EducaPoker"
+        },
+        {
+          "n": 54,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/video/mike-caro-is-back-and-he-has-stories-to-tell-pokernews-podca-13513.htm",
+          "titular": "Mike Caro Is BACK… And He Has Stories to Tell | PokerNews Podcast #1014",
+          "primera_frase": "Chad Holloway sits down with poker legend Mike Caro for Part 2 of our exclusive interview, as the legendary “Mad Genius of Poker” shares even more stories from the world of poker."
+        },
+        {
+          "n": 55,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/perdio-70k-hustler",
+          "titular": "Subestimó la mano de su rival y perdió US$70K en el Hustler",
+          "primera_frase": ""
+        },
+        {
+          "n": 56,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/el-main-event-de-las-wsop-llega-al-vlog-de-lucia-navarro",
+          "titular": "El Main Event de las WSOP llega al vlog de Lucía Navarro",
+          "primera_frase": "WSOP 2026"
+        },
+        {
+          "n": 57,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/torneos/punta-cana/paquete-wsop-punta-cana",
+          "titular": "Paquete WSOP Punta Cana: cómo conseguir el tuyo, comprándolo con CodigoTravel o ganándolo en GGPoker",
+          "primera_frase": ""
+        },
+        {
+          "n": 58,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/jnandez-lanza-un-nuevo-libro-para-dominar-el-pot-limit-omaha",
+          "titular": "“JNandez” lanza un nuevo libro para dominar el Pot-Limit Omaha",
+          "primera_frase": "Pot Limit Omaha"
+        },
+        {
+          "n": 59,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/torneos/wsop/daniel-lowery-gano-su-22-anillo-del-wsop-circuit-y-acorta-la-distancia-con-hawkins",
+          "titular": "Daniel Lowery ganó su 22° anillo del WSOP Circuit y acorta la distancia con Hawkins",
+          "primera_frase": ""
+        },
+        {
+          "n": 60,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/vas-a-juzgar-tu-2026-por-tres-momentos-puntuales-y-te-los-llevas-a-2027",
+          "titular": "Vas a juzgar tu 2026 por tres momentos puntuales y te los llevas a 2027",
+          "primera_frase": "ASSES"
+        },
+        {
+          "n": 61,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/torneos/punta-cana/codigotravel-wsop-super-circuit-latam-punta-cana",
+          "titular": "CodigoTravel te lleva a jugar el WSOP Super Circuit Latam de Punta Cana",
+          "primera_frase": ""
+        },
+        {
+          "n": 62,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/javitxu-comienza-una-nueva-saga-sobre-rangos-asimetricos",
+          "titular": "'Javitxu' comienza una nueva saga sobre rangos asimétricos",
+          "primera_frase": "EducaPoker"
+        }
+      ],
+      "tipo": "seleccion"
+    },
+    {
+      "id": "2026-11-07T12:00:23Z",
+      "notas": [
+        {
+          "n": 1,
+          "fuente": "PokerNewsDaily",
+          "url": "https://www.pokernewsdaily.com/wpt-venetian-las-vegas-fall-championship-49254/",
+          "titular": "Cherish Andrews Tops Day 1a Field at $5,000 WPT Venetian Las Vegas Fall Championship",
+          "primera_frase": "Cherish Andrews emerged as the chip leader after Day 1a of the $5,000 WPT Venetian Las Vegas Fall Championship, held at the Venetian in Nevada.",
+          "con_extracto": true
+        },
+        {
+          "n": 2,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1774152-daniel-lowery-wins-22nd-wsop-circuit-ring-climbs-to-second-in-title-race",
+          "titular": "Daniel Lowery Wins 22nd WSOP Circuit Ring, Climbs To Second In Title Race",
+          "primera_frase": "Daniel Lowery is on fire this fall. The 52-year-old from Peter Pender, Arkansas, has made five final tables and won four titles since Sept.",
+          "con_extracto": true
+        },
+        {
+          "n": 3,
+          "fuente": "PokerListings",
+          "url": "https://www.pokerlistings.com/news/aleksandar-kosarkoski-wins-the-600-malta-poker-festival-grand-event",
+          "titular": "Poker Dreams Come True for Aleksandar Kosarkoski, Who Wins the €600 Malta Poker Festival Grand Event",
+          "primera_frase": "Aleksandar Kosarkoski outlasted a field of 2,147 entries to become the new champion of the €600 MPF Grand Event (€200K GTD).",
+          "con_extracto": true
+        },
+        {
+          "n": 4,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1774115-high-stakes-hunl-is-back",
+          "titular": "High Stakes HUNL Is Back!",
+          "primera_frase": "Rumours of the death of HUNL have been greatly exaggerated as CoinPoker has seen some epic $500/$1,000 action this week.",
+          "con_extracto": true
+        },
+        {
+          "n": 5,
+          "fuente": "Poker Industry PRO",
+          "url": "https://pokerindustrypro.com/news/article/226211-pokerstars-spain-completes-backend-major",
+          "titular": "PokerStars Spain Completes Backend “Major Migration” Following Prolonged Outage",
+          "primera_frase": "PokerStars Spain has completed a major backend migration following an extended maintenance period that ultimately lasted more than 24 hours, with the transition leaving numerous players unable to acce"
+        },
+        {
+          "n": 6,
+          "fuente": "tightpoker.com",
+          "url": "https://www.tightpoker.com/news/hamid-izadi-wins-4th-wsopc-main-event/",
+          "titular": "Hamid Izadi Wins Back-to-Back WSOPC Southern Indiana Main Events, Ties Hawkins’ Record",
+          "primera_frase": "Hamid Izadi defeated a 282-entry field to win the 2026 WSOP Circuit Southern Indiana $1,700 Main Event for $93,060.",
+          "con_extracto": true
+        },
+        {
+          "n": 7,
+          "fuente": "PokerNewsDaily",
+          "url": "https://www.pokernewsdaily.com/tereza-vernerova-makes-history-first-woman-49250/",
+          "titular": "Tereza Vernerova Becomes First Woman to Win Battle of Malta Main Event",
+          "primera_frase": "Tereza Vernerova has won the 2026 Battle of Malta Autumn Edition Main Event, becoming the first woman in the tournament’s history to claim the title, according to PokerNews.",
+          "con_extracto": true
+        },
+        {
+          "n": 8,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1773920-tereza-vernerova-becomes-first-female-battle-of-malta-main-event-champion",
+          "titular": "Tereza Vernerova Becomes First Female Battle Of Malta Main Event Champion",
+          "primera_frase": "Tereza Vernerova became the first woman to win the Battle of Malta main event, besting a 5,368-entry field to earn $182,151."
+        },
+        {
+          "n": 9,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/elections-impact-on-texas-poker-52749.htm",
+          "titular": "Why the Election Results Could Benefit Poker Rooms in Texas",
+          "primera_frase": "The new attorney general, Nathan Johnson, is pro-poker.",
+          "con_extracto": true
+        },
+        {
+          "n": 10,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/gukpt-reveals-2027-schedule-as-tour-celebrates-20-years-of-u-52742.htm",
+          "titular": "Grosvenor Reveals 2027 GUKPT Schedule as Tour Celebrates 20 Years of Poker",
+          "primera_frase": "GUKPT reveals nine legs for 2027 as the tour celebrates its 20th anniversary.",
+          "con_extracto": true
+        },
+        {
+          "n": 11,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/poker-player-matt-berkey-only-friends-podcast-returns-52755.htm",
+          "titular": "Matt Berkey's Only Friends Poker Podcast Is Back From the Dead",
+          "primera_frase": "Matt Berkey confirmed Only Friends is back, with four weekly shows starting November 9.",
+          "con_extracto": true
+        },
+        {
+          "n": 12,
+          "fuente": "PokerNews Brasil",
+          "url": "https://br.pokernews.com/noticias/2026/11/wpt-estreia-nova-tecnica-distribuicao-cartas-68051.htm",
+          "titular": "WPT estreia nova técnica de distribuição de cartas em torneio nos Estados Unidos",
+          "primera_frase": "Mudança busca aumentar a segurança e evitar trapaças",
+          "con_extracto": true
+        },
+        {
+          "n": 13,
+          "fuente": "Poker Noticias",
+          "url": "https://pokernoticias.com/47-jugadores-siguen-en-carrera-por-el-primer-anillo-de-la-wsopc-panama-2026/",
+          "titular": "47 jugadores siguen en carrera por el primer anillo de la WSOPC Panamá 2026",
+          "primera_frase": "El Mini Main Event de la WSOP Circuit Panamá entra en su etapa decisiva.",
+          "con_extracto": true
+        },
+        {
+          "n": 14,
+          "fuente": "PokerNews en español",
+          "url": "https://es.pokernews.com/noticias/2026/11/triton-poker-plus-ya-esta-disponible-en-espanol-54215.htm",
+          "titular": "Triton Poker Plus ya está disponible en español",
+          "primera_frase": "La aplicación oficial de Triton incorpora el español para seguir toda la acción del circuito.",
+          "con_extracto": true
+        },
+        {
+          "n": 15,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/triton-poker-plus-ya-esta-disponible-en-espanol",
+          "titular": "Triton Poker Plus ya está disponible en español",
+          "primera_frase": "Triton Poker Series"
+        },
+        {
+          "n": 16,
+          "fuente": "PokerNews en español",
+          "url": "https://es.pokernews.com/noticias/2026/11/es-el-nuevo-libro-de-jnandez-el-manual-definitivo-para-domi-54214.htm",
+          "titular": "¿Es el nuevo libro de \"JNandez\" el manual definitivo para dominar el PLO?",
+          "primera_frase": "El especialista suizo publica su segundo libro sobre Pot-Limit Omaha, con 100 consejos de estrategia.",
+          "con_extracto": true
+        },
+        {
+          "n": 17,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/jnandez-lanza-un-nuevo-libro-para-dominar-el-pot-limit-omaha",
+          "titular": "“JNandez” lanza un nuevo libro para dominar el Pot-Limit Omaha",
+          "primera_frase": "Pot Limit Omaha"
+        },
+        {
+          "n": 18,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1774186-coinpoker-kicks-off-250-million-pgt-online-series-with-50-million-guaranteed-festival",
+          "titular": "CoinPoker Kicks Off $250 Million PGT Online Series With $50 Million Guaranteed Festival",
+          "primera_frase": "CoinPoker launches its $250 million PGT Online series with a $50 million festival featuring mystery bounties and trophy events.",
+          "con_extracto": true
+        }
+      ],
+      "tipo": "redaccion"
+    }
+  ]
+}
