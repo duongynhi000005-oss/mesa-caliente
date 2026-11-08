@@ -138,42 +138,6 @@
   ],
   "menciones": [
     {
-      "dominio": "lovable.app",
-      "articulo": "https://www.reddit.com/r/poker/comments/1xf0g32/i_built_a_poker_game_would_love_your_feedback/",
-      "enlace": "https://poker-hands.lovable.app",
-      "fecha": "2026-10-25"
-    },
-    {
-      "dominio": "wsop.com",
-      "articulo": "https://pokerfuse.com/latest-news/2026/10/player-absolutely-crushing-wsop-online-fall/",
-      "enlace": "https://wsop.com/",
-      "fecha": "2026-10-25"
-    },
-    {
-      "dominio": "ig.me",
-      "articulo": "https://pokernoticias.com/sebastian-toro-lleva-la-bandera-colombiana-a-lo-alto-del-poker-asiatico/",
-      "enlace": "https://ig.me/m/pokernoticiaslatam_",
-      "fecha": "2026-10-25"
-    },
-    {
-      "dominio": "houstonsocialcardroom.com",
-      "articulo": "https://codigopoker.com/noticias/sammy-farha-acusado-golpear-dealer-texas",
-      "enlace": "https://www.houstonsocialcardroom.com/",
-      "fecha": "2026-10-25"
-    },
-    {
-      "dominio": "ig.me",
-      "articulo": "https://pokernoticias.com/wps-medellin-asi-quedaron-las-mesas-para-el-dia-2-del-high-roller/",
-      "enlace": "https://ig.me/m/pokernoticiaslatam_",
-      "fecha": "2026-10-25"
-    },
-    {
-      "dominio": "pgt.com",
-      "articulo": "https://codigopoker.com/noticias/torneos/estados-unidos/adrian-mateos-chaqueta-poker-masters",
-      "enlace": "https://www.pgt.com/news/adrian-mateos-wins-2026-poker-masters-purple-jacket",
-      "fecha": "2026-10-25"
-    },
-    {
       "dominio": "controlcentresports.com",
       "articulo": "https://www.reddit.com/r/poker/comments/1xfu310/wsop_paradise_fantasy/",
       "enlace": "http://controlcentresports.com/poker/suits/rules",
@@ -1090,6 +1054,36 @@
       "articulo": "https://www.cardplayer.com/poker-news/1774186-coinpoker-kicks-off-250-million-pgt-online-series-with-50-million-guaranteed-festival",
       "enlace": "https://cardplayer.pokercoaching.com/courses",
       "fecha": "2026-11-07"
+    },
+    {
+      "dominio": "ig.me",
+      "articulo": "https://pokernoticias.com/thomas-heine-conquista-el-primer-anillo-de-la-wsopc-panama/",
+      "enlace": "https://ig.me/m/pokernoticiaslatam_",
+      "fecha": "2026-11-08"
+    },
+    {
+      "dominio": "ig.me",
+      "articulo": "https://pokernoticias.com/luis-ore-ramirez-lidera-el-primer-vuelo-del-main-event-de-la-wsopc-panama-2026/",
+      "enlace": "https://ig.me/m/pokernoticiaslatam_",
+      "fecha": "2026-11-08"
+    },
+    {
+      "dominio": "pokernews.com",
+      "articulo": "https://www.pokernewsdaily.com/tough-call-episode-two-brings-media-49256/",
+      "enlace": "https://www.pokernews.com/news/2026/11/the-tough-call-episode-two-52753.htm",
+      "fecha": "2026-11-08"
+    },
+    {
+      "dominio": "ig.me",
+      "articulo": "https://pokernoticias.com/triton-poker-plus-rompe-la-barrera-del-idioma-y-llega-a-la-comunidad-hispanohablante/",
+      "enlace": "https://ig.me/m/pokernoticiaslatam_",
+      "fecha": "2026-11-08"
+    },
+    {
+      "dominio": "winamax.es",
+      "articulo": "https://www.poker-red.com/noticias/winamax-abre-las-puertas-del-expresso-saloon",
+      "enlace": "https://www.winamax.es/expresso-saloon",
+      "fecha": "2026-11-08"
     }
   ]
 }
