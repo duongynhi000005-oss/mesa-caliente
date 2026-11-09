@@ -1,0 +1,393 @@
+{
+  "fecha": "2026-11-09",
+  "corridas": [
+    {
+      "id": "2026-11-09T12:00:23Z",
+      "notas": [
+        {
+          "n": 1,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/adam-wilkinson-wins-gukpt-blackpool-main-event-52765.htm",
+          "titular": "Almost 20 Years in the Making: Adam Wilkinson Finally Wins a GUKPT Main Event",
+          "primera_frase": "Adam Wilkinson wins the 2026 GUKPT Blackpool Main Event"
+        },
+        {
+          "n": 2,
+          "fuente": "PokerNewsDaily",
+          "url": "https://www.pokernewsdaily.com/foxens-partner-solana-crypto-buyins-wsop-49258/",
+          "titular": "Alex and Kristen Foxen Carry Bracelet Momentum Into WSOP Paradise at Baha Mar",
+          "primera_frase": "Alex and Kristen Foxen are heading into WSOP Paradise carrying fresh bracelet wins, according to PokerNews."
+        },
+        {
+          "n": 3,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1774222-alin-ivan-hero-calls-his-way-to-triton-one-title-in-north-cyprus",
+          "titular": "Alin Ivan Hero-Calls His Way To Triton ONE Title In North Cyprus",
+          "primera_frase": "Romanian pro Alin Ivan outlasted a 912-entry field in the $3,000 Triton ONE North Cyprus kickoff event to earn a career-best $450,000 payday."
+        },
+        {
+          "n": 4,
+          "fuente": "Poker Industry PRO",
+          "url": "https://pokerindustrypro.com/news/article/226274-oklahoma-sweepstakes-ban-clubs-poker-global-and",
+          "titular": "Oklahoma Sweepstakes Ban: Clubs Poker, Global and Stake Exit Market",
+          "primera_frase": "Oklahoma’s ban on online sweepstakes gaming took effect on November 1, and three of the four main sweepstakes poker operators had already pulled back from the state."
+        },
+        {
+          "n": 5,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xri06k/betonline_20year_customer_platinum_2_locked_out/",
+          "titular": "BetOnline] 20-year customer (Platinum 2) locked out by a network error. Support tells me I MUST use a VPN, then tells me to turn it off. I’m losing my mind.",
+          "primera_frase": "05:53 AM | Me: Wait, did you copy and paste that last response?"
+        },
+        {
+          "n": 6,
+          "fuente": "PokerNews en español",
+          "url": "https://es.pokernews.com/noticias/2026/11/adria-diaz-conquista-el-high-roller-del-gukpt-blackpool-y-se-54228.htm",
+          "titular": "Adrià Díaz conquista el High Roller del GUKPT Blackpool y se lleva 33.250 £",
+          "primera_frase": "El jugador catalán superó 56 entradas y derrotó a Chris Balmforth en el heads-up."
+        },
+        {
+          "n": 7,
+          "fuente": "Poker Noticias",
+          "url": "https://pokernoticias.com/justin-fawcett-toma-el-mando-del-main-event-de-la-wsopc-panama-tras-un-intenso-dia-1b/",
+          "titular": "Justin Fawcett toma el mando del Main Event de la WSOPC Panamá tras un intenso Día 1B",
+          "primera_frase": "El Main Event de la WSOP Circuit Panamá 2026 continúa sumando emociones."
+        },
+        {
+          "n": 8,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/como-piensa-lucia-navarro-cuando-juega-el-main-event-de-las-wsop",
+          "titular": "¿Cómo piensa Lucía Navarro cuando juega el Main Event de las WSOP?",
+          "primera_frase": "WSOP 2026"
+        },
+        {
+          "n": 9,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/strategy/when-a-full-house-is-a-trap-52223.htm",
+          "titular": "When a Full House Is a Trap",
+          "primera_frase": "A player turns a full house, but gets downgraded to a worse one on the river."
+        },
+        {
+          "n": 10,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xrghjj/best_poker_clubs_in_dallas_right_now/",
+          "titular": "Best poker clubs in Dallas right now?",
+          "primera_frase": "I'm going to be in Dallas for a few days and I'm looking to enjoy some action packed Texas poker."
+        },
+        {
+          "n": 11,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/alin-ivan-debuta-en-triton-one-ganando-el-genesis-por-450.000-USD",
+          "titular": "Alin Ivan debuta en Triton ONE ganando el Genesis por 450.000 $",
+          "primera_frase": "Triton One Chipre"
+        },
+        {
+          "n": 12,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/jason-nguyen-wins-borgata-fall-poker-open-kickoff-52763.htm",
+          "titular": "Jason Nguyen Fulfills Promise and Wins Borgata Fall Poker Open Kickoff for $126,727",
+          "primera_frase": "“It means the whole world, to be honest.\""
+        },
+        {
+          "n": 13,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xrdufr/poker_en_cdmx/",
+          "titular": "Poker en CDMX",
+          "primera_frase": "Alguien tiene una recomendación de un lugar para jugar poker en vivo en CDMX low stakes?"
+        },
+        {
+          "n": 14,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/david-camara-luzago-celebro-el-programa-400-con-justo-velardos",
+          "titular": "David Cámara \"Luzago\" celebró el programa 400 con Justo Velardos",
+          "primera_frase": "MarcaPóker"
+        },
+        {
+          "n": 15,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/wpt-seoul-inspire-championship-final-day-stream-52762.htm",
+          "titular": "WATCH: WPT Seoul Championship Set For Exciting Final Day",
+          "primera_frase": "WPT commentator Aaron Paul Kramer reflects on Seoul ahead of the INSPIRE Championship finale."
+        },
+        {
+          "n": 16,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/mario-diaz-peleara-por-los-138.264-USD-del-ggmasters-high-rollers",
+          "titular": "Mario Díaz peleará por los 138.264 $ del GGMasters High Rollers",
+          "primera_frase": "GGpoker"
+        },
+        {
+          "n": 17,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/888live-ukpl-grand-final-2026-schedule-released-52750.htm",
+          "titular": "888LIVE UKPL Grand Final Schedule Released; 30x Main Event Tickets to Be Won",
+          "primera_frase": "888LIVE returns to Coventry for the UKPL's Grand Final."
+        },
+        {
+          "n": 18,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/wesley-wiemes-campeon-sin-discusion-en-el-noche-de-poker-el-festival-murcia",
+          "titular": "Wesley Wiemes, campeón sin discusión en el Noche de Poker: El Festival Murcia",
+          "primera_frase": "Noche de Poker El Festival"
+        },
+        {
+          "n": 19,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/one-of-the-last-chances-to-win-a-wsop-paradise-package-52754.htm",
+          "titular": "One of the Last Chances to Win a WSOP Paradise Package Awaits in Sanremo",
+          "primera_frase": "WSOP Circuit Sanremo offers 11 ring events"
+        },
+        {
+          "n": 20,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xr775d/lol_always/",
+          "titular": "Lol Always",
+          "primera_frase": "submitted by /u/Various_Trainer6423 [link] [comentarios]"
+        },
+        {
+          "n": 21,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/torneos/wsop/wsop-panama/thomas-heine-se-quedo-con-el-mini-main-event-del-wsop-panama",
+          "titular": "Thomas Heine se quedó con el Mini Main Event del WSOP Panamá",
+          "primera_frase": ""
+        },
+        {
+          "n": 22,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/norberto-lopez-lidera-a-los-27-jugadores-que-quieren-llevarse-los-30.000-eu-de-vencedor",
+          "titular": "Norberto López lidera a los 27 jugadores que quieren llevarse los 30.000 € de vencedor",
+          "primera_frase": "Noche de Poker El Festival"
+        },
+        {
+          "n": 23,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xrb66a/this_time_will_be_different/",
+          "titular": "This time will be different",
+          "primera_frase": "submitted by /u/YoureAroundAgain [link] [comentarios]"
+        },
+        {
+          "n": 24,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/torneos/wsop/wsop-rosario-main-event-tian-mengshi-lidero-a-los-clasificados-del-dia-1b",
+          "titular": "WSOP Rosario Main Event: Tian Mengshi lideró a los clasificados del Día 1B",
+          "primera_frase": ""
+        },
+        {
+          "n": 25,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/roberto-ortiz-jugara-su-segunda-gran-final-de-noche-de-poker",
+          "titular": "Roberto Ortiz jugará su segunda Gran Final de Noche de Poker",
+          "primera_frase": "Noche de Poker"
+        },
+        {
+          "n": 26,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xqzugc/how_do_you_feel_about_people_who_avoid_the_big/",
+          "titular": "How Do You Feel About People Who Avoid The Big Blind In Tournaments?",
+          "primera_frase": "Ryan DePaulo be like \"whoops, I can't seem to find table #69 guys, where the heck is it??!!\" submitted by /u/MartinoMods [link] [comentarios]"
+        },
+        {
+          "n": 27,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/torneos/wsop/lacoste-anillo-wsop-rosario",
+          "titular": "Mark Lacoste ganó el evento Turbo Deepstack de la WSOP Rosario",
+          "primera_frase": ""
+        },
+        {
+          "n": 28,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/jokin-herrero-gana-el-cuarto-episodio-de-la-11a-temporada-de-noche-de-poker",
+          "titular": "Jokin Herrero gana el cuarto episodio de la 11ª temporada de Noche de Poker",
+          "primera_frase": "Noche de Poker"
+        },
+        {
+          "n": 29,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/rooms-y-plataformas/festivales-de-poker-en-vivo-latam",
+          "titular": "Los 5 festivales de poker imperdibles para cerrar el año sin salir de Latinoamérica",
+          "primera_frase": ""
+        },
+        {
+          "n": 30,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/adria-diaz-gana-el-high-roller-del-gukpt-blackpool-por-33.250-ps",
+          "titular": "Adrià Díaz gana el High Roller del GUKPT Blackpool por 33.250 £",
+          "primera_frase": "GUKPT Blackpool"
+        },
+        {
+          "n": 31,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/rooms-y-plataformas/series-jacked-de-stake-poker",
+          "titular": "Se vienen las series Jacked de Stake Poker con US$2 Millones garantizados; aquí los detalles",
+          "primera_frase": ""
+        },
+        {
+          "n": 32,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/winamax-abre-las-puertas-del-expresso-saloon",
+          "titular": "Winamax abre las puertas del Expresso Saloon",
+          "primera_frase": "Winamax España"
+        },
+        {
+          "n": 33,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/torneos-mexico/arenia-morelia-garantiza-mxn200-000-a-su-proximo-campeon",
+          "titular": "Arenia Morelia garantiza MXN$200.000 a su próximo campeón",
+          "primera_frase": ""
+        },
+        {
+          "n": 34,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/rooms-y-plataformas/mejores-salas-de-poker-con-criptomonedas",
+          "titular": "Top 6: las mejores salas de poker con criptomonedas en Latam",
+          "primera_frase": ""
+        },
+        {
+          "n": 35,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/torneos/wsop/wsop-panama-thomas-heine-y-jorge-guzman-lideraron-los-dias-1c-y-1d-del-mini-main-event",
+          "titular": "WSOP Panamá: Thomas Heine y Jorge Guzmán lideraron los Días 1C y 1D del Mini Main Event",
+          "primera_frase": ""
+        },
+        {
+          "n": 36,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/torneos-mexico/joel-trevino-fue-el-jugador-de-la-serie-en-psop-calaverita",
+          "titular": "Joel Treviño fue el Jugador de la Serie en PSOP Calaverita",
+          "primera_frase": ""
+        },
+        {
+          "n": 37,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/torneos-eeuu/joe-mckeehen-se-quedo-con-el-ultimo-evento-de-la-pgt-sprint",
+          "titular": "Joe McKeehen se quedó con el último evento de la PGT Sprint",
+          "primera_frase": ""
+        }
+      ],
+      "tipo": "seleccion"
+    },
+    {
+      "id": "2026-11-09T12:00:23Z",
+      "notas": [
+        {
+          "n": 1,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/adam-wilkinson-wins-gukpt-blackpool-main-event-52765.htm",
+          "titular": "Almost 20 Years in the Making: Adam Wilkinson Finally Wins a GUKPT Main Event",
+          "primera_frase": "Adam Wilkinson wins the 2026 GUKPT Blackpool Main Event",
+          "con_extracto": true
+        },
+        {
+          "n": 2,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1774222-alin-ivan-hero-calls-his-way-to-triton-one-title-in-north-cyprus",
+          "titular": "Alin Ivan Hero-Calls His Way To Triton ONE Title In North Cyprus",
+          "primera_frase": "Romanian pro Alin Ivan outlasted a 912-entry field in the $3,000 Triton ONE North Cyprus kickoff event to earn a career-best $450,000 payday.",
+          "con_extracto": true
+        },
+        {
+          "n": 3,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/alin-ivan-debuta-en-triton-one-ganando-el-genesis-por-450.000-USD",
+          "titular": "Alin Ivan debuta en Triton ONE ganando el Genesis por 450.000 $",
+          "primera_frase": "Triton One Chipre"
+        },
+        {
+          "n": 4,
+          "fuente": "Poker Industry PRO",
+          "url": "https://pokerindustrypro.com/news/article/226274-oklahoma-sweepstakes-ban-clubs-poker-global-and",
+          "titular": "Oklahoma Sweepstakes Ban: Clubs Poker, Global and Stake Exit Market",
+          "primera_frase": "Oklahoma’s ban on online sweepstakes gaming took effect on November 1, and three of the four main sweepstakes poker operators had already pulled back from the state."
+        },
+        {
+          "n": 5,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/jason-nguyen-wins-borgata-fall-poker-open-kickoff-52763.htm",
+          "titular": "Jason Nguyen Fulfills Promise and Wins Borgata Fall Poker Open Kickoff for $126,727",
+          "primera_frase": "“It means the whole world, to be honest.\"",
+          "con_extracto": true
+        },
+        {
+          "n": 6,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/wpt-seoul-inspire-championship-final-day-stream-52762.htm",
+          "titular": "WATCH: WPT Seoul Championship Set For Exciting Final Day",
+          "primera_frase": "WPT commentator Aaron Paul Kramer reflects on Seoul ahead of the INSPIRE Championship finale.",
+          "con_extracto": true
+        },
+        {
+          "n": 7,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/888live-ukpl-grand-final-2026-schedule-released-52750.htm",
+          "titular": "888LIVE UKPL Grand Final Schedule Released; 30x Main Event Tickets to Be Won",
+          "primera_frase": "888LIVE returns to Coventry for the UKPL's Grand Final.",
+          "con_extracto": true
+        },
+        {
+          "n": 8,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/one-of-the-last-chances-to-win-a-wsop-paradise-package-52754.htm",
+          "titular": "One of the Last Chances to Win a WSOP Paradise Package Awaits in Sanremo",
+          "primera_frase": "WSOP Circuit Sanremo offers 11 ring events",
+          "con_extracto": true
+        },
+        {
+          "n": 9,
+          "fuente": "PokerNews en español",
+          "url": "https://es.pokernews.com/noticias/2026/11/adria-diaz-conquista-el-high-roller-del-gukpt-blackpool-y-se-54228.htm",
+          "titular": "Adrià Díaz conquista el High Roller del GUKPT Blackpool y se lleva 33.250 £",
+          "primera_frase": "El jugador catalán superó 56 entradas y derrotó a Chris Balmforth en el heads-up.",
+          "con_extracto": true
+        },
+        {
+          "n": 10,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/adria-diaz-gana-el-high-roller-del-gukpt-blackpool-por-33.250-ps",
+          "titular": "Adrià Díaz gana el High Roller del GUKPT Blackpool por 33.250 £",
+          "primera_frase": "GUKPT Blackpool"
+        },
+        {
+          "n": 11,
+          "fuente": "Poker Noticias",
+          "url": "https://pokernoticias.com/justin-fawcett-toma-el-mando-del-main-event-de-la-wsopc-panama-tras-un-intenso-dia-1b/",
+          "titular": "Justin Fawcett toma el mando del Main Event de la WSOPC Panamá tras un intenso Día 1B",
+          "primera_frase": "El Main Event de la WSOP Circuit Panamá 2026 continúa sumando emociones.",
+          "con_extracto": true
+        },
+        {
+          "n": 12,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/torneos/wsop/wsop-panama/thomas-heine-se-quedo-con-el-mini-main-event-del-wsop-panama",
+          "titular": "Thomas Heine se quedó con el Mini Main Event del WSOP Panamá",
+          "primera_frase": "",
+          "con_extracto": true
+        },
+        {
+          "n": 13,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/torneos/wsop/wsop-rosario-main-event-tian-mengshi-lidero-a-los-clasificados-del-dia-1b",
+          "titular": "WSOP Rosario Main Event: Tian Mengshi lideró a los clasificados del Día 1B",
+          "primera_frase": "",
+          "con_extracto": true
+        },
+        {
+          "n": 14,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/torneos/wsop/lacoste-anillo-wsop-rosario",
+          "titular": "Mark Lacoste ganó el evento Turbo Deepstack de la WSOP Rosario",
+          "primera_frase": "",
+          "con_extracto": true
+        },
+        {
+          "n": 15,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/torneos/wsop/wsop-panama-thomas-heine-y-jorge-guzman-lideraron-los-dias-1c-y-1d-del-mini-main-event",
+          "titular": "WSOP Panamá: Thomas Heine y Jorge Guzmán lideraron los Días 1C y 1D del Mini Main Event",
+          "primera_frase": "",
+          "con_extracto": true
+        }
+      ],
+      "tipo": "redaccion"
+    }
+  ]
+}
