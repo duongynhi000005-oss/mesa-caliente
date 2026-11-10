@@ -1,0 +1,578 @@
+{
+  "fecha": "2026-11-10",
+  "corridas": [
+    {
+      "id": "2026-11-10T12:00:29Z",
+      "notas": [
+        {
+          "n": 1,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/brazilians-dominate-the-spooky-season-sunday-million-52774.htm",
+          "titular": "Brazilians Dominate the Sunday Million as PokerStars Spooky Season Concludes",
+          "primera_frase": "Five of the Spooky Season Sunday Million's nine finalists hailed from Brazil."
+        },
+        {
+          "n": 2,
+          "fuente": "Pokerfuse",
+          "url": "https://pokerfuse.com/latest-news/2026/11/freerolls-festival-brings-8000-prizes-888poker/",
+          "titular": "Freerolls Festival Brings $8,000 in Prizes to 888poker Alberta Every Week",
+          "primera_frase": ""
+        },
+        {
+          "n": 3,
+          "fuente": "PokerNewsDaily",
+          "url": "https://www.pokernewsdaily.com/adam-wilkinson-wins-gukpt-blackpool-main-49260/",
+          "titular": "Adam Wilkinson Wins GUKPT Blackpool Main Event for £55,035",
+          "primera_frase": "Adam Wilkinson has claimed victory in the GUKPT Blackpool Main Event, according to PokerNews."
+        },
+        {
+          "n": 4,
+          "fuente": "PokerListings",
+          "url": "https://www.pokerlistings.com/news/mystery-bounty-is-live-on-coinpoker",
+          "titular": "Mystery Bounty Is Live on CoinPoker",
+          "primera_frase": "Keeping pace with trends in the poker industry, the fastest-growing poker room of the 2020s has decided to offer players a format that has already proven popular: Mystery Bounty tournaments.…"
+        },
+        {
+          "n": 5,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1774632-umut-ozturk-captures-his-third-mspt-main-event-title-of-2026",
+          "titular": "Umut Ozturk Captures His Third MSPT Main Event Title Of 2026",
+          "primera_frase": "Umut Ozturk won his third MSPT title of 2026 at Riverside Casino, outlasting 406 entries for $69,451 after a heads-up deal."
+        },
+        {
+          "n": 6,
+          "fuente": "Poker Industry PRO",
+          "url": "https://pokerindustrypro.com/news/article/226299-ipoker-launches-progressive-mystery-bounty",
+          "titular": "iPoker Launches Progressive Mystery Bounty Tournaments in Southern Europe",
+          "primera_frase": "iPoker has launched progressive mystery bounty tournaments on its Southern European network."
+        },
+        {
+          "n": 7,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xsjemx/i_know_its_only_nl2_but_its_so_good_to_finally_be/",
+          "titular": "I know it's only NL2 but it's so good to finally be on the right side of variance/cooler moments 🥰",
+          "primera_frase": "All these cooler moments happened within 3k hands haha."
+        },
+        {
+          "n": 8,
+          "fuente": "blog.gtowizard.com",
+          "url": "https://blog.gtowizard.com/the-biggest-failure-of-modern-poker-theory/",
+          "titular": "The Biggest Failure of Modern Poker Theory",
+          "primera_frase": "Give 3 solvers the same spot and you'll get 3 different strategies, all near-unexploitable."
+        },
+        {
+          "n": 9,
+          "fuente": "PokerNews en español",
+          "url": "https://es.pokernews.com/noticias/2026/11/el-cep-por-pokerstars-coronara-a-su-campeon-en-peralada-54242.htm",
+          "titular": "El CEP por PokerStars coronará a su campeón de España en Peralada del 25 al 29 de noviembre",
+          "primera_frase": "Casino Peralada acogerá la gran final del CEP en el año de su 20.º aniversario."
+        },
+        {
+          "n": 10,
+          "fuente": "PokerNews Brasil",
+          "url": "https://br.pokernews.com/noticias/2026/11/phil-hellmuth-wpt-venetian-68076.htm",
+          "titular": "Phil Hellmuth cai em reta final no Venetian e segue sem título do WPT; confira",
+          "primera_frase": "O \"Poker Brat\" perdeu um coin flip que o colocaria de volta no jogo"
+        },
+        {
+          "n": 11,
+          "fuente": "Poker Noticias",
+          "url": "https://pokernoticias.com/gaspar-fernandez-y-shawn-beaupre-lideran-el-mystery-bounty-de-la-wsopc-panama/",
+          "titular": "Gaspar Fernández y Shawn Beaupré lideran el Mystery Bounty de la WSOPC Panamá",
+          "primera_frase": "El Mystery Bounty de la WSOP Circuit Panamá 2026 ya tiene a sus protagonistas para la siguiente etapa."
+        },
+        {
+          "n": 12,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/torneos/wsop/diego-sanchez-ya-tiene-su-anillo-de-la-wsop-rosario",
+          "titular": "Diego Sánchez ya tiene su anillo de la WSOP Rosario",
+          "primera_frase": ""
+        },
+        {
+          "n": 13,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/la-gran-final-del-cnp-winamax-apunta-alto-se-esperan-mas-de-3.000-registros",
+          "titular": "La Gran Final del CNP Winamax apunta alto: se esperan más de 3.000 registros",
+          "primera_frase": "CNP Winamax 2026"
+        },
+        {
+          "n": 14,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/tobias-schwecht-defeats-ept-champion-to-claim-301k-52773.htm",
+          "titular": "Tobias Schwecht Defeats EPT Champion to Claim $301K GGPoker Score",
+          "primera_frase": "Schwecht topped a compact yet elite field of 80 entrants."
+        },
+        {
+          "n": 15,
+          "fuente": "Pokerfuse",
+          "url": "https://pokerfuse.com/latest-news/2026/11/doug-polk-sets-tone-big-game-on-tour-return/",
+          "titular": "Doug Polk Sets the Tone for the Big Game on Tour Return",
+          "primera_frase": ""
+        },
+        {
+          "n": 16,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1774398-christopher-marcadet-wins-pokerstars-open-aix-en-provence-main-event",
+          "titular": "Christopher Marcadet Wins PokerStars Open Aix-en-Provence Main Event",
+          "primera_frase": "Christopher Marcadet outlasted 859 entries in the PokerStars Open Aix-en-Provence €1,100 main event to earn $145,689."
+        },
+        {
+          "n": 17,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xsj4g9/my_wonderful_poker_journey/",
+          "titular": "My wonderful poker journey",
+          "primera_frase": "I was playing fake money online poker, for years, since i was 11 years old."
+        },
+        {
+          "n": 18,
+          "fuente": "PokerNews en español",
+          "url": "https://es.pokernews.com/noticias/2026/11/christopher-marcadet-conquista-pokerstars-open-aix-en-proven-54239.htm",
+          "titular": "Christopher Marcadet conquista el PokerStars Open Aix-en-Provence y consigue el mayor premio de su carrera",
+          "primera_frase": "El francés se impuso a 859 entradas y se llevó 130.000 € tras derrotar a John Rezzonico."
+        },
+        {
+          "n": 19,
+          "fuente": "PokerNews Brasil",
+          "url": "https://br.pokernews.com/noticias/2026/11/leonardo-alcantara-dobradinha-ggpoker-68070.htm",
+          "titular": "Leonardo Alcântara é destaque com dobradinha brasileira na GGPoker; confira",
+          "primera_frase": "O jogador superou Emmanuel de Sousa no heads-up"
+        },
+        {
+          "n": 20,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/christopher-marcadet-gana-el-ps-open-main-event-aix-en-provence-por-130.000-eu",
+          "titular": "Christopher Marcadet gana el PS Open Main Event Aix-en-Provence por 130.000 €",
+          "primera_frase": "PS Open Aix-en-Provence"
+        },
+        {
+          "n": 21,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/phil-hellmuth-wpt-venetian-52769.htm",
+          "titular": "Phil Hellmuth Left Frustrated as First WPT Title Slips Away",
+          "primera_frase": "Hellmuth's latest pursuit of a maiden WPT title ended in a coin flip."
+        },
+        {
+          "n": 22,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xsidbu/12_am_i_paying_off_river_bets_like_a_donk_two/",
+          "titular": "1/2: Am I paying off river bets like a donk? Two hands against loose recs",
+          "primera_frase": "Had two frustrating hands in the same session and wondering whether I’m making reasonable bluff-catches or just lighting money on fire against $1/$2 players who rarely bluff rivers."
+        },
+        {
+          "n": 23,
+          "fuente": "PokerNews en español",
+          "url": "https://es.pokernews.com/noticias/2026/11/mario-diaz-se-queda-a-las-puertas-del-podio-del-ggmasters-hi-54238.htm",
+          "titular": "Mario Díaz se queda a las puertas del podio del GGMasters High Rollers y gana 58.305 $",
+          "primera_frase": "El español terminó 4º entre 783 entradas en el torneo de 1.050 $ de GGPoker."
+        },
+        {
+          "n": 24,
+          "fuente": "PokerNews Brasil",
+          "url": "https://br.pokernews.com/noticias/2026/11/pokerstars-big-game-on-tour-polk-esfandiari-68068.htm",
+          "titular": "Nova temporada do PokerStars Big Game on Tour tem Polk e Esfandiari; saiba mais",
+          "primera_frase": "A dupla de peso promete uma mesa bem falante e extrovertida"
+        },
+        {
+          "n": 25,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/mario-diaz-termina-cuarto-en-el-ggmasters-high-rollers-por-58.305-USD",
+          "titular": "Mario Díaz termina cuarto en el GGMasters High Rollers por 58.305 $",
+          "primera_frase": "Pinchazos .com"
+        },
+        {
+          "n": 26,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/poker-player-roger-sippl-passes-away-52772.htm",
+          "titular": "'Serial Entrepreneur,' High Stakes Poker Player Roger Sippl Passes Away",
+          "primera_frase": "Sippl appeared multiple times on High Stakes Poker."
+        },
+        {
+          "n": 27,
+          "fuente": "PokerNews en español",
+          "url": "https://es.pokernews.com/noticias/2026/11/alex-y-kristen-foxen-se-asocian-con-solana-de-cara-a-las-wso-54233.htm",
+          "titular": "Alex y Kristen Foxen se asocian con Solana de cara a las WSOP Paradise",
+          "primera_frase": "La pareja de jugadores se une a Solana para facilitar las inscripciones con criptomonedas en las WSOP."
+        },
+        {
+          "n": 28,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/poker-red-ya-tiene-liga-en-triton-fantasy-unete-y-prepara-tu-equipo",
+          "titular": "Poker-Red ya tiene liga en Triton Fantasy: ¡únete y prepara tu equipo!",
+          "primera_frase": "Triton Fantasy"
+        },
+        {
+          "n": 29,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/aces-vs-ace-king-vs-queens-deep-in-5k-poker-tournament-52770.htm",
+          "titular": "Poker Vlogger's Aces Hold in Huge Three-Way Cooler Deep in $5K Tournament",
+          "primera_frase": "Eric Tsai's aces beat ace-king and queens in a massive Triton ONE Mystery Bounty pot."
+        },
+        {
+          "n": 30,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/alex-y-kristen-foxen-se-unen-a-solana-antes-de-wsop-paradise",
+          "titular": "Alex y Kristen Foxen se unen a Solana antes de WSOP Paradise",
+          "primera_frase": "WSOP Paradise 2026"
+        },
+        {
+          "n": 31,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/winning-the-ps-open-aix-en-provence-is-a-real-milestone-52767.htm",
+          "titular": "Winning the PS Open Aix-en-Provence Is a \"Real Milestone\" for Marcadet",
+          "primera_frase": "Christopher Marcadet topped an 859-strong field in the PS Open Aix-en-Provence Main Event."
+        },
+        {
+          "n": 32,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/tony-hinchcliffe-pokerstars-big-game-52764.htm",
+          "titular": "WATCH: Did Comedian Inappropriately Influence Action After He'd Already Folded?",
+          "primera_frase": "Was the star of \"Kill Tony\" out of line?"
+        },
+        {
+          "n": 33,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/strategy/when-a-full-house-is-a-trap-52223.htm",
+          "titular": "When a Full House Is a Trap",
+          "primera_frase": "A player turns a full house, but gets downgraded to a worse one on the river."
+        },
+        {
+          "n": 34,
+          "fuente": "PokerNewsDaily",
+          "url": "https://www.pokernewsdaily.com/foxens-partner-solana-crypto-buyins-wsop-49258/",
+          "titular": "Alex and Kristen Foxen Carry Bracelet Momentum Into WSOP Paradise at Baha Mar",
+          "primera_frase": "Alex and Kristen Foxen are heading into WSOP Paradise carrying fresh bracelet wins, according to PokerNews."
+        },
+        {
+          "n": 35,
+          "fuente": "Poker Industry PRO",
+          "url": "https://pokerindustrypro.com/news/article/226274-oklahoma-sweepstakes-ban-clubs-poker-global-and",
+          "titular": "Oklahoma Sweepstakes Ban: Clubs Poker, Global and Stake Exit Market",
+          "primera_frase": "Oklahoma’s ban on online sweepstakes gaming took effect on November 1, and three of the four main sweepstakes poker operators had already pulled back from the state."
+        },
+        {
+          "n": 36,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xsawu0/new_plates_came_in/",
+          "titular": "New Plates Came In!",
+          "primera_frase": "Anyone else got a fun license plate? Gambling or poker related Btw my Aces get cracked constantly submitted by /u/CampinHiker [link] [comentarios]"
+        },
+        {
+          "n": 37,
+          "fuente": "PokerNews Brasil",
+          "url": "https://br.pokernews.com/estrategia-poker/quando-full-house-armadilha-68069.htm",
+          "titular": "Quando um Full House é uma Armadilha; Confira a Análise do QuintAce",
+          "primera_frase": "O jogador acerta um full house, mas vê um river curioso"
+        },
+        {
+          "n": 38,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/rooms-y-plataformas/ggpoker/reyes-espinoza-obtuvo-triunfo-dominical-en-el-sunday-hundred-grand",
+          "titular": "Reyes Espinoza obtuvo un triunfo dominical en el Sunday Hundred Grand",
+          "primera_frase": ""
+        },
+        {
+          "n": 39,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/como-piensa-lucia-navarro-cuando-juega-el-main-event-de-las-wsop",
+          "titular": "¿Cómo piensa Lucía Navarro cuando juega el Main Event de las WSOP?",
+          "primera_frase": "WSOP 2026"
+        },
+        {
+          "n": 40,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xsbc2w/why_are_poker_rooms_all_of_a_sudden_introducing/",
+          "titular": "Why are poker rooms all of a sudden introducing double board plo pots on every dealer rotation?",
+          "primera_frase": "submitted by /u/LoveVegas419 [link] [comentarios]"
+        },
+        {
+          "n": 41,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/torneos-mexico/twin-lions-tiene-proximo-su-19-aniversario-con-mxn1-000-000-garantizados",
+          "titular": "Twin Lions tiene próximo su 19 aniversario con MXN$1.000.000 garantizados",
+          "primera_frase": ""
+        },
+        {
+          "n": 42,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/david-camara-luzago-celebro-el-programa-400-con-justo-velardos",
+          "titular": "David Cámara \"Luzago\" celebró el programa 400 con Justo Velardos",
+          "primera_frase": "MarcaPóker"
+        },
+        {
+          "n": 43,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xs58w7/if_you_dont_care_about_min_cashing_mtt_and_just/",
+          "titular": "If you don’t care about Min Cashing MTT and just want to win. Is it better to be more aggressive and willing to do 50/50 flips?",
+          "primera_frase": "Hi all, I’m a cash game player 1/3-2/5 normally and rarely play tournaments."
+        },
+        {
+          "n": 44,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/industria/polk-y-esfandiari-tuvieron-una-jornada-dificil-en-the-big-game-on-tour",
+          "titular": "Polk y Esfandiari tuvieron una jornada difícil en The Big Game On Tour",
+          "primera_frase": ""
+        },
+        {
+          "n": 45,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/mario-diaz-peleara-por-los-138.264-USD-del-ggmasters-high-rollers",
+          "titular": "Mario Díaz peleará por los 138.264 $ del GGMasters High Rollers",
+          "primera_frase": "GGpoker"
+        },
+        {
+          "n": 46,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/costo-viajar-a-las-vegas",
+          "titular": "El costo de viajar a Las Vegas con el dólar de hoy: ¿conviene ir?",
+          "primera_frase": ""
+        },
+        {
+          "n": 47,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/wesley-wiemes-campeon-sin-discusion-en-el-noche-de-poker-el-festival-murcia",
+          "titular": "Wesley Wiemes, campeón sin discusión en el Noche de Poker: El Festival Murcia",
+          "primera_frase": "Noche de Poker El Festival"
+        },
+        {
+          "n": 48,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/torneos/wsop/wsop-panama-luis-ramirez-y-justin-fawcett-lideraron-el-inicio-del-main-event",
+          "titular": "WSOP Panamá: Luis Ramírez y Justin Fawcett lideraron el inicio del Main Event",
+          "primera_frase": ""
+        },
+        {
+          "n": 49,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/norberto-lopez-lidera-a-los-27-jugadores-que-quieren-llevarse-los-30.000-eu-de-vencedor",
+          "titular": "Norberto López lidera a los 27 jugadores que quieren llevarse los 30.000 € de vencedor",
+          "primera_frase": "Noche de Poker El Festival"
+        },
+        {
+          "n": 50,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/rooms-y-plataformas/festivales-de-poker-en-vivo-latam",
+          "titular": "Los 5 festivales de poker imperdibles para cerrar el año sin salir de Latinoamérica",
+          "primera_frase": ""
+        },
+        {
+          "n": 51,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/roberto-ortiz-jugara-su-segunda-gran-final-de-noche-de-poker",
+          "titular": "Roberto Ortiz jugará su segunda Gran Final de Noche de Poker",
+          "primera_frase": "Noche de Poker"
+        },
+        {
+          "n": 52,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/rooms-y-plataformas/series-jacked-de-stake-poker",
+          "titular": "Se vienen las series Jacked de Stake Poker con US$2 Millones garantizados; aquí los detalles",
+          "primera_frase": ""
+        },
+        {
+          "n": 53,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/torneos/wsop/wsop-panama/thomas-heine-se-quedo-con-el-mini-main-event-del-wsop-panama",
+          "titular": "Thomas Heine se quedó con el Mini Main Event del WSOP Panamá",
+          "primera_frase": ""
+        },
+        {
+          "n": 54,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/torneos-mexico/arenia-morelia-garantiza-mxn200-000-a-su-proximo-campeon",
+          "titular": "Arenia Morelia garantiza MXN$200.000 a su próximo campeón",
+          "primera_frase": ""
+        },
+        {
+          "n": 55,
+          "fuente": "Código Poker",
+          "url": "https://codigopoker.com/noticias/rooms-y-plataformas/mejores-salas-de-poker-con-criptomonedas",
+          "titular": "Top 6: las mejores salas de poker con criptomonedas en Latam",
+          "primera_frase": ""
+        }
+      ],
+      "tipo": "seleccion"
+    },
+    {
+      "id": "2026-11-10T12:00:29Z",
+      "notas": [
+        {
+          "n": 1,
+          "fuente": "Reddit r/poker",
+          "url": "https://www.reddit.com/r/poker/comments/1xrzc9a/inside_the_mind_of_a_pro/",
+          "titular": "Inside the mind of a pro",
+          "primera_frase": "Adrian Mateos episodes really improved the way i think.",
+          "tema": "Tema: Adrián Mateos"
+        },
+        {
+          "n": 2,
+          "fuente": "PokerNewsDaily",
+          "url": "https://www.pokernewsdaily.com/adam-wilkinson-wins-gukpt-blackpool-main-49260/",
+          "titular": "Adam Wilkinson Wins GUKPT Blackpool Main Event for £55,035",
+          "primera_frase": "Adam Wilkinson has claimed victory in the GUKPT Blackpool Main Event, according to PokerNews.",
+          "con_extracto": true
+        },
+        {
+          "n": 3,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1774632-umut-ozturk-captures-his-third-mspt-main-event-title-of-2026",
+          "titular": "Umut Ozturk Captures His Third MSPT Main Event Title Of 2026",
+          "primera_frase": "Umut Ozturk won his third MSPT title of 2026 at Riverside Casino, outlasting 406 entries for $69,451 after a heads-up deal.",
+          "con_extracto": true
+        },
+        {
+          "n": 4,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/tobias-schwecht-defeats-ept-champion-to-claim-301k-52773.htm",
+          "titular": "Tobias Schwecht Defeats EPT Champion to Claim $301K GGPoker Score",
+          "primera_frase": "Schwecht topped a compact yet elite field of 80 entrants.",
+          "con_extracto": true
+        },
+        {
+          "n": 5,
+          "fuente": "CardPlayer",
+          "url": "https://www.cardplayer.com/poker-news/1774398-christopher-marcadet-wins-pokerstars-open-aix-en-provence-main-event",
+          "titular": "Christopher Marcadet Wins PokerStars Open Aix-en-Provence Main Event",
+          "primera_frase": "Christopher Marcadet outlasted 859 entries in the PokerStars Open Aix-en-Provence €1,100 main event to earn $145,689.",
+          "con_extracto": true
+        },
+        {
+          "n": 6,
+          "fuente": "PokerNews en español",
+          "url": "https://es.pokernews.com/noticias/2026/11/christopher-marcadet-conquista-pokerstars-open-aix-en-proven-54239.htm",
+          "titular": "Christopher Marcadet conquista el PokerStars Open Aix-en-Provence y consigue el mayor premio de su carrera",
+          "primera_frase": "El francés se impuso a 859 entradas y se llevó 130.000 € tras derrotar a John Rezzonico."
+        },
+        {
+          "n": 7,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/christopher-marcadet-gana-el-ps-open-main-event-aix-en-provence-por-130.000-eu",
+          "titular": "Christopher Marcadet gana el PS Open Main Event Aix-en-Provence por 130.000 €",
+          "primera_frase": "PS Open Aix-en-Provence"
+        },
+        {
+          "n": 8,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/winning-the-ps-open-aix-en-provence-is-a-real-milestone-52767.htm",
+          "titular": "Winning the PS Open Aix-en-Provence Is a \"Real Milestone\" for Marcadet",
+          "primera_frase": "Christopher Marcadet topped an 859-strong field in the PS Open Aix-en-Provence Main Event."
+        },
+        {
+          "n": 9,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/phil-hellmuth-wpt-venetian-52769.htm",
+          "titular": "Phil Hellmuth Left Frustrated as First WPT Title Slips Away",
+          "primera_frase": "Hellmuth's latest pursuit of a maiden WPT title ended in a coin flip.",
+          "con_extracto": true
+        },
+        {
+          "n": 10,
+          "fuente": "PokerNews Brasil",
+          "url": "https://br.pokernews.com/noticias/2026/11/phil-hellmuth-wpt-venetian-68076.htm",
+          "titular": "Phil Hellmuth cai em reta final no Venetian e segue sem título do WPT; confira",
+          "primera_frase": "O \"Poker Brat\" perdeu um coin flip que o colocaria de volta no jogo"
+        },
+        {
+          "n": 11,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/poker-player-roger-sippl-passes-away-52772.htm",
+          "titular": "'Serial Entrepreneur,' High Stakes Poker Player Roger Sippl Passes Away",
+          "primera_frase": "Sippl appeared multiple times on High Stakes Poker.",
+          "con_extracto": true
+        },
+        {
+          "n": 12,
+          "fuente": "PokerNews",
+          "url": "https://www.pokernews.com/news/2026/11/aces-vs-ace-king-vs-queens-deep-in-5k-poker-tournament-52770.htm",
+          "titular": "Poker Vlogger's Aces Hold in Huge Three-Way Cooler Deep in $5K Tournament",
+          "primera_frase": "Eric Tsai's aces beat ace-king and queens in a massive Triton ONE Mystery Bounty pot.",
+          "con_extracto": true
+        },
+        {
+          "n": 13,
+          "fuente": "PokerListings",
+          "url": "https://www.pokerlistings.com/news/mystery-bounty-is-live-on-coinpoker",
+          "titular": "Mystery Bounty Is Live on CoinPoker",
+          "primera_frase": "Keeping pace with trends in the poker industry, the fastest-growing poker room of the 2020s has decided to offer players a format that has already proven popular: Mystery Bounty tournaments.…",
+          "con_extracto": true
+        },
+        {
+          "n": 14,
+          "fuente": "Poker Industry PRO",
+          "url": "https://pokerindustrypro.com/news/article/226299-ipoker-launches-progressive-mystery-bounty",
+          "titular": "iPoker Launches Progressive Mystery Bounty Tournaments in Southern Europe",
+          "primera_frase": "iPoker has launched progressive mystery bounty tournaments on its Southern European network."
+        },
+        {
+          "n": 15,
+          "fuente": "PokerNews en español",
+          "url": "https://es.pokernews.com/noticias/2026/11/el-cep-por-pokerstars-coronara-a-su-campeon-en-peralada-54242.htm",
+          "titular": "El CEP por PokerStars coronará a su campeón de España en Peralada del 25 al 29 de noviembre",
+          "primera_frase": "Casino Peralada acogerá la gran final del CEP en el año de su 20.º aniversario.",
+          "con_extracto": true
+        },
+        {
+          "n": 16,
+          "fuente": "Poker Noticias",
+          "url": "https://pokernoticias.com/gaspar-fernandez-y-shawn-beaupre-lideran-el-mystery-bounty-de-la-wsopc-panama/",
+          "titular": "Gaspar Fernández y Shawn Beaupré lideran el Mystery Bounty de la WSOPC Panamá",
+          "primera_frase": "El Mystery Bounty de la WSOP Circuit Panamá 2026 ya tiene a sus protagonistas para la siguiente etapa.",
+          "con_extracto": true
+        },
+        {
+          "n": 17,
+          "fuente": "PokerNews Brasil",
+          "url": "https://br.pokernews.com/noticias/2026/11/leonardo-alcantara-dobradinha-ggpoker-68070.htm",
+          "titular": "Leonardo Alcântara é destaque com dobradinha brasileira na GGPoker; confira",
+          "primera_frase": "O jogador superou Emmanuel de Sousa no heads-up",
+          "con_extracto": true
+        },
+        {
+          "n": 18,
+          "fuente": "PokerNews en español",
+          "url": "https://es.pokernews.com/noticias/2026/11/mario-diaz-se-queda-a-las-puertas-del-podio-del-ggmasters-hi-54238.htm",
+          "titular": "Mario Díaz se queda a las puertas del podio del GGMasters High Rollers y gana 58.305 $",
+          "primera_frase": "El español terminó 4º entre 783 entradas en el torneo de 1.050 $ de GGPoker.",
+          "con_extracto": true
+        },
+        {
+          "n": 19,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/mario-diaz-termina-cuarto-en-el-ggmasters-high-rollers-por-58.305-USD",
+          "titular": "Mario Díaz termina cuarto en el GGMasters High Rollers por 58.305 $",
+          "primera_frase": "Pinchazos .com"
+        },
+        {
+          "n": 20,
+          "fuente": "PokerNews en español",
+          "url": "https://es.pokernews.com/noticias/2026/11/alex-y-kristen-foxen-se-asocian-con-solana-de-cara-a-las-wso-54233.htm",
+          "titular": "Alex y Kristen Foxen se asocian con Solana de cara a las WSOP Paradise",
+          "primera_frase": "La pareja de jugadores se une a Solana para facilitar las inscripciones con criptomonedas en las WSOP.",
+          "con_extracto": true
+        },
+        {
+          "n": 21,
+          "fuente": "Poker Red",
+          "url": "https://www.poker-red.com/noticias/alex-y-kristen-foxen-se-unen-a-solana-antes-de-wsop-paradise",
+          "titular": "Alex y Kristen Foxen se unen a Solana antes de WSOP Paradise",
+          "primera_frase": "WSOP Paradise 2026"
+        },
+        {
+          "n": 22,
+          "fuente": "PokerNewsDaily",
+          "url": "https://www.pokernewsdaily.com/foxens-partner-solana-crypto-buyins-wsop-49258/",
+          "titular": "Alex and Kristen Foxen Carry Bracelet Momentum Into WSOP Paradise at Baha Mar",
+          "primera_frase": "Alex and Kristen Foxen are heading into WSOP Paradise carrying fresh bracelet wins, according to PokerNews.",
+          "con_extracto": true
+        },
+        {
+          "n": 23,
+          "fuente": "Poker Industry PRO",
+          "url": "https://pokerindustrypro.com/news/article/226274-oklahoma-sweepstakes-ban-clubs-poker-global-and",
+          "titular": "Oklahoma Sweepstakes Ban: Clubs Poker, Global and Stake Exit Market",
+          "primera_frase": "Oklahoma’s ban on online sweepstakes gaming took effect on November 1, and three of the four main sweepstakes poker operators had already pulled back from the state."
+        }
+      ],
+      "tipo": "redaccion"
+    }
+  ]
+}
